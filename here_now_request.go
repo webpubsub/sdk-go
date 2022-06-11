@@ -11,7 +11,7 @@ import (
 	"net/url"
 	"strings"
 
-	"github.com/webpubsub/go/v7/pnerr"
+	"github.com/webpubsub/sdk-go/v7/pnerr"
 )
 
 var hereNowPath = "/v2/presence/sub_key/%s/channel/%s"

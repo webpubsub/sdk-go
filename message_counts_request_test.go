@@ -5,7 +5,7 @@ import (
 	"testing"
 
 	"github.com/stretchr/testify/assert"
-	h "github.com/webpubsub/go/v7/tests/helpers"
+	h "github.com/webpubsub/sdk-go/v7/tests/helpers"
 )
 
 func AssertSuccessMessageCountsGet(t *testing.T, expectedString string, channels []string, timetoken int64, channelsTimetoken []int64) {

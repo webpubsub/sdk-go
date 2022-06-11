@@ -6,7 +6,7 @@ import (
 	"time"
 
 	a "github.com/stretchr/testify/assert"
-	webpubsub "github.com/webpubsub/go/v7"
+	webpubsub "github.com/webpubsub/sdk-go/v7"
 )
 
 func MatchMessageCounts(ret *webpubsub.MessageCountsResponse, count1, count2 int, ch1, ch2 string, assert *a.Assertions) {

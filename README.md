@@ -1,9 +1,9 @@
 # WebPubSub Go SDK
 
-[![GoDoc](https://godoc.org/github.com/webpubsub/go?status.svg)](https://godoc.org/github.com/webpubsub/go)
+[![GoDoc](https://godoc.org/github.com/webpubsub/sdk-go?status.svg)](https://godoc.org/github.com/webpubsub/sdk-go)
 [![Build Status](https://travis-ci.com/webpubsub/go.svg?branch=master)](https://travis-ci.com/webpubsub/go)
 [![codecov.io](https://codecov.io/github/webpubsub/go/coverage.svg)](https://codecov.io/github/webpubsub/go)
-[![Go Report Card](https://goreportcard.com/badge/github.com/webpubsub/go)](https://goreportcard.com/report/github.com/webpubsub/go)
+[![Go Report Card](https://goreportcard.com/badge/github.com/webpubsub/sdk-go)](https://goreportcard.com/report/github.com/webpubsub/sdk-go)
 
 This is the official WebPubSub Go SDK repository.
 
@@ -22,7 +22,7 @@ You will need the publish and subscribe keys to authenticate your app. Get your 
 1. Integrate WebPubSub into your project using the `go` command:
 
     ```go
-    go get github.com/webpubsub/go
+    go get github.com/webpubsub/sdk-go
     ```
 
     If you encounter dependency issues, use the `dep ensure` command to resolve them.

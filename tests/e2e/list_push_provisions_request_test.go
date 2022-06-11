@@ -3,7 +3,7 @@ package e2e
 import (
 	"testing"
 
-	webpubsub "github.com/webpubsub/go/v7"
+	webpubsub "github.com/webpubsub/sdk-go/v7"
 
 	"github.com/stretchr/testify/assert"
 )

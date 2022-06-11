@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"reflect"
 
-	webpubsub "github.com/webpubsub/go/v7"
+	webpubsub "github.com/webpubsub/sdk-go/v7"
 )
 
 func theTTL(ctx context.Context, arg1 int) error {

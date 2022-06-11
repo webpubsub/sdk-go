@@ -683,7 +683,7 @@ features:
     - SIGNAL-SEND  
 name: go
 schema: 1
-scm: github.com/webpubsub/go
+scm: github.com/webpubsub/sdk-go
 supported-platforms: 
   - 
     editors: 
@@ -707,14 +707,14 @@ sdks:
         tier: 1
         tags:
           - Server
-        source-repository: https://github.com/webpubsub/go
+        source-repository: https://github.com/webpubsub/sdk-go
         documentation: https://www.webpubsub.com/docs/sdks/go
         distributions:
           -
             distribution-type: package
             distribution-repository: GitHub
             package-name: Go
-            location: https://github.com/webpubsub/go/releases/tag/v7.0.3
+            location: https://github.com/webpubsub/sdk-go/releases/tag/v7.0.3
             requires:
               -
                 name: "Go"

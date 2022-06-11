@@ -6,7 +6,7 @@ import (
 	"testing"
 
 	"github.com/stretchr/testify/assert"
-	h "github.com/webpubsub/go/v7/tests/helpers"
+	h "github.com/webpubsub/sdk-go/v7/tests/helpers"
 )
 
 func AssertSuccessFireGet(t *testing.T, expectedString string, message interface{}) {

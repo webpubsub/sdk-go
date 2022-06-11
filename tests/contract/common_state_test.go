@@ -1,6 +1,6 @@
 package contract
 
-import webpubsub "github.com/webpubsub/go/v7"
+import webpubsub "github.com/webpubsub/sdk-go/v7"
 
 type commonStateKey struct{}
 

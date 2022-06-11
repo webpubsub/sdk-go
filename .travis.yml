@@ -1,4 +1,4 @@
-go_import_path: github.com/webpubsub/go/v7
+go_import_path: github.com/webpubsub/sdk-go/v7
 dist: xenial
 language: go
 os: linux

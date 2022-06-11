@@ -9,7 +9,7 @@ import (
 	"net/url"
 	"time"
 
-	"github.com/webpubsub/go/v7/tests/helpers"
+	"github.com/webpubsub/sdk-go/v7/tests/helpers"
 )
 
 type Interceptor struct {

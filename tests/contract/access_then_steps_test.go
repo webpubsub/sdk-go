@@ -5,7 +5,7 @@ import (
 	"fmt"
 
 	"github.com/cucumber/godog"
-	webpubsub "github.com/webpubsub/go/v7"
+	webpubsub "github.com/webpubsub/sdk-go/v7"
 )
 
 func theTokenContainsTheTTL(ctx context.Context, expectedTTL int) error {

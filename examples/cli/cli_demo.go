@@ -14,7 +14,7 @@ import (
 	"strconv"
 	"strings"
 
-	webpubsub "github.com/webpubsub/go/v7"
+	webpubsub "github.com/webpubsub/sdk-go/v7"
 
 	"net/http"
 	_ "net/http/pprof"

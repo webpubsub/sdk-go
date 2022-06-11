@@ -7,9 +7,9 @@ import (
 	"time"
 
 	"github.com/stretchr/testify/assert"
-	webpubsub "github.com/webpubsub/go/v7"
-	"github.com/webpubsub/go/v7/pnerr"
-	"github.com/webpubsub/go/v7/tests/stubs"
+	webpubsub "github.com/webpubsub/sdk-go/v7"
+	"github.com/webpubsub/sdk-go/v7/pnerr"
+	"github.com/webpubsub/sdk-go/v7/tests/stubs"
 )
 
 const respSuccess = `[1,"Sent","14981595400555832"]`

@@ -10,7 +10,7 @@ import (
 
 	//"time"
 
-	webpubsub "github.com/webpubsub/go/v7"
+	webpubsub "github.com/webpubsub/sdk-go/v7"
 )
 
 // import _ "net/http/pprof"

@@ -9,8 +9,8 @@ import (
 	"time"
 
 	"github.com/stretchr/testify/assert"
-	webpubsub "github.com/webpubsub/go/v7"
-	"github.com/webpubsub/go/v7/tests/stubs"
+	webpubsub "github.com/webpubsub/sdk-go/v7"
+	"github.com/webpubsub/sdk-go/v7/tests/stubs"
 )
 
 func TestGrantObjectsUUIDGetTTLSucccess(t *testing.T) {

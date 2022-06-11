@@ -1,6 +1,6 @@
 package main
 
-import webpubsub "github.com/webpubsub/go/v7"
+import webpubsub "github.com/webpubsub/sdk-go/v7"
 
 func main() {
 	config := webpubsub.NewConfig(webpubsub.GenerateUUID())

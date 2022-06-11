@@ -10,8 +10,8 @@ import (
 	"net/http"
 	"net/url"
 
-	"github.com/webpubsub/go/v7/pnerr"
-	"github.com/webpubsub/go/v7/utils"
+	"github.com/webpubsub/sdk-go/v7/pnerr"
+	"github.com/webpubsub/sdk-go/v7/utils"
 )
 
 const revokeTokenPath = "/v3/pam/%s/grant/%s"

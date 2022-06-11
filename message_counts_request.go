@@ -12,8 +12,8 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/webpubsub/go/v7/pnerr"
-	"github.com/webpubsub/go/v7/utils"
+	"github.com/webpubsub/sdk-go/v7/pnerr"
+	"github.com/webpubsub/sdk-go/v7/utils"
 
 	"net/http"
 	"net/url"

@@ -16,8 +16,8 @@ import (
 	"time"
 
 	"github.com/stretchr/testify/assert"
-	webpubsub "github.com/webpubsub/go/v7"
-	"github.com/webpubsub/go/v7/utils"
+	webpubsub "github.com/webpubsub/sdk-go/v7"
+	"github.com/webpubsub/sdk-go/v7/utils"
 )
 
 func processInterface(in interface{}) {

@@ -11,7 +11,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/webpubsub/go/v7/utils"
+	"github.com/webpubsub/sdk-go/v7/utils"
 )
 
 // SubscriptionManager Events:

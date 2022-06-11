@@ -8,7 +8,7 @@ import (
 	"runtime"
 	"sync"
 
-	"github.com/webpubsub/go/v7/utils"
+	"github.com/webpubsub/sdk-go/v7/utils"
 )
 
 // Default constants

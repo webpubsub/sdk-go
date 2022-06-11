@@ -1,4 +1,4 @@
-module github.com/webpubsub/go/v7
+module github.com/webpubsub/sdk-go/v7
 
 go 1.16
 

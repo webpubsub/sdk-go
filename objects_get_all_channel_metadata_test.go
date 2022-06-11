@@ -7,8 +7,8 @@ import (
 	"testing"
 
 	"github.com/stretchr/testify/assert"
-	h "github.com/webpubsub/go/v7/tests/helpers"
-	"github.com/webpubsub/go/v7/utils"
+	h "github.com/webpubsub/sdk-go/v7/tests/helpers"
+	"github.com/webpubsub/sdk-go/v7/utils"
 )
 
 func AssertGetAllChannelMetadata(t *testing.T, checkQueryParam, testContext, withFilter bool, withSort bool) {

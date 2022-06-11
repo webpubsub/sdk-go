@@ -5,7 +5,7 @@ import (
 	"time"
 
 	"github.com/stretchr/testify/assert"
-	"github.com/webpubsub/go/v7/tests/stubs"
+	"github.com/webpubsub/sdk-go/v7/tests/stubs"
 )
 
 func TestExponentialExhaustion(t *testing.T) {

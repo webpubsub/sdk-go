@@ -10,7 +10,7 @@ import (
 	"net/url"
 	"time"
 
-	"github.com/webpubsub/go/v7/pnerr"
+	"github.com/webpubsub/sdk-go/v7/pnerr"
 )
 
 // StatusResponse is used to store the usable properties in the response of an request.

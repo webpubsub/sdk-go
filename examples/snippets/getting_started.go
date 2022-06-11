@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"sync"
 
-	webpubsub "github.com/webpubsub/go/v7"
+	webpubsub "github.com/webpubsub/sdk-go/v7"
 )
 
 var pn *webpubsub.WebPubSub

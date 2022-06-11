@@ -36,32 +36,32 @@ November 24 2021
 #### Fixed
 - Fix edge case in Fetch response when filesPayload message is nil.
 
-## [v6.0.1](https://github.com/webpubsub/go/releases/tag/v6.0.1)
+## [v6.0.1](https://github.com/webpubsub/sdk-go/releases/tag/v6.0.1)
 October-13-2021
 
 #### Fixed
 - Using correct major version number in imports. 
 
-## [v6.0.0](https://github.com/webpubsub/go/releases/tag/v6.0.0)
+## [v6.0.0](https://github.com/webpubsub/sdk-go/releases/tag/v6.0.0)
 October-12-2021
 
 #### Added
 - Add grantToken functionality (PAMv3). Method grantToken has been added. It allows generation of signed token with permissions for channels and channel groups. 
 - Acceptance tests plugged into CI pipeline. 
 
-## [v5.0.3](https://github.com/webpubsub/go/releases/tag/v5.0.3)
+## [v5.0.3](https://github.com/webpubsub/sdk-go/releases/tag/v5.0.3)
 June-1-2021
 
 #### Fixed
 - Bump version. 
 
-## [v5.0.2](https://github.com/webpubsub/go/releases/tag/v5.0.2)
+## [v5.0.2](https://github.com/webpubsub/sdk-go/releases/tag/v5.0.2)
 May-27-2021
 
 #### Fixed
 - Go mod file fix. 
 
-## [v5.0.0](https://github.com/webpubsub/go/releases/tag/v5.0.0)
+## [v5.0.0](https://github.com/webpubsub/sdk-go/releases/tag/v5.0.0)
 May-27-2021
 
 #### Added
@@ -74,7 +74,7 @@ May-27-2021
 #### Fixed
 - Presence event occupancy field parsed incorrectly. 
 
-## [v4.10.0](https://github.com/webpubsub/go/releases/tag/v4.10.0)
+## [v4.10.0](https://github.com/webpubsub/sdk-go/releases/tag/v4.10.0)
 November-2-2020
 
 #### Added
@@ -88,14 +88,14 @@ November-2-2020
 #### Fixed
 - Read Publish File Message retry count from config. 
 
-## [v4.9.1](https://github.com/webpubsub/go/releases/tag/v4.9.1)
+## [v4.9.1](https://github.com/webpubsub/sdk-go/releases/tag/v4.9.1)
 October-1-2020
 
 #### Fixed
 - Fix for a deadlock on destroy. 
 - Fetch response nil check. 
 
-## [v4.9.0](https://github.com/webpubsub/go/releases/tag/v4.9.0)
+## [v4.9.0](https://github.com/webpubsub/sdk-go/releases/tag/v4.9.0)
 August-11-2020
 
 #### Added
@@ -104,7 +104,7 @@ August-11-2020
 #### Modified
 - WPSPublishMessage struct changes, PublishFile enhancements. 
 
-## [v4.8.0](https://github.com/webpubsub/go/releases/tag/v4.8.0)
+## [v4.8.0](https://github.com/webpubsub/sdk-go/releases/tag/v4.8.0)
 July-24-2020
 
 #### Added
@@ -116,72 +116,72 @@ July-24-2020
 #### Fixed
 - BREAKING CHANGE: runes to string converion now returns string, this mostly affect the validation responses. This makes the SDK compatible with Go 1.15. 
 
-## [v4.7.0](https://github.com/webpubsub/go/releases/tag/v4.7.0)
+## [v4.7.0](https://github.com/webpubsub/sdk-go/releases/tag/v4.7.0)
 June-10-2020
 
 #### Added
 - BREAKING CHANGE: This version does not support Objects v1 (beta). 
 
-## [v4.6.6](https://github.com/webpubsub/go/tree/v4.6.6)
+## [v4.6.6](https://github.com/webpubsub/sdk-go/tree/v4.6.6)
   Apr-9-2020 
 
-## [v4.6.5](https://github.com/webpubsub/go/tree/v4.6.5)
+## [v4.6.5](https://github.com/webpubsub/sdk-go/tree/v4.6.5)
   March-26-2020 
 
-## [v4.6.4](https://github.com/webpubsub/go/tree/v4.6.4)
+## [v4.6.4](https://github.com/webpubsub/sdk-go/tree/v4.6.4)
   February-5-2020 
 
-## [v4.6.3](https://github.com/webpubsub/go/tree/v4.6.3)
+## [v4.6.3](https://github.com/webpubsub/sdk-go/tree/v4.6.3)
   January-28-2020 
 
-## [v4.6.2](https://github.com/webpubsub/go/tree/v4.6.2)
+## [v4.6.2](https://github.com/webpubsub/sdk-go/tree/v4.6.2)
   January-22-2020 
 
-## [v4.6.1](https://github.com/webpubsub/go/tree/v4.6.1)
+## [v4.6.1](https://github.com/webpubsub/sdk-go/tree/v4.6.1)
   January-3-2020 
 
-## [v4.6.0](https://github.com/webpubsub/go/tree/v4.6.0)
+## [v4.6.0](https://github.com/webpubsub/sdk-go/tree/v4.6.0)
   December-17-2019
 
-## [v4.5.2](https://github.com/webpubsub/go/tree/v4.5.2)
+## [v4.5.2](https://github.com/webpubsub/sdk-go/tree/v4.5.2)
   November-27-2019
 
-## [v4.5.1](https://github.com/webpubsub/go/tree/v4.5.1)
+## [v4.5.1](https://github.com/webpubsub/sdk-go/tree/v4.5.1)
   October-16-2019
 
-## [v4.5.0](https://github.com/webpubsub/go/tree/v4.5.0)
+## [v4.5.0](https://github.com/webpubsub/sdk-go/tree/v4.5.0)
   October-8-2019
 
-## [v4.4.0](https://github.com/webpubsub/go/tree/v4.4.0)
+## [v4.4.0](https://github.com/webpubsub/sdk-go/tree/v4.4.0)
   October-7-2019
 
-## [v4.3.1](https://github.com/webpubsub/go/tree/v4.3.1)
+## [v4.3.1](https://github.com/webpubsub/sdk-go/tree/v4.3.1)
   October-2-2019
 
-## [v4.3.0](https://github.com/webpubsub/go/tree/v4.3.0)
+## [v4.3.0](https://github.com/webpubsub/sdk-go/tree/v4.3.0)
   Septempber-23-2019
 
-## [v4.2.7](https://github.com/webpubsub/go/tree/v4.2.7)
+## [v4.2.7](https://github.com/webpubsub/sdk-go/tree/v4.2.7)
   August-28-2019
 
 - Add Objects method features
 
-## [v4.0.0-beta.5](https://github.com/webpubsub/go/tree/v4.0.0-beta.5)
+## [v4.0.0-beta.5](https://github.com/webpubsub/sdk-go/tree/v4.0.0-beta.5)
   January-9-2018
 
 - Add subscribe builder
 
-## [v4.0.0-beta.4](https://github.com/webpubsub/go/tree/v4.0.0-beta.4)
+## [v4.0.0-beta.4](https://github.com/webpubsub/sdk-go/tree/v4.0.0-beta.4)
  December-20-2017
 
 - Add Telemetry Manager
 
-## [v4.0.0-beta.3](https://github.com/webpubsub/go/tree/v4.0.0-beta.3)
+## [v4.0.0-beta.3](https://github.com/webpubsub/sdk-go/tree/v4.0.0-beta.3)
  December-20-2017
 
 - Add Destroy() method
 
-## [v4.0.0-beta.2](https://github.com/webpubsub/go/tree/v4.0.0-beta.2)
+## [v4.0.0-beta.2](https://github.com/webpubsub/sdk-go/tree/v4.0.0-beta.2)
  November-7-2017
 
 - Add reconnection manager
@@ -190,7 +190,7 @@ June-10-2020
 - Rename channel group methods
 - Fix signature generation
 
-## [v4.0.0-beta](https://github.com/webpubsub/go/tree/v4.0.0-beta)
+## [v4.0.0-beta](https://github.com/webpubsub/sdk-go/tree/v4.0.0-beta)
  October-4-2017
 
 - Beta release

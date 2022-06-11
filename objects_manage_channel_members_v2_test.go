@@ -7,8 +7,8 @@ import (
 	"testing"
 
 	"github.com/stretchr/testify/assert"
-	h "github.com/webpubsub/go/v7/tests/helpers"
-	"github.com/webpubsub/go/v7/utils"
+	h "github.com/webpubsub/sdk-go/v7/tests/helpers"
+	"github.com/webpubsub/sdk-go/v7/utils"
 )
 
 func AssertManageMembersV2(t *testing.T, checkQueryParam, testContext bool, withFilter bool, withSort bool) {
