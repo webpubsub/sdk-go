@@ -1,0 +1,9 @@
+{
+  ".webpubsub.yml": [
+    { "pattern": "^version: (.+)$", "cleared": false },
+    { "pattern": "\/releases\/tag\/(v?(\\d+\\.?){2,}([a-zA-Z-]+(\\.?\\d+)?)?)", "cleared": false }
+  ],
+  "webpubsub.go": [
+    { "pattern": "Version = \"(.*)\"", "cleared": true }
+  ]
+}

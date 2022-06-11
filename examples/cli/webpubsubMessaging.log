@@ -1,0 +1,1009 @@
+WebPubSub :->  2022/06/12 03:45:52 webpubsub.go:755: WebPubSub Go v4 SDK: 7.0.3
+pnconf: &{{{0 0} 0 0 0 0} demo demo   localhost:11443 pn-6b888324-dbb2-4ab7-b8bc-b40db88d2cf8 enigma false 10 10 310 60 0 0 50 60  3 0xc000088870 false false false 100 30 20 true true 5 true}
+go1.18.3
+amd64
+darwin
+WebPubSub :->  2022/06/12 03:45:52 webpubsub.go:778: Init RequestWorkers: workers 20
+WebPubSub :->  2022/06/12 03:45:52 request_workers.go:80: Start: Running with workers  20
+WebPubSub :->  2022/06/12 03:45:52 request_workers.go:83: Start: StartNonSubWorker  0
+WebPubSub :->  2022/06/12 03:45:52 request_workers.go:83: Start: StartNonSubWorker  1
+WebPubSub :->  2022/06/12 03:45:52 request_workers.go:83: Start: StartNonSubWorker  2
+WebPubSub :->  2022/06/12 03:45:52 request_workers.go:83: Start: StartNonSubWorker  3
+WebPubSub :->  2022/06/12 03:45:52 request_workers.go:83: Start: StartNonSubWorker  4
+WebPubSub :->  2022/06/12 03:45:52 request_workers.go:83: Start: StartNonSubWorker  5
+WebPubSub :->  2022/06/12 03:45:52 request_workers.go:83: Start: StartNonSubWorker  6
+WebPubSub :->  2022/06/12 03:45:52 request_workers.go:83: Start: StartNonSubWorker  7
+WebPubSub :->  2022/06/12 03:45:52 request_workers.go:83: Start: StartNonSubWorker  8
+WebPubSub :->  2022/06/12 03:45:52 request_workers.go:83: Start: StartNonSubWorker  9
+WebPubSub :->  2022/06/12 03:45:52 request_workers.go:83: Start: StartNonSubWorker  10
+WebPubSub :->  2022/06/12 03:45:52 request_workers.go:83: Start: StartNonSubWorker  11
+WebPubSub :->  2022/06/12 03:45:52 request_workers.go:83: Start: StartNonSubWorker  12
+WebPubSub :->  2022/06/12 03:45:52 request_workers.go:83: Start: StartNonSubWorker  13
+WebPubSub :->  2022/06/12 03:45:52 request_workers.go:83: Start: StartNonSubWorker  14
+WebPubSub :->  2022/06/12 03:45:52 request_workers.go:83: Start: StartNonSubWorker  15
+WebPubSub :->  2022/06/12 03:45:52 request_workers.go:83: Start: StartNonSubWorker  16
+WebPubSub :->  2022/06/12 03:45:52 request_workers.go:83: Start: StartNonSubWorker  17
+WebPubSub :->  2022/06/12 03:45:52 request_workers.go:83: Start: StartNonSubWorker  18
+WebPubSub :->  2022/06/12 03:45:52 request_workers.go:83: Start: StartNonSubWorker  19
+WebPubSub :->  2022/06/12 03:49:50 webpubsub.go:755: WebPubSub Go v4 SDK: 7.0.3
+pnconf: &{{{0 0} 0 0 0 0} demo demo   localhost:11443 pn-bdb7fd56-cc95-4024-a7db-aff986ce9e28 enigma false 10 10 310 60 0 0 50 60  3 0xc000116870 false false false 100 30 20 true true 5 true}
+go1.18.3
+amd64
+darwin
+WebPubSub :->  2022/06/12 03:49:50 webpubsub.go:778: Init RequestWorkers: workers 20
+WebPubSub :->  2022/06/12 03:49:50 request_workers.go:80: Start: Running with workers  20
+WebPubSub :->  2022/06/12 03:49:50 request_workers.go:83: Start: StartNonSubWorker  0
+WebPubSub :->  2022/06/12 03:49:50 request_workers.go:83: Start: StartNonSubWorker  1
+WebPubSub :->  2022/06/12 03:49:50 request_workers.go:83: Start: StartNonSubWorker  2
+WebPubSub :->  2022/06/12 03:49:50 request_workers.go:83: Start: StartNonSubWorker  3
+WebPubSub :->  2022/06/12 03:49:50 request_workers.go:83: Start: StartNonSubWorker  4
+WebPubSub :->  2022/06/12 03:49:50 request_workers.go:83: Start: StartNonSubWorker  5
+WebPubSub :->  2022/06/12 03:49:50 request_workers.go:83: Start: StartNonSubWorker  6
+WebPubSub :->  2022/06/12 03:49:50 request_workers.go:83: Start: StartNonSubWorker  7
+WebPubSub :->  2022/06/12 03:49:50 request_workers.go:83: Start: StartNonSubWorker  8
+WebPubSub :->  2022/06/12 03:49:50 request_workers.go:83: Start: StartNonSubWorker  9
+WebPubSub :->  2022/06/12 03:49:50 request_workers.go:83: Start: StartNonSubWorker  10
+WebPubSub :->  2022/06/12 03:49:50 request_workers.go:83: Start: StartNonSubWorker  11
+WebPubSub :->  2022/06/12 03:49:50 request_workers.go:83: Start: StartNonSubWorker  12
+WebPubSub :->  2022/06/12 03:49:50 request_workers.go:83: Start: StartNonSubWorker  13
+WebPubSub :->  2022/06/12 03:49:50 request_workers.go:83: Start: StartNonSubWorker  14
+WebPubSub :->  2022/06/12 03:49:50 request_workers.go:83: Start: StartNonSubWorker  15
+WebPubSub :->  2022/06/12 03:49:50 request_workers.go:83: Start: StartNonSubWorker  16
+WebPubSub :->  2022/06/12 03:49:50 request_workers.go:83: Start: StartNonSubWorker  17
+WebPubSub :->  2022/06/12 03:49:50 request_workers.go:83: Start: StartNonSubWorker  18
+WebPubSub :->  2022/06/12 03:49:50 request_workers.go:83: Start: StartNonSubWorker  19
+WebPubSub :->  2022/06/12 03:56:31 webpubsub.go:755: WebPubSub Go v4 SDK: 7.0.3
+pnconf: &{{{0 0} 0 0 0 0} demo demo   localhost:11443 pn-37ae5780-7f70-4cda-95ca-9eabecf97b05 enigma false 10 10 310 60 0 0 50 60  3 0xc0001c0820 false false false 100 30 20 true true 5 true}
+go1.18.3
+amd64
+darwin
+WebPubSub :->  2022/06/12 03:56:31 webpubsub.go:778: Init RequestWorkers: workers 20
+WebPubSub :->  2022/06/12 03:56:31 request_workers.go:80: Start: Running with workers  20
+WebPubSub :->  2022/06/12 03:56:31 request_workers.go:83: Start: StartNonSubWorker  0
+WebPubSub :->  2022/06/12 03:56:31 request_workers.go:83: Start: StartNonSubWorker  1
+WebPubSub :->  2022/06/12 03:56:31 request_workers.go:83: Start: StartNonSubWorker  2
+WebPubSub :->  2022/06/12 03:56:31 request_workers.go:83: Start: StartNonSubWorker  3
+WebPubSub :->  2022/06/12 03:56:31 request_workers.go:83: Start: StartNonSubWorker  4
+WebPubSub :->  2022/06/12 03:56:31 request_workers.go:83: Start: StartNonSubWorker  5
+WebPubSub :->  2022/06/12 03:56:31 request_workers.go:83: Start: StartNonSubWorker  6
+WebPubSub :->  2022/06/12 03:56:31 request_workers.go:83: Start: StartNonSubWorker  7
+WebPubSub :->  2022/06/12 03:56:31 request_workers.go:83: Start: StartNonSubWorker  8
+WebPubSub :->  2022/06/12 03:56:31 request_workers.go:83: Start: StartNonSubWorker  9
+WebPubSub :->  2022/06/12 03:56:31 request_workers.go:83: Start: StartNonSubWorker  10
+WebPubSub :->  2022/06/12 03:56:31 request_workers.go:83: Start: StartNonSubWorker  11
+WebPubSub :->  2022/06/12 03:56:31 request_workers.go:83: Start: StartNonSubWorker  12
+WebPubSub :->  2022/06/12 03:56:31 request_workers.go:83: Start: StartNonSubWorker  13
+WebPubSub :->  2022/06/12 03:56:31 request_workers.go:83: Start: StartNonSubWorker  14
+WebPubSub :->  2022/06/12 03:56:31 request_workers.go:83: Start: StartNonSubWorker  15
+WebPubSub :->  2022/06/12 03:56:31 request_workers.go:83: Start: StartNonSubWorker  16
+WebPubSub :->  2022/06/12 03:56:31 request_workers.go:83: Start: StartNonSubWorker  17
+WebPubSub :->  2022/06/12 03:56:31 request_workers.go:83: Start: StartNonSubWorker  18
+WebPubSub :->  2022/06/12 03:56:31 request_workers.go:83: Start: StartNonSubWorker  19
+WebPubSub :->  2022/06/12 03:57:27 webpubsub.go:755: WebPubSub Go v4 SDK: 7.0.3
+pnconf: &{{{0 0} 0 0 0 0} demo demo   localhost:11443 pn-06f58e92-7d5f-4850-b91a-d2e65123b930 enigma false 10 10 310 60 0 0 50 60  3 0xc000088870 false false false 100 30 20 true true 5 true}
+go1.18.3
+amd64
+darwin
+WebPubSub :->  2022/06/12 03:57:27 webpubsub.go:778: Init RequestWorkers: workers 20
+WebPubSub :->  2022/06/12 03:57:27 request_workers.go:80: Start: Running with workers  20
+WebPubSub :->  2022/06/12 03:57:27 request_workers.go:83: Start: StartNonSubWorker  0
+WebPubSub :->  2022/06/12 03:57:27 request_workers.go:83: Start: StartNonSubWorker  1
+WebPubSub :->  2022/06/12 03:57:27 request_workers.go:83: Start: StartNonSubWorker  2
+WebPubSub :->  2022/06/12 03:57:27 request_workers.go:83: Start: StartNonSubWorker  3
+WebPubSub :->  2022/06/12 03:57:27 request_workers.go:83: Start: StartNonSubWorker  4
+WebPubSub :->  2022/06/12 03:57:27 request_workers.go:83: Start: StartNonSubWorker  5
+WebPubSub :->  2022/06/12 03:57:27 request_workers.go:83: Start: StartNonSubWorker  6
+WebPubSub :->  2022/06/12 03:57:27 request_workers.go:83: Start: StartNonSubWorker  7
+WebPubSub :->  2022/06/12 03:57:27 request_workers.go:83: Start: StartNonSubWorker  8
+WebPubSub :->  2022/06/12 03:57:27 request_workers.go:83: Start: StartNonSubWorker  9
+WebPubSub :->  2022/06/12 03:57:27 request_workers.go:83: Start: StartNonSubWorker  10
+WebPubSub :->  2022/06/12 03:57:27 request_workers.go:83: Start: StartNonSubWorker  11
+WebPubSub :->  2022/06/12 03:57:27 request_workers.go:83: Start: StartNonSubWorker  12
+WebPubSub :->  2022/06/12 03:57:27 request_workers.go:83: Start: StartNonSubWorker  13
+WebPubSub :->  2022/06/12 03:57:27 request_workers.go:83: Start: StartNonSubWorker  14
+WebPubSub :->  2022/06/12 03:57:27 request_workers.go:83: Start: StartNonSubWorker  15
+WebPubSub :->  2022/06/12 03:57:27 request_workers.go:83: Start: StartNonSubWorker  16
+WebPubSub :->  2022/06/12 03:57:27 request_workers.go:83: Start: StartNonSubWorker  17
+WebPubSub :->  2022/06/12 03:57:27 request_workers.go:83: Start: StartNonSubWorker  18
+WebPubSub :->  2022/06/12 03:57:27 request_workers.go:83: Start: StartNonSubWorker  19
+WebPubSub :->  2022/06/12 03:58:31 webpubsub.go:755: WebPubSub Go v4 SDK: 7.0.3
+pnconf: &{{{0 0} 0 0 0 0} demo demo   localhost:11443 pn-749daf52-2e05-4977-a1b4-b40d32af71d5 enigma false 10 10 310 60 0 0 50 60  3 0xc000088870 false false false 100 30 20 true true 5 true}
+go1.18.3
+amd64
+darwin
+WebPubSub :->  2022/06/12 03:58:31 webpubsub.go:778: Init RequestWorkers: workers 20
+WebPubSub :->  2022/06/12 03:58:31 request_workers.go:80: Start: Running with workers  20
+WebPubSub :->  2022/06/12 03:58:31 request_workers.go:83: Start: StartNonSubWorker  0
+WebPubSub :->  2022/06/12 03:58:31 request_workers.go:83: Start: StartNonSubWorker  1
+WebPubSub :->  2022/06/12 03:58:31 request_workers.go:83: Start: StartNonSubWorker  2
+WebPubSub :->  2022/06/12 03:58:31 request_workers.go:83: Start: StartNonSubWorker  3
+WebPubSub :->  2022/06/12 03:58:31 request_workers.go:83: Start: StartNonSubWorker  4
+WebPubSub :->  2022/06/12 03:58:31 request_workers.go:83: Start: StartNonSubWorker  5
+WebPubSub :->  2022/06/12 03:58:31 request_workers.go:83: Start: StartNonSubWorker  6
+WebPubSub :->  2022/06/12 03:58:31 request_workers.go:83: Start: StartNonSubWorker  7
+WebPubSub :->  2022/06/12 03:58:31 request_workers.go:83: Start: StartNonSubWorker  8
+WebPubSub :->  2022/06/12 03:58:31 request_workers.go:83: Start: StartNonSubWorker  9
+WebPubSub :->  2022/06/12 03:58:31 request_workers.go:83: Start: StartNonSubWorker  10
+WebPubSub :->  2022/06/12 03:58:31 request_workers.go:83: Start: StartNonSubWorker  11
+WebPubSub :->  2022/06/12 03:58:31 request_workers.go:83: Start: StartNonSubWorker  12
+WebPubSub :->  2022/06/12 03:58:31 request_workers.go:83: Start: StartNonSubWorker  13
+WebPubSub :->  2022/06/12 03:58:31 request_workers.go:83: Start: StartNonSubWorker  14
+WebPubSub :->  2022/06/12 03:58:31 request_workers.go:83: Start: StartNonSubWorker  15
+WebPubSub :->  2022/06/12 03:58:31 request_workers.go:83: Start: StartNonSubWorker  16
+WebPubSub :->  2022/06/12 03:58:31 request_workers.go:83: Start: StartNonSubWorker  17
+WebPubSub :->  2022/06/12 03:58:31 request_workers.go:83: Start: StartNonSubWorker  18
+WebPubSub :->  2022/06/12 03:58:31 request_workers.go:83: Start: StartNonSubWorker  19
+WebPubSub :->  2022/06/12 03:59:18 webpubsub.go:755: WebPubSub Go v4 SDK: 7.0.3
+pnconf: &{{{0 0} 0 0 0 0} demo demo   localhost:11443 pn-70306821-bca3-4e7f-92d1-0236e592988b enigma false 10 10 310 60 0 0 50 60  3 0xc000116870 false false false 100 30 20 true true 5 true}
+go1.18.3
+amd64
+darwin
+WebPubSub :->  2022/06/12 03:59:18 webpubsub.go:778: Init RequestWorkers: workers 20
+WebPubSub :->  2022/06/12 03:59:18 request_workers.go:80: Start: Running with workers  20
+WebPubSub :->  2022/06/12 03:59:18 request_workers.go:83: Start: StartNonSubWorker  0
+WebPubSub :->  2022/06/12 03:59:18 request_workers.go:83: Start: StartNonSubWorker  1
+WebPubSub :->  2022/06/12 03:59:18 request_workers.go:83: Start: StartNonSubWorker  2
+WebPubSub :->  2022/06/12 03:59:18 request_workers.go:83: Start: StartNonSubWorker  3
+WebPubSub :->  2022/06/12 03:59:18 request_workers.go:83: Start: StartNonSubWorker  4
+WebPubSub :->  2022/06/12 03:59:18 request_workers.go:83: Start: StartNonSubWorker  5
+WebPubSub :->  2022/06/12 03:59:18 request_workers.go:83: Start: StartNonSubWorker  6
+WebPubSub :->  2022/06/12 03:59:18 request_workers.go:83: Start: StartNonSubWorker  7
+WebPubSub :->  2022/06/12 03:59:18 request_workers.go:83: Start: StartNonSubWorker  8
+WebPubSub :->  2022/06/12 03:59:18 request_workers.go:83: Start: StartNonSubWorker  9
+WebPubSub :->  2022/06/12 03:59:18 request_workers.go:83: Start: StartNonSubWorker  10
+WebPubSub :->  2022/06/12 03:59:18 request_workers.go:83: Start: StartNonSubWorker  11
+WebPubSub :->  2022/06/12 03:59:18 request_workers.go:83: Start: StartNonSubWorker  12
+WebPubSub :->  2022/06/12 03:59:18 request_workers.go:83: Start: StartNonSubWorker  13
+WebPubSub :->  2022/06/12 03:59:18 request_workers.go:83: Start: StartNonSubWorker  14
+WebPubSub :->  2022/06/12 03:59:18 request_workers.go:83: Start: StartNonSubWorker  15
+WebPubSub :->  2022/06/12 03:59:18 request_workers.go:83: Start: StartNonSubWorker  16
+WebPubSub :->  2022/06/12 03:59:18 request_workers.go:83: Start: StartNonSubWorker  17
+WebPubSub :->  2022/06/12 03:59:18 request_workers.go:83: Start: StartNonSubWorker  18
+WebPubSub :->  2022/06/12 03:59:18 request_workers.go:83: Start: StartNonSubWorker  19
+WebPubSub :->  2022/06/12 03:59:18 subscription_manager.go:201: adapting a new subscription [my-channel my-another-channel] true
+WebPubSub :->  2022/06/12 03:59:18 subscription_manager.go:1046: reconnect
+WebPubSub :->  2022/06/12 03:59:18 reconnection_manager.go:162: stopHeartbeatTimer
+WebPubSub :->  2022/06/12 03:59:18 reconnection_manager.go:169: stopHeartbeatTimer true
+WebPubSub :->  2022/06/12 03:59:18 subscription_manager.go:1048: after stopHeartbeatTimer
+WebPubSub :->  2022/06/12 03:59:18 subscription_manager.go:1104: webpubsub: subscribe: loop stop: pn-70306821-bca3-4e7f-92d1-0236e592988b: [my-channel my-another-channel my-channel-pnpres my-another-channel-pnpres]/[my-channelgroup my-another-channel-group my-channelgroup-pnpres my-another-channel-group-pnpres]
+WebPubSub :->  2022/06/12 03:59:18 subscription_manager.go:290: startSubscribeLoop
+WebPubSub :->  2022/06/12 03:59:18 heartbeat_manager.go:166: heartbeat: loop: stopping...
+WebPubSub :->  2022/06/12 03:59:18 heartbeat_manager.go:133: heartbeat: new timer 0
+WebPubSub :->  2022/06/12 03:59:18 subscription_manager.go:296: startSubscribeLoop looping...
+WebPubSub :->  2022/06/12 03:59:18 reconnection_manager.go:75: Reconnection policy: 3, retries: 50
+WebPubSub :->  2022/06/12 03:59:18 subscription_manager.go:513: subscribeMessageWorker setting context
+WebPubSub :->  2022/06/12 03:59:18 subscription_manager.go:515: subscribeMessageWorker after setting context
+WebPubSub :->  2022/06/12 03:59:18 subscription_manager.go:518: subscribeMessageWorker
+WebPubSub :->  2022/06/12 03:59:18 subscription_manager.go:521: acquiring lock exitSubscriptionManagerMutex
+WebPubSub :->  2022/06/12 03:59:18 subscription_manager.go:527: make channel exitSubscriptionManager
+WebPubSub :->  2022/06/12 03:59:18 subscription_manager.go:533: subscribeMessageWorker looping...
+WebPubSub :->  2022/06/12 03:59:18 request.go:97: url:http://localhost:11443/time/0?pnsdk=WebPubSub-Go/7.0.3&uuid=pn-70306821-bca3-4e7f-92d1-0236e592988b
+method:GET
+WebPubSub :->  2022/06/12 03:59:18 request.go:97: url:http://localhost:11443/v2/subscribe/demo/my-channel,my-another-channel,my-channel-pnpres,my-another-channel-pnpres/0?state={"my-another-channel":{"k2":"v2"},"my-another-channel-group":{"k2":"v2"},"my-channel":{"k2":"v2"},"my-channelgroup":{"k2":"v2"}}&pnsdk=WebPubSub-Go/7.0.3&uuid=pn-70306821-bca3-4e7f-92d1-0236e592988b&channel-group=my-channelgroup,my-another-channel-group,my-channelgroup-pnpres,my-another-channel-group-pnpres&tr=0
+method:GET
+WebPubSub :->  2022/06/12 03:59:18 request.go:284: webpubsub/server: Server respond with error code 404: 404 page not found
+WebPubSub :->  2022/06/12 03:59:18 request.go:299: WPSUnknownCategory: resp.StatusCode, resp.Body, resp.Request.URL 404 &{0x1162580 0xc0002de600 0x13556e0} http://localhost:11443/time/0?pnsdk=WebPubSub-Go/7.0.3&uuid=pn-70306821-bca3-4e7f-92d1-0236e592988b
+WebPubSub :->  2022/06/12 03:59:18 request.go:187: res.StatusCode, status, err.Error() 404 {webpubsub/server: Server respond with error code 404: 404 page not found Unknown Time 404 false      [] [] <nil>} webpubsub/server: Server respond with error code 404: 404 page not found
+WebPubSub :->  2022/06/12 03:59:18 reconnection_manager.go:110: Network disconnected, reconnection try 1 of 50
+ {webpubsub/server: Server respond with error code 404: 404 page not found Unknown Time 404 false      [] [] <nil>} webpubsub/server: Server respond with error code 404: 404 page not found
+WebPubSub :->  2022/06/12 03:59:19 request.go:97: url:http://localhost:11443/time/0?uuid=pn-70306821-bca3-4e7f-92d1-0236e592988b&pnsdk=WebPubSub-Go/7.0.3
+method:GET
+WebPubSub :->  2022/06/12 03:59:19 request.go:284: webpubsub/server: Server respond with error code 404: 404 page not found
+WebPubSub :->  2022/06/12 03:59:19 request.go:299: WPSUnknownCategory: resp.StatusCode, resp.Body, resp.Request.URL 404 &{0x1162580 0xc0002de6c0 0x13556e0} http://localhost:11443/time/0?uuid=pn-70306821-bca3-4e7f-92d1-0236e592988b&pnsdk=WebPubSub-Go/7.0.3
+WebPubSub :->  2022/06/12 03:59:19 request.go:187: res.StatusCode, status, err.Error() 404 {webpubsub/server: Server respond with error code 404: 404 page not found Unknown Time 404 false      [] [] <nil>} webpubsub/server: Server respond with error code 404: 404 page not found
+WebPubSub :->  2022/06/12 03:59:19 reconnection_manager.go:110: Network disconnected, reconnection try 2 of 50
+ {webpubsub/server: Server respond with error code 404: 404 page not found Unknown Time 404 false      [] [] <nil>} webpubsub/server: Server respond with error code 404: 404 page not found
+WebPubSub :->  2022/06/12 03:59:22 request.go:97: url:http://localhost:11443/time/0?uuid=pn-70306821-bca3-4e7f-92d1-0236e592988b&pnsdk=WebPubSub-Go/7.0.3
+method:GET
+WebPubSub :->  2022/06/12 03:59:22 request.go:284: webpubsub/server: Server respond with error code 404: 404 page not found
+WebPubSub :->  2022/06/12 03:59:22 request.go:299: WPSUnknownCategory: resp.StatusCode, resp.Body, resp.Request.URL 404 &{0x1162580 0xc0002de780 0x13556e0} http://localhost:11443/time/0?uuid=pn-70306821-bca3-4e7f-92d1-0236e592988b&pnsdk=WebPubSub-Go/7.0.3
+WebPubSub :->  2022/06/12 03:59:22 request.go:187: res.StatusCode, status, err.Error() 404 {webpubsub/server: Server respond with error code 404: 404 page not found Unknown Time 404 false      [] [] <nil>} webpubsub/server: Server respond with error code 404: 404 page not found
+WebPubSub :->  2022/06/12 03:59:22 reconnection_manager.go:110: Network disconnected, reconnection try 3 of 50
+ {webpubsub/server: Server respond with error code 404: 404 page not found Unknown Time 404 false      [] [] <nil>} webpubsub/server: Server respond with error code 404: 404 page not found
+WebPubSub :->  2022/06/12 03:59:23 request.go:313: 200 OK: resp.StatusCode, resp.Status, resp.Body, resp.Request.URL, string(body) 200 200 OK &{0x1162580 0xc000113700 0x13556e0} http://localhost:11443/v2/subscribe/demo/my-channel,my-another-channel,my-channel-pnpres,my-another-channel-pnpres/0?state={"my-another-channel":{"k2":"v2"},"my-another-channel-group":{"k2":"v2"},"my-channel":{"k2":"v2"},"my-channelgroup":{"k2":"v2"}}&pnsdk=WebPubSub-Go/7.0.3&uuid=pn-70306821-bca3-4e7f-92d1-0236e592988b&channel-group=my-channelgroup,my-another-channel-group,my-channelgroup-pnpres,my-another-channel-group-pnpres&tr=0 {"error":"timeout"}
+WebPubSub :->  2022/06/12 03:59:23 request.go:216: WPSUnknownCategory {"error":"timeout"} {Subscribe 200 false localhost:11443 pn-70306821-bca3-4e7f-92d1-0236e592988b  0xc00014e480}
+WebPubSub :->  2022/06/12 03:59:23 listener_manager.go:103: announceStatus exit
+WebPubSub :->  2022/06/12 03:59:23 subscription_manager.go:457: ParseInt: err strconv.ParseInt: parsing "": invalid syntax &{Bad Request Subscribe strconv.ParseInt: parsing "": invalid syntax true false 0    <nil> [my-channel my-another-channel my-channel-pnpres my-another-channel-pnpres] [my-channelgroup my-another-channel-group my-channelgroup-pnpres my-another-channel-group-pnpres]}
+WebPubSub :->  2022/06/12 03:59:23 subscription_manager.go:296: startSubscribeLoop looping...
+WebPubSub :->  2022/06/12 03:59:23 request.go:97: url:http://localhost:11443/v2/subscribe/demo/my-channel,my-another-channel,my-channel-pnpres,my-another-channel-pnpres/0?tr=0&state={"my-another-channel":{"k2":"v2"},"my-another-channel-group":{"k2":"v2"},"my-channel":{"k2":"v2"},"my-channelgroup":{"k2":"v2"}}&pnsdk=WebPubSub-Go/7.0.3&uuid=pn-70306821-bca3-4e7f-92d1-0236e592988b&channel-group=my-channelgroup,my-another-channel-group,my-channelgroup-pnpres,my-another-channel-group-pnpres
+method:GET
+WebPubSub :->  2022/06/12 03:59:23 listener_manager.go:103: announceStatus exit
+WebPubSub :->  2022/06/12 03:59:28 request.go:313: 200 OK: resp.StatusCode, resp.Status, resp.Body, resp.Request.URL, string(body) 200 200 OK &{0x1162580 0xc00031c100 0x13556e0} http://localhost:11443/v2/subscribe/demo/my-channel,my-another-channel,my-channel-pnpres,my-another-channel-pnpres/0?tr=0&state={"my-another-channel":{"k2":"v2"},"my-another-channel-group":{"k2":"v2"},"my-channel":{"k2":"v2"},"my-channelgroup":{"k2":"v2"}}&pnsdk=WebPubSub-Go/7.0.3&uuid=pn-70306821-bca3-4e7f-92d1-0236e592988b&channel-group=my-channelgroup,my-another-channel-group,my-channelgroup-pnpres,my-another-channel-group-pnpres {"error":"timeout"}
+WebPubSub :->  2022/06/12 03:59:28 request.go:216: WPSUnknownCategory {"error":"timeout"} {Subscribe 200 false localhost:11443 pn-70306821-bca3-4e7f-92d1-0236e592988b  0xc00031e090}
+WebPubSub :->  2022/06/12 03:59:28 subscription_manager.go:457: ParseInt: err strconv.ParseInt: parsing "": invalid syntax &{Bad Request Subscribe strconv.ParseInt: parsing "": invalid syntax true false 0    <nil> [my-channel my-another-channel my-channel-pnpres my-another-channel-pnpres] [my-channelgroup my-another-channel-group my-channelgroup-pnpres my-another-channel-group-pnpres]}
+WebPubSub :->  2022/06/12 03:59:28 subscription_manager.go:296: startSubscribeLoop looping...
+WebPubSub :->  2022/06/12 03:59:28 listener_manager.go:103: announceStatus exit
+WebPubSub :->  2022/06/12 03:59:28 request.go:97: url:http://localhost:11443/v2/subscribe/demo/my-channel,my-another-channel,my-channel-pnpres,my-another-channel-pnpres/0?channel-group=my-channelgroup,my-another-channel-group,my-channelgroup-pnpres,my-another-channel-group-pnpres&tr=0&state={"my-another-channel":{"k2":"v2"},"my-another-channel-group":{"k2":"v2"},"my-channel":{"k2":"v2"},"my-channelgroup":{"k2":"v2"}}&pnsdk=WebPubSub-Go/7.0.3&uuid=pn-70306821-bca3-4e7f-92d1-0236e592988b
+method:GET
+WebPubSub :->  2022/06/12 03:59:29 request.go:97: url:http://localhost:11443/time/0?pnsdk=WebPubSub-Go/7.0.3&uuid=pn-70306821-bca3-4e7f-92d1-0236e592988b
+method:GET
+WebPubSub :->  2022/06/12 03:59:29 request.go:284: webpubsub/server: Server respond with error code 404: 404 page not found
+WebPubSub :->  2022/06/12 03:59:29 request.go:299: WPSUnknownCategory: resp.StatusCode, resp.Body, resp.Request.URL 404 &{0x1162580 0xc0002de840 0x13556e0} http://localhost:11443/time/0?pnsdk=WebPubSub-Go/7.0.3&uuid=pn-70306821-bca3-4e7f-92d1-0236e592988b
+WebPubSub :->  2022/06/12 03:59:29 request.go:187: res.StatusCode, status, err.Error() 404 {webpubsub/server: Server respond with error code 404: 404 page not found Unknown Time 404 false      [] [] <nil>} webpubsub/server: Server respond with error code 404: 404 page not found
+WebPubSub :->  2022/06/12 03:59:29 reconnection_manager.go:110: Network disconnected, reconnection try 4 of 50
+ {webpubsub/server: Server respond with error code 404: 404 page not found Unknown Time 404 false      [] [] <nil>} webpubsub/server: Server respond with error code 404: 404 page not found
+WebPubSub :->  2022/06/12 03:59:33 request.go:313: 200 OK: resp.StatusCode, resp.Status, resp.Body, resp.Request.URL, string(body) 200 200 OK &{0x1162580 0xc0002de900 0x13556e0} http://localhost:11443/v2/subscribe/demo/my-channel,my-another-channel,my-channel-pnpres,my-another-channel-pnpres/0?channel-group=my-channelgroup,my-another-channel-group,my-channelgroup-pnpres,my-another-channel-group-pnpres&tr=0&state={"my-another-channel":{"k2":"v2"},"my-another-channel-group":{"k2":"v2"},"my-channel":{"k2":"v2"},"my-channelgroup":{"k2":"v2"}}&pnsdk=WebPubSub-Go/7.0.3&uuid=pn-70306821-bca3-4e7f-92d1-0236e592988b {"error":"timeout"}
+WebPubSub :->  2022/06/12 03:59:33 request.go:216: WPSUnknownCategory {"error":"timeout"} {Subscribe 200 false localhost:11443 pn-70306821-bca3-4e7f-92d1-0236e592988b  0xc00039a5a0}
+WebPubSub :->  2022/06/12 03:59:33 subscription_manager.go:457: ParseInt: err strconv.ParseInt: parsing "": invalid syntax &{Bad Request Subscribe strconv.ParseInt: parsing "": invalid syntax true false 0    <nil> [my-channel my-another-channel my-channel-pnpres my-another-channel-pnpres] [my-channelgroup my-another-channel-group my-channelgroup-pnpres my-another-channel-group-pnpres]}
+WebPubSub :->  2022/06/12 03:59:33 subscription_manager.go:296: startSubscribeLoop looping...
+WebPubSub :->  2022/06/12 03:59:33 listener_manager.go:103: announceStatus exit
+WebPubSub :->  2022/06/12 03:59:33 request.go:97: url:http://localhost:11443/v2/subscribe/demo/my-channel,my-another-channel,my-channel-pnpres,my-another-channel-pnpres/0?channel-group=my-channelgroup,my-another-channel-group,my-channelgroup-pnpres,my-another-channel-group-pnpres&tr=0&state={"my-another-channel":{"k2":"v2"},"my-another-channel-group":{"k2":"v2"},"my-channel":{"k2":"v2"},"my-channelgroup":{"k2":"v2"}}&pnsdk=WebPubSub-Go/7.0.3&uuid=pn-70306821-bca3-4e7f-92d1-0236e592988b
+method:GET
+WebPubSub :->  2022/06/12 03:59:38 request.go:313: 200 OK: resp.StatusCode, resp.Status, resp.Body, resp.Request.URL, string(body) 200 200 OK &{0x1162580 0xc00031c740 0x13556e0} http://localhost:11443/v2/subscribe/demo/my-channel,my-another-channel,my-channel-pnpres,my-another-channel-pnpres/0?channel-group=my-channelgroup,my-another-channel-group,my-channelgroup-pnpres,my-another-channel-group-pnpres&tr=0&state={"my-another-channel":{"k2":"v2"},"my-another-channel-group":{"k2":"v2"},"my-channel":{"k2":"v2"},"my-channelgroup":{"k2":"v2"}}&pnsdk=WebPubSub-Go/7.0.3&uuid=pn-70306821-bca3-4e7f-92d1-0236e592988b {"error":"timeout"}
+WebPubSub :->  2022/06/12 03:59:38 request.go:216: WPSUnknownCategory {"error":"timeout"} {Subscribe 200 false localhost:11443 pn-70306821-bca3-4e7f-92d1-0236e592988b  0xc00031e3f0}
+WebPubSub :->  2022/06/12 03:59:38 subscription_manager.go:457: ParseInt: err strconv.ParseInt: parsing "": invalid syntax &{Bad Request Subscribe strconv.ParseInt: parsing "": invalid syntax true false 0    <nil> [my-channel my-another-channel my-channel-pnpres my-another-channel-pnpres] [my-channelgroup my-another-channel-group my-channelgroup-pnpres my-another-channel-group-pnpres]}
+WebPubSub :->  2022/06/12 03:59:38 subscription_manager.go:296: startSubscribeLoop looping...
+WebPubSub :->  2022/06/12 03:59:38 listener_manager.go:103: announceStatus exit
+WebPubSub :->  2022/06/12 03:59:38 request.go:97: url:http://localhost:11443/v2/subscribe/demo/my-channel,my-another-channel,my-channel-pnpres,my-another-channel-pnpres/0?pnsdk=WebPubSub-Go/7.0.3&uuid=pn-70306821-bca3-4e7f-92d1-0236e592988b&channel-group=my-another-channel-group,my-channelgroup,my-channelgroup-pnpres,my-another-channel-group-pnpres&tr=0&state={"my-another-channel":{"k2":"v2"},"my-another-channel-group":{"k2":"v2"},"my-channel":{"k2":"v2"},"my-channelgroup":{"k2":"v2"}}
+method:GET
+WebPubSub :->  2022/06/12 03:59:43 request.go:313: 200 OK: resp.StatusCode, resp.Status, resp.Body, resp.Request.URL, string(body) 200 200 OK &{0x1162580 0xc0002dee40 0x13556e0} http://localhost:11443/v2/subscribe/demo/my-channel,my-another-channel,my-channel-pnpres,my-another-channel-pnpres/0?pnsdk=WebPubSub-Go/7.0.3&uuid=pn-70306821-bca3-4e7f-92d1-0236e592988b&channel-group=my-another-channel-group,my-channelgroup,my-channelgroup-pnpres,my-another-channel-group-pnpres&tr=0&state={"my-another-channel":{"k2":"v2"},"my-another-channel-group":{"k2":"v2"},"my-channel":{"k2":"v2"},"my-channelgroup":{"k2":"v2"}} {"error":"timeout"}
+WebPubSub :->  2022/06/12 03:59:43 request.go:216: WPSUnknownCategory {"error":"timeout"} {Subscribe 200 false localhost:11443 pn-70306821-bca3-4e7f-92d1-0236e592988b  0xc00039a750}
+WebPubSub :->  2022/06/12 03:59:43 subscription_manager.go:457: ParseInt: err strconv.ParseInt: parsing "": invalid syntax &{Bad Request Subscribe strconv.ParseInt: parsing "": invalid syntax true false 0    <nil> [my-channel my-another-channel my-channel-pnpres my-another-channel-pnpres] [my-another-channel-group my-channelgroup my-channelgroup-pnpres my-another-channel-group-pnpres]}
+WebPubSub :->  2022/06/12 03:59:43 subscription_manager.go:296: startSubscribeLoop looping...
+WebPubSub :->  2022/06/12 03:59:43 request.go:97: url:http://localhost:11443/v2/subscribe/demo/my-channel,my-another-channel,my-channel-pnpres,my-another-channel-pnpres/0?state={"my-another-channel":{"k2":"v2"},"my-another-channel-group":{"k2":"v2"},"my-channel":{"k2":"v2"},"my-channelgroup":{"k2":"v2"}}&pnsdk=WebPubSub-Go/7.0.3&uuid=pn-70306821-bca3-4e7f-92d1-0236e592988b&channel-group=my-another-channel-group,my-channelgroup,my-channelgroup-pnpres,my-another-channel-group-pnpres&tr=0
+method:GET
+WebPubSub :->  2022/06/12 03:59:43 listener_manager.go:103: announceStatus exit
+WebPubSub :->  2022/06/12 03:59:44 request.go:97: url:http://localhost:11443/time/0?pnsdk=WebPubSub-Go/7.0.3&uuid=pn-70306821-bca3-4e7f-92d1-0236e592988b
+method:GET
+WebPubSub :->  2022/06/12 03:59:44 request.go:284: webpubsub/server: Server respond with error code 404: 404 page not found
+WebPubSub :->  2022/06/12 03:59:44 request.go:299: WPSUnknownCategory: resp.StatusCode, resp.Body, resp.Request.URL 404 &{0x1162580 0xc00031ccc0 0x13556e0} http://localhost:11443/time/0?pnsdk=WebPubSub-Go/7.0.3&uuid=pn-70306821-bca3-4e7f-92d1-0236e592988b
+WebPubSub :->  2022/06/12 03:59:44 request.go:187: res.StatusCode, status, err.Error() 404 {webpubsub/server: Server respond with error code 404: 404 page not found Unknown Time 404 false      [] [] <nil>} webpubsub/server: Server respond with error code 404: 404 page not found
+WebPubSub :->  2022/06/12 03:59:44 reconnection_manager.go:110: Network disconnected, reconnection try 5 of 50
+ {webpubsub/server: Server respond with error code 404: 404 page not found Unknown Time 404 false      [] [] <nil>} webpubsub/server: Server respond with error code 404: 404 page not found
+WebPubSub :->  2022/06/12 03:59:48 request.go:313: 200 OK: resp.StatusCode, resp.Status, resp.Body, resp.Request.URL, string(body) 200 200 OK &{0x1162580 0xc00031cd80 0x13556e0} http://localhost:11443/v2/subscribe/demo/my-channel,my-another-channel,my-channel-pnpres,my-another-channel-pnpres/0?state={"my-another-channel":{"k2":"v2"},"my-another-channel-group":{"k2":"v2"},"my-channel":{"k2":"v2"},"my-channelgroup":{"k2":"v2"}}&pnsdk=WebPubSub-Go/7.0.3&uuid=pn-70306821-bca3-4e7f-92d1-0236e592988b&channel-group=my-another-channel-group,my-channelgroup,my-channelgroup-pnpres,my-another-channel-group-pnpres&tr=0 {"error":"timeout"}
+WebPubSub :->  2022/06/12 03:59:48 request.go:216: WPSUnknownCategory {"error":"timeout"} {Subscribe 200 false localhost:11443 pn-70306821-bca3-4e7f-92d1-0236e592988b  0xc00031e6c0}
+WebPubSub :->  2022/06/12 04:00:07 webpubsub.go:755: WebPubSub Go v4 SDK: 7.0.3
+pnconf: &{{{0 0} 0 0 0 0} demo demo   localhost:11443 pn-4b6e3092-3a12-469f-867c-f3b006b072e3 enigma false 10 10 310 60 0 0 50 60  3 0xc000116870 false false false 100 30 20 true true 5 true}
+go1.18.3
+amd64
+darwin
+WebPubSub :->  2022/06/12 04:00:07 webpubsub.go:778: Init RequestWorkers: workers 20
+WebPubSub :->  2022/06/12 04:00:07 request_workers.go:80: Start: Running with workers  20
+WebPubSub :->  2022/06/12 04:00:07 request_workers.go:83: Start: StartNonSubWorker  0
+WebPubSub :->  2022/06/12 04:00:07 request_workers.go:83: Start: StartNonSubWorker  1
+WebPubSub :->  2022/06/12 04:00:07 request_workers.go:83: Start: StartNonSubWorker  2
+WebPubSub :->  2022/06/12 04:00:07 request_workers.go:83: Start: StartNonSubWorker  3
+WebPubSub :->  2022/06/12 04:00:07 request_workers.go:83: Start: StartNonSubWorker  4
+WebPubSub :->  2022/06/12 04:00:07 request_workers.go:83: Start: StartNonSubWorker  5
+WebPubSub :->  2022/06/12 04:00:07 request_workers.go:83: Start: StartNonSubWorker  6
+WebPubSub :->  2022/06/12 04:00:07 request_workers.go:83: Start: StartNonSubWorker  7
+WebPubSub :->  2022/06/12 04:00:07 request_workers.go:83: Start: StartNonSubWorker  8
+WebPubSub :->  2022/06/12 04:00:07 request_workers.go:83: Start: StartNonSubWorker  9
+WebPubSub :->  2022/06/12 04:00:07 request_workers.go:83: Start: StartNonSubWorker  10
+WebPubSub :->  2022/06/12 04:00:07 request_workers.go:83: Start: StartNonSubWorker  11
+WebPubSub :->  2022/06/12 04:00:07 request_workers.go:83: Start: StartNonSubWorker  12
+WebPubSub :->  2022/06/12 04:00:07 request_workers.go:83: Start: StartNonSubWorker  13
+WebPubSub :->  2022/06/12 04:00:07 request_workers.go:83: Start: StartNonSubWorker  14
+WebPubSub :->  2022/06/12 04:00:07 request_workers.go:83: Start: StartNonSubWorker  15
+WebPubSub :->  2022/06/12 04:00:07 request_workers.go:83: Start: StartNonSubWorker  16
+WebPubSub :->  2022/06/12 04:00:07 request_workers.go:83: Start: StartNonSubWorker  17
+WebPubSub :->  2022/06/12 04:00:07 request_workers.go:83: Start: StartNonSubWorker  18
+WebPubSub :->  2022/06/12 04:00:07 request_workers.go:83: Start: StartNonSubWorker  19
+WebPubSub :->  2022/06/12 04:00:07 subscription_manager.go:201: adapting a new subscription [my-channel my-another-channel] true
+WebPubSub :->  2022/06/12 04:00:07 subscription_manager.go:1046: reconnect
+WebPubSub :->  2022/06/12 04:00:07 reconnection_manager.go:162: stopHeartbeatTimer
+WebPubSub :->  2022/06/12 04:00:07 reconnection_manager.go:169: stopHeartbeatTimer true
+WebPubSub :->  2022/06/12 04:00:07 subscription_manager.go:1048: after stopHeartbeatTimer
+WebPubSub :->  2022/06/12 04:00:07 subscription_manager.go:1104: webpubsub: subscribe: loop stop: pn-4b6e3092-3a12-469f-867c-f3b006b072e3: [my-channel my-another-channel my-another-channel-pnpres my-channel-pnpres]/[my-channelgroup my-another-channel-group my-channelgroup-pnpres my-another-channel-group-pnpres]
+WebPubSub :->  2022/06/12 04:00:07 subscription_manager.go:290: startSubscribeLoop
+WebPubSub :->  2022/06/12 04:00:07 heartbeat_manager.go:166: heartbeat: loop: stopping...
+WebPubSub :->  2022/06/12 04:00:07 reconnection_manager.go:75: Reconnection policy: 3, retries: 50
+WebPubSub :->  2022/06/12 04:00:07 subscription_manager.go:513: subscribeMessageWorker setting context
+WebPubSub :->  2022/06/12 04:00:07 subscription_manager.go:515: subscribeMessageWorker after setting context
+WebPubSub :->  2022/06/12 04:00:07 subscription_manager.go:518: subscribeMessageWorker
+WebPubSub :->  2022/06/12 04:00:07 subscription_manager.go:521: acquiring lock exitSubscriptionManagerMutex
+WebPubSub :->  2022/06/12 04:00:07 subscription_manager.go:527: make channel exitSubscriptionManager
+WebPubSub :->  2022/06/12 04:00:07 subscription_manager.go:533: subscribeMessageWorker looping...
+WebPubSub :->  2022/06/12 04:00:07 heartbeat_manager.go:133: heartbeat: new timer 0
+WebPubSub :->  2022/06/12 04:00:07 subscription_manager.go:296: startSubscribeLoop looping...
+WebPubSub :->  2022/06/12 04:00:07 request.go:97: url:http://localhost:11443/time/0?pnsdk=WebPubSub-Go/7.0.3&uuid=pn-4b6e3092-3a12-469f-867c-f3b006b072e3
+method:GET
+WebPubSub :->  2022/06/12 04:00:07 request.go:97: url:http://localhost:11443/v2/subscribe/demo/my-channel,my-another-channel,my-channel-pnpres,my-another-channel-pnpres/0?pnsdk=WebPubSub-Go/7.0.3&uuid=pn-4b6e3092-3a12-469f-867c-f3b006b072e3&channel-group=my-channelgroup,my-another-channel-group,my-channelgroup-pnpres,my-another-channel-group-pnpres&tr=0&state={"my-another-channel":{"k2":"v2"},"my-another-channel-group":{"k2":"v2"},"my-channel":{"k2":"v2"},"my-channelgroup":{"k2":"v2"}}
+method:GET
+WebPubSub :->  2022/06/12 04:00:07 request.go:284: webpubsub/server: Server respond with error code 404: 404 page not found
+WebPubSub :->  2022/06/12 04:00:07 request.go:299: WPSUnknownCategory: resp.StatusCode, resp.Body, resp.Request.URL 404 &{0x1162580 0xc000316100 0x13556e0} http://localhost:11443/time/0?pnsdk=WebPubSub-Go/7.0.3&uuid=pn-4b6e3092-3a12-469f-867c-f3b006b072e3
+WebPubSub :->  2022/06/12 04:00:07 request.go:187: res.StatusCode, status, err.Error() 404 {webpubsub/server: Server respond with error code 404: 404 page not found Unknown Time 404 false      [] [] <nil>} webpubsub/server: Server respond with error code 404: 404 page not found
+WebPubSub :->  2022/06/12 04:00:07 reconnection_manager.go:110: Network disconnected, reconnection try 1 of 50
+ {webpubsub/server: Server respond with error code 404: 404 page not found Unknown Time 404 false      [] [] <nil>} webpubsub/server: Server respond with error code 404: 404 page not found
+WebPubSub :->  2022/06/12 04:00:08 request.go:97: url:http://localhost:11443/time/0?pnsdk=WebPubSub-Go/7.0.3&uuid=pn-4b6e3092-3a12-469f-867c-f3b006b072e3
+method:GET
+WebPubSub :->  2022/06/12 04:00:08 request.go:284: webpubsub/server: Server respond with error code 404: 404 page not found
+WebPubSub :->  2022/06/12 04:00:08 request.go:299: WPSUnknownCategory: resp.StatusCode, resp.Body, resp.Request.URL 404 &{0x1162580 0xc000113440 0x13556e0} http://localhost:11443/time/0?pnsdk=WebPubSub-Go/7.0.3&uuid=pn-4b6e3092-3a12-469f-867c-f3b006b072e3
+WebPubSub :->  2022/06/12 04:00:08 request.go:187: res.StatusCode, status, err.Error() 404 {webpubsub/server: Server respond with error code 404: 404 page not found Unknown Time 404 false      [] [] <nil>} webpubsub/server: Server respond with error code 404: 404 page not found
+WebPubSub :->  2022/06/12 04:00:08 reconnection_manager.go:110: Network disconnected, reconnection try 2 of 50
+ {webpubsub/server: Server respond with error code 404: 404 page not found Unknown Time 404 false      [] [] <nil>} webpubsub/server: Server respond with error code 404: 404 page not found
+WebPubSub :->  2022/06/12 04:00:11 request.go:97: url:http://localhost:11443/time/0?pnsdk=WebPubSub-Go/7.0.3&uuid=pn-4b6e3092-3a12-469f-867c-f3b006b072e3
+method:GET
+WebPubSub :->  2022/06/12 04:00:11 request.go:284: webpubsub/server: Server respond with error code 404: 404 page not found
+WebPubSub :->  2022/06/12 04:00:11 request.go:299: WPSUnknownCategory: resp.StatusCode, resp.Body, resp.Request.URL 404 &{0x1162580 0xc000316240 0x13556e0} http://localhost:11443/time/0?pnsdk=WebPubSub-Go/7.0.3&uuid=pn-4b6e3092-3a12-469f-867c-f3b006b072e3
+WebPubSub :->  2022/06/12 04:00:11 request.go:187: res.StatusCode, status, err.Error() 404 {webpubsub/server: Server respond with error code 404: 404 page not found Unknown Time 404 false      [] [] <nil>} webpubsub/server: Server respond with error code 404: 404 page not found
+WebPubSub :->  2022/06/12 04:00:11 reconnection_manager.go:110: Network disconnected, reconnection try 3 of 50
+ {webpubsub/server: Server respond with error code 404: 404 page not found Unknown Time 404 false      [] [] <nil>} webpubsub/server: Server respond with error code 404: 404 page not found
+WebPubSub :->  2022/06/12 04:00:12 request.go:313: 200 OK: resp.StatusCode, resp.Status, resp.Body, resp.Request.URL, string(body) 200 200 OK &{0x1162580 0xc0002dc740 0x13556e0} http://localhost:11443/v2/subscribe/demo/my-channel,my-another-channel,my-channel-pnpres,my-another-channel-pnpres/0?pnsdk=WebPubSub-Go/7.0.3&uuid=pn-4b6e3092-3a12-469f-867c-f3b006b072e3&channel-group=my-channelgroup,my-another-channel-group,my-channelgroup-pnpres,my-another-channel-group-pnpres&tr=0&state={"my-another-channel":{"k2":"v2"},"my-another-channel-group":{"k2":"v2"},"my-channel":{"k2":"v2"},"my-channelgroup":{"k2":"v2"}} {"error":"timeout"}
+WebPubSub :->  2022/06/12 04:00:12 request.go:216: WPSUnknownCategory {"error":"timeout"} {Subscribe 200 false localhost:11443 pn-4b6e3092-3a12-469f-867c-f3b006b072e3  0xc000414360}
+WebPubSub :->  2022/06/12 04:00:20 request.go:97: url:http://localhost:11443/time/0?pnsdk=WebPubSub-Go/7.0.3&uuid=pn-4b6e3092-3a12-469f-867c-f3b006b072e3
+method:GET
+WebPubSub :->  2022/06/12 04:00:35 listener_manager.go:103: announceStatus exit
+WebPubSub :->  2022/06/12 04:00:36 request.go:175: err.Error() Get "http://localhost:11443/time/0?pnsdk=WebPubSub-Go/7.0.3&uuid=pn-4b6e3092-3a12-469f-867c-f3b006b072e3": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+WebPubSub :->  2022/06/12 04:00:37 request.go:178: WPSUnknownCategory webpubsub/connection: Failed to execute request: Get "http://localhost:11443/time/0?pnsdk=WebPubSub-Go/7.0.3&uuid=pn-4b6e3092-3a12-469f-867c-f3b006b072e3": context deadline exceeded (Client.Timeout exceeded while awaiting headers) http://localhost:11443/time/0?pnsdk=WebPubSub-Go/7.0.3&uuid=pn-4b6e3092-3a12-469f-867c-f3b006b072e3
+WebPubSub :->  2022/06/12 04:00:38 reconnection_manager.go:110: Network disconnected, reconnection try 4 of 50
+ {webpubsub/connection: Failed to execute request: Get "http://localhost:11443/time/0?pnsdk=WebPubSub-Go/7.0.3&uuid=pn-4b6e3092-3a12-469f-867c-f3b006b072e3": context deadline exceeded (Client.Timeout exceeded while awaiting headers) Unknown No Category Matched 0 false      [] [] <nil>} webpubsub/connection: Failed to execute request: Get "http://localhost:11443/time/0?pnsdk=WebPubSub-Go/7.0.3&uuid=pn-4b6e3092-3a12-469f-867c-f3b006b072e3": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+WebPubSub :->  2022/06/12 04:01:01 request.go:97: url:http://localhost:11443/time/0?pnsdk=WebPubSub-Go/7.0.3&uuid=pn-4b6e3092-3a12-469f-867c-f3b006b072e3
+method:GET
+WebPubSub :->  2022/06/12 04:01:21 subscription_manager.go:457: ParseInt: err strconv.ParseInt: parsing "": invalid syntax &{Bad Request Subscribe strconv.ParseInt: parsing "": invalid syntax true false 0    <nil> [my-channel my-another-channel my-channel-pnpres my-another-channel-pnpres] [my-channelgroup my-another-channel-group my-channelgroup-pnpres my-another-channel-group-pnpres]}
+WebPubSub :->  2022/06/12 04:01:21 subscription_manager.go:296: startSubscribeLoop looping...
+WebPubSub :->  2022/06/12 04:01:21 listener_manager.go:103: announceStatus exit
+WebPubSub :->  2022/06/12 04:01:21 request.go:97: url:http://localhost:11443/v2/subscribe/demo/my-channel,my-another-channel,my-channel-pnpres,my-another-channel-pnpres/0?pnsdk=WebPubSub-Go/7.0.3&uuid=pn-4b6e3092-3a12-469f-867c-f3b006b072e3&channel-group=my-channelgroup,my-another-channel-group,my-another-channel-group-pnpres,my-channelgroup-pnpres&tr=0&state={"my-another-channel":{"k2":"v2"},"my-another-channel-group":{"k2":"v2"},"my-channel":{"k2":"v2"},"my-channelgroup":{"k2":"v2"}}
+method:GET
+WebPubSub :->  2022/06/12 04:01:21 request.go:284: webpubsub/server: Server respond with error code 404: 404 page not found
+WebPubSub :->  2022/06/12 04:01:21 request.go:299: WPSUnknownCategory: resp.StatusCode, resp.Body, resp.Request.URL 404 &{0x1162580 0xc00038e140 0x13556e0} http://localhost:11443/time/0?pnsdk=WebPubSub-Go/7.0.3&uuid=pn-4b6e3092-3a12-469f-867c-f3b006b072e3
+WebPubSub :->  2022/06/12 04:01:21 request.go:187: res.StatusCode, status, err.Error() 404 {webpubsub/server: Server respond with error code 404: 404 page not found Unknown Time 404 false      [] [] <nil>} webpubsub/server: Server respond with error code 404: 404 page not found
+WebPubSub :->  2022/06/12 04:01:21 reconnection_manager.go:110: Network disconnected, reconnection try 5 of 50
+ {webpubsub/server: Server respond with error code 404: 404 page not found Unknown Time 404 false      [] [] <nil>} webpubsub/server: Server respond with error code 404: 404 page not found
+WebPubSub :->  2022/06/12 04:01:26 request.go:313: 200 OK: resp.StatusCode, resp.Status, resp.Body, resp.Request.URL, string(body) 200 200 OK &{0x1162580 0xc00038e200 0x13556e0} http://localhost:11443/v2/subscribe/demo/my-channel,my-another-channel,my-channel-pnpres,my-another-channel-pnpres/0?pnsdk=WebPubSub-Go/7.0.3&uuid=pn-4b6e3092-3a12-469f-867c-f3b006b072e3&channel-group=my-channelgroup,my-another-channel-group,my-another-channel-group-pnpres,my-channelgroup-pnpres&tr=0&state={"my-another-channel":{"k2":"v2"},"my-another-channel-group":{"k2":"v2"},"my-channel":{"k2":"v2"},"my-channelgroup":{"k2":"v2"}} {"error":"timeout"}
+WebPubSub :->  2022/06/12 04:01:26 request.go:216: WPSUnknownCategory {"error":"timeout"} {Subscribe 200 false localhost:11443 pn-4b6e3092-3a12-469f-867c-f3b006b072e3  0xc00039a090}
+WebPubSub :->  2022/06/12 04:02:54 webpubsub.go:755: WebPubSub Go v4 SDK: 7.0.3
+pnconf: &{{{0 0} 0 0 0 0} demo demo   localhost:11443 pn-4ee1d012-f6b1-44f2-9b36-c3fb8032bac8 enigma false 10 10 310 60 0 0 50 60  3 0xc000116870 false false false 100 30 20 true true 5 true}
+go1.18.3
+amd64
+darwin
+WebPubSub :->  2022/06/12 04:02:54 webpubsub.go:778: Init RequestWorkers: workers 20
+WebPubSub :->  2022/06/12 04:02:54 request_workers.go:80: Start: Running with workers  20
+WebPubSub :->  2022/06/12 04:02:54 request_workers.go:83: Start: StartNonSubWorker  0
+WebPubSub :->  2022/06/12 04:02:54 request_workers.go:83: Start: StartNonSubWorker  1
+WebPubSub :->  2022/06/12 04:02:54 request_workers.go:83: Start: StartNonSubWorker  2
+WebPubSub :->  2022/06/12 04:02:54 request_workers.go:83: Start: StartNonSubWorker  3
+WebPubSub :->  2022/06/12 04:02:54 request_workers.go:83: Start: StartNonSubWorker  4
+WebPubSub :->  2022/06/12 04:02:54 request_workers.go:83: Start: StartNonSubWorker  5
+WebPubSub :->  2022/06/12 04:02:54 request_workers.go:83: Start: StartNonSubWorker  6
+WebPubSub :->  2022/06/12 04:02:54 request_workers.go:83: Start: StartNonSubWorker  7
+WebPubSub :->  2022/06/12 04:02:54 request_workers.go:83: Start: StartNonSubWorker  8
+WebPubSub :->  2022/06/12 04:02:54 request_workers.go:83: Start: StartNonSubWorker  9
+WebPubSub :->  2022/06/12 04:02:54 request_workers.go:83: Start: StartNonSubWorker  10
+WebPubSub :->  2022/06/12 04:02:54 request_workers.go:83: Start: StartNonSubWorker  11
+WebPubSub :->  2022/06/12 04:02:54 request_workers.go:83: Start: StartNonSubWorker  12
+WebPubSub :->  2022/06/12 04:02:54 request_workers.go:83: Start: StartNonSubWorker  13
+WebPubSub :->  2022/06/12 04:02:54 request_workers.go:83: Start: StartNonSubWorker  14
+WebPubSub :->  2022/06/12 04:02:54 request_workers.go:83: Start: StartNonSubWorker  15
+WebPubSub :->  2022/06/12 04:02:54 request_workers.go:83: Start: StartNonSubWorker  16
+WebPubSub :->  2022/06/12 04:02:54 request_workers.go:83: Start: StartNonSubWorker  17
+WebPubSub :->  2022/06/12 04:02:54 request_workers.go:83: Start: StartNonSubWorker  18
+WebPubSub :->  2022/06/12 04:02:54 request_workers.go:83: Start: StartNonSubWorker  19
+WebPubSub :->  2022/06/12 04:02:54 subscription_manager.go:201: adapting a new subscription [my-channel my-another-channel] true
+WebPubSub :->  2022/06/12 04:02:54 subscription_manager.go:1046: reconnect
+WebPubSub :->  2022/06/12 04:02:54 reconnection_manager.go:162: stopHeartbeatTimer
+WebPubSub :->  2022/06/12 04:02:54 reconnection_manager.go:169: stopHeartbeatTimer true
+WebPubSub :->  2022/06/12 04:02:54 subscription_manager.go:1048: after stopHeartbeatTimer
+WebPubSub :->  2022/06/12 04:02:54 subscription_manager.go:1104: webpubsub: subscribe: loop stop: pn-4ee1d012-f6b1-44f2-9b36-c3fb8032bac8: [my-channel my-another-channel my-channel-pnpres my-another-channel-pnpres]/[my-channelgroup my-another-channel-group my-channelgroup-pnpres my-another-channel-group-pnpres]
+WebPubSub :->  2022/06/12 04:02:54 subscription_manager.go:290: startSubscribeLoop
+WebPubSub :->  2022/06/12 04:02:54 subscription_manager.go:296: startSubscribeLoop looping...
+WebPubSub :->  2022/06/12 04:02:54 reconnection_manager.go:75: Reconnection policy: 3, retries: 50
+WebPubSub :->  2022/06/12 04:02:54 subscription_manager.go:513: subscribeMessageWorker setting context
+WebPubSub :->  2022/06/12 04:02:54 subscription_manager.go:515: subscribeMessageWorker after setting context
+WebPubSub :->  2022/06/12 04:02:54 request.go:97: url:http://localhost:11443/time/0?pnsdk=WebPubSub-Go/7.0.3&uuid=pn-4ee1d012-f6b1-44f2-9b36-c3fb8032bac8
+method:GET
+WebPubSub :->  2022/06/12 04:02:54 heartbeat_manager.go:166: heartbeat: loop: stopping...
+WebPubSub :->  2022/06/12 04:02:54 heartbeat_manager.go:133: heartbeat: new timer 0
+WebPubSub :->  2022/06/12 04:02:54 subscription_manager.go:518: subscribeMessageWorker
+WebPubSub :->  2022/06/12 04:02:54 subscription_manager.go:521: acquiring lock exitSubscriptionManagerMutex
+WebPubSub :->  2022/06/12 04:02:54 subscription_manager.go:527: make channel exitSubscriptionManager
+WebPubSub :->  2022/06/12 04:02:54 request.go:97: url:http://localhost:11443/v2/subscribe/demo/my-channel,my-another-channel,my-channel-pnpres,my-another-channel-pnpres/0?channel-group=my-channelgroup,my-another-channel-group,my-channelgroup-pnpres,my-another-channel-group-pnpres&tr=0&state={"my-another-channel":{"k2":"v2"},"my-another-channel-group":{"k2":"v2"},"my-channel":{"k2":"v2"},"my-channelgroup":{"k2":"v2"}}&pnsdk=WebPubSub-Go/7.0.3&uuid=pn-4ee1d012-f6b1-44f2-9b36-c3fb8032bac8
+method:GET
+WebPubSub :->  2022/06/12 04:02:54 subscription_manager.go:533: subscribeMessageWorker looping...
+WebPubSub :->  2022/06/12 04:02:54 request.go:284: webpubsub/server: Server respond with error code 404: 404 page not found
+WebPubSub :->  2022/06/12 04:02:54 request.go:299: WPSUnknownCategory: resp.StatusCode, resp.Body, resp.Request.URL 404 &{0x1162580 0xc000036680 0x13556e0} http://localhost:11443/time/0?pnsdk=WebPubSub-Go/7.0.3&uuid=pn-4ee1d012-f6b1-44f2-9b36-c3fb8032bac8
+WebPubSub :->  2022/06/12 04:02:54 request.go:187: res.StatusCode, status, err.Error() 404 {webpubsub/server: Server respond with error code 404: 404 page not found Unknown Time 404 false      [] [] <nil>} webpubsub/server: Server respond with error code 404: 404 page not found
+WebPubSub :->  2022/06/12 04:02:54 reconnection_manager.go:110: Network disconnected, reconnection try 1 of 50
+ {webpubsub/server: Server respond with error code 404: 404 page not found Unknown Time 404 false      [] [] <nil>} webpubsub/server: Server respond with error code 404: 404 page not found
+WebPubSub :->  2022/06/12 04:02:55 request.go:97: url:http://localhost:11443/time/0?pnsdk=WebPubSub-Go/7.0.3&uuid=pn-4ee1d012-f6b1-44f2-9b36-c3fb8032bac8
+method:GET
+WebPubSub :->  2022/06/12 04:02:55 request.go:284: webpubsub/server: Server respond with error code 404: 404 page not found
+WebPubSub :->  2022/06/12 04:02:55 request.go:299: WPSUnknownCategory: resp.StatusCode, resp.Body, resp.Request.URL 404 &{0x1162580 0xc000113440 0x13556e0} http://localhost:11443/time/0?pnsdk=WebPubSub-Go/7.0.3&uuid=pn-4ee1d012-f6b1-44f2-9b36-c3fb8032bac8
+WebPubSub :->  2022/06/12 04:02:55 request.go:187: res.StatusCode, status, err.Error() 404 {webpubsub/server: Server respond with error code 404: 404 page not found Unknown Time 404 false      [] [] <nil>} webpubsub/server: Server respond with error code 404: 404 page not found
+WebPubSub :->  2022/06/12 04:02:55 reconnection_manager.go:110: Network disconnected, reconnection try 2 of 50
+ {webpubsub/server: Server respond with error code 404: 404 page not found Unknown Time 404 false      [] [] <nil>} webpubsub/server: Server respond with error code 404: 404 page not found
+WebPubSub :->  2022/06/12 04:02:58 request.go:97: url:http://localhost:11443/time/0?uuid=pn-4ee1d012-f6b1-44f2-9b36-c3fb8032bac8&pnsdk=WebPubSub-Go/7.0.3
+method:GET
+WebPubSub :->  2022/06/12 04:02:58 request.go:284: webpubsub/server: Server respond with error code 404: 404 page not found
+WebPubSub :->  2022/06/12 04:02:58 request.go:299: WPSUnknownCategory: resp.StatusCode, resp.Body, resp.Request.URL 404 &{0x1162580 0xc000113500 0x13556e0} http://localhost:11443/time/0?uuid=pn-4ee1d012-f6b1-44f2-9b36-c3fb8032bac8&pnsdk=WebPubSub-Go/7.0.3
+WebPubSub :->  2022/06/12 04:02:58 request.go:187: res.StatusCode, status, err.Error() 404 {webpubsub/server: Server respond with error code 404: 404 page not found Unknown Time 404 false      [] [] <nil>} webpubsub/server: Server respond with error code 404: 404 page not found
+WebPubSub :->  2022/06/12 04:02:58 reconnection_manager.go:110: Network disconnected, reconnection try 3 of 50
+ {webpubsub/server: Server respond with error code 404: 404 page not found Unknown Time 404 false      [] [] <nil>} webpubsub/server: Server respond with error code 404: 404 page not found
+WebPubSub :->  2022/06/12 04:02:59 request.go:313: 200 OK: resp.StatusCode, resp.Status, resp.Body, resp.Request.URL, string(body) 200 200 OK &{0x1162580 0xc000036840 0x13556e0} http://localhost:11443/v2/subscribe/demo/my-channel,my-another-channel,my-channel-pnpres,my-another-channel-pnpres/0?channel-group=my-channelgroup,my-another-channel-group,my-channelgroup-pnpres,my-another-channel-group-pnpres&tr=0&state={"my-another-channel":{"k2":"v2"},"my-another-channel-group":{"k2":"v2"},"my-channel":{"k2":"v2"},"my-channelgroup":{"k2":"v2"}}&pnsdk=WebPubSub-Go/7.0.3&uuid=pn-4ee1d012-f6b1-44f2-9b36-c3fb8032bac8 {"error":"timeout"}
+WebPubSub :->  2022/06/12 04:02:59 request.go:216: WPSUnknownCategory {"error":"timeout"} {Subscribe 200 false localhost:11443 pn-4ee1d012-f6b1-44f2-9b36-c3fb8032bac8  0xc0000d62d0}
+WebPubSub :->  2022/06/12 04:03:11 request.go:97: url:http://localhost:11443/time/0?uuid=pn-4ee1d012-f6b1-44f2-9b36-c3fb8032bac8&pnsdk=WebPubSub-Go/7.0.3
+method:GET
+WebPubSub :->  2022/06/12 04:03:11 listener_manager.go:103: announceStatus exit
+WebPubSub :->  2022/06/12 04:08:37 webpubsub.go:755: WebPubSub Go v4 SDK: 7.0.3
+pnconf: &{{{0 0} 0 0 0 0} demo demo   localhost:11443 pn-4055c51f-d54a-47a6-ae24-3e818fa0b79f enigma false 10 10 310 60 0 0 50 60  3 0xc000088870 false false false 100 30 20 true true 5 true}
+go1.18.3
+amd64
+darwin
+WebPubSub :->  2022/06/12 04:08:37 webpubsub.go:778: Init RequestWorkers: workers 20
+WebPubSub :->  2022/06/12 04:08:37 request_workers.go:80: Start: Running with workers  20
+WebPubSub :->  2022/06/12 04:08:37 request_workers.go:83: Start: StartNonSubWorker  0
+WebPubSub :->  2022/06/12 04:08:37 request_workers.go:83: Start: StartNonSubWorker  1
+WebPubSub :->  2022/06/12 04:08:37 request_workers.go:83: Start: StartNonSubWorker  2
+WebPubSub :->  2022/06/12 04:08:37 request_workers.go:83: Start: StartNonSubWorker  3
+WebPubSub :->  2022/06/12 04:08:37 request_workers.go:83: Start: StartNonSubWorker  4
+WebPubSub :->  2022/06/12 04:08:37 request_workers.go:83: Start: StartNonSubWorker  5
+WebPubSub :->  2022/06/12 04:08:37 request_workers.go:83: Start: StartNonSubWorker  6
+WebPubSub :->  2022/06/12 04:08:37 request_workers.go:83: Start: StartNonSubWorker  7
+WebPubSub :->  2022/06/12 04:08:37 request_workers.go:83: Start: StartNonSubWorker  8
+WebPubSub :->  2022/06/12 04:08:37 request_workers.go:83: Start: StartNonSubWorker  9
+WebPubSub :->  2022/06/12 04:08:37 request_workers.go:83: Start: StartNonSubWorker  10
+WebPubSub :->  2022/06/12 04:08:37 request_workers.go:83: Start: StartNonSubWorker  11
+WebPubSub :->  2022/06/12 04:08:37 request_workers.go:83: Start: StartNonSubWorker  12
+WebPubSub :->  2022/06/12 04:08:37 request_workers.go:83: Start: StartNonSubWorker  13
+WebPubSub :->  2022/06/12 04:08:37 request_workers.go:83: Start: StartNonSubWorker  14
+WebPubSub :->  2022/06/12 04:08:37 request_workers.go:83: Start: StartNonSubWorker  15
+WebPubSub :->  2022/06/12 04:08:37 request_workers.go:83: Start: StartNonSubWorker  16
+WebPubSub :->  2022/06/12 04:08:37 request_workers.go:83: Start: StartNonSubWorker  17
+WebPubSub :->  2022/06/12 04:08:37 request_workers.go:83: Start: StartNonSubWorker  18
+WebPubSub :->  2022/06/12 04:08:37 request_workers.go:83: Start: StartNonSubWorker  19
+WebPubSub :->  2022/06/12 04:08:37 subscription_manager.go:202: adapting a new subscription [my-channel my-another-channel] true
+WebPubSub :->  2022/06/12 04:08:37 subscription_manager.go:1048: reconnect
+WebPubSub :->  2022/06/12 04:08:37 reconnection_manager.go:162: stopHeartbeatTimer
+WebPubSub :->  2022/06/12 04:08:37 reconnection_manager.go:169: stopHeartbeatTimer true
+WebPubSub :->  2022/06/12 04:08:37 subscription_manager.go:1050: after stopHeartbeatTimer
+WebPubSub :->  2022/06/12 04:08:37 subscription_manager.go:1106: webpubsub: subscribe: loop stop: pn-4055c51f-d54a-47a6-ae24-3e818fa0b79f: [my-channel my-another-channel my-another-channel-pnpres my-channel-pnpres]/[my-channelgroup my-another-channel-group my-channelgroup-pnpres my-another-channel-group-pnpres]
+WebPubSub :->  2022/06/12 04:08:37 subscription_manager.go:291: startSubscribeLoop
+WebPubSub :->  2022/06/12 04:08:37 heartbeat_manager.go:166: heartbeat: loop: stopping...
+WebPubSub :->  2022/06/12 04:08:37 heartbeat_manager.go:133: heartbeat: new timer 0
+WebPubSub :->  2022/06/12 04:08:37 reconnection_manager.go:75: Reconnection policy: 3, retries: 50
+WebPubSub :->  2022/06/12 04:08:37 subscription_manager.go:515: subscribeMessageWorker setting context
+WebPubSub :->  2022/06/12 04:08:37 subscription_manager.go:517: subscribeMessageWorker after setting context
+WebPubSub :->  2022/06/12 04:08:37 subscription_manager.go:520: subscribeMessageWorker
+WebPubSub :->  2022/06/12 04:08:37 subscription_manager.go:523: acquiring lock exitSubscriptionManagerMutex
+WebPubSub :->  2022/06/12 04:08:37 subscription_manager.go:529: make channel exitSubscriptionManager
+WebPubSub :->  2022/06/12 04:08:37 subscription_manager.go:535: subscribeMessageWorker looping...
+WebPubSub :->  2022/06/12 04:08:37 subscription_manager.go:297: startSubscribeLoop looping...
+WebPubSub :->  2022/06/12 04:08:37 request.go:97: url:http://localhost:11443/time/0?pnsdk=WebPubSub-Go/7.0.3&uuid=pn-4055c51f-d54a-47a6-ae24-3e818fa0b79f
+method:GET
+WebPubSub :->  2022/06/12 04:08:37 request.go:97: url:http://localhost:11443/v2/subscribe/demo/my-channel,my-another-channel,my-channel-pnpres,my-another-channel-pnpres/0?uuid=pn-4055c51f-d54a-47a6-ae24-3e818fa0b79f&channel-group=my-channelgroup,my-another-channel-group,my-channelgroup-pnpres,my-another-channel-group-pnpres&tr=0&state={"my-another-channel":{"k2":"v2"},"my-another-channel-group":{"k2":"v2"},"my-channel":{"k2":"v2"},"my-channelgroup":{"k2":"v2"}}&pnsdk=WebPubSub-Go/7.0.3
+method:GET
+WebPubSub :->  2022/06/12 04:08:37 request.go:284: webpubsub/server: Server respond with error code 404: 404 page not found
+WebPubSub :->  2022/06/12 04:08:37 request.go:299: WPSUnknownCategory: resp.StatusCode, resp.Body, resp.Request.URL 404 &{0x1162580 0xc00024a6c0 0x13556e0} http://localhost:11443/time/0?pnsdk=WebPubSub-Go/7.0.3&uuid=pn-4055c51f-d54a-47a6-ae24-3e818fa0b79f
+WebPubSub :->  2022/06/12 04:08:37 request.go:187: res.StatusCode, status, err.Error() 404 {webpubsub/server: Server respond with error code 404: 404 page not found Unknown Time 404 false      [] [] <nil>} webpubsub/server: Server respond with error code 404: 404 page not found
+WebPubSub :->  2022/06/12 04:08:37 reconnection_manager.go:110: Network disconnected, reconnection try 1 of 50
+ {webpubsub/server: Server respond with error code 404: 404 page not found Unknown Time 404 false      [] [] <nil>} webpubsub/server: Server respond with error code 404: 404 page not found
+WebPubSub :->  2022/06/12 04:08:38 request.go:97: url:http://localhost:11443/time/0?pnsdk=WebPubSub-Go/7.0.3&uuid=pn-4055c51f-d54a-47a6-ae24-3e818fa0b79f
+method:GET
+WebPubSub :->  2022/06/12 04:08:38 request.go:284: webpubsub/server: Server respond with error code 404: 404 page not found
+WebPubSub :->  2022/06/12 04:08:38 request.go:299: WPSUnknownCategory: resp.StatusCode, resp.Body, resp.Request.URL 404 &{0x1162580 0xc000037440 0x13556e0} http://localhost:11443/time/0?pnsdk=WebPubSub-Go/7.0.3&uuid=pn-4055c51f-d54a-47a6-ae24-3e818fa0b79f
+WebPubSub :->  2022/06/12 04:08:38 request.go:187: res.StatusCode, status, err.Error() 404 {webpubsub/server: Server respond with error code 404: 404 page not found Unknown Time 404 false      [] [] <nil>} webpubsub/server: Server respond with error code 404: 404 page not found
+WebPubSub :->  2022/06/12 04:08:38 reconnection_manager.go:110: Network disconnected, reconnection try 2 of 50
+ {webpubsub/server: Server respond with error code 404: 404 page not found Unknown Time 404 false      [] [] <nil>} webpubsub/server: Server respond with error code 404: 404 page not found
+WebPubSub :->  2022/06/12 04:08:41 request.go:97: url:http://localhost:11443/time/0?pnsdk=WebPubSub-Go/7.0.3&uuid=pn-4055c51f-d54a-47a6-ae24-3e818fa0b79f
+method:GET
+WebPubSub :->  2022/06/12 04:08:41 request.go:284: webpubsub/server: Server respond with error code 404: 404 page not found
+WebPubSub :->  2022/06/12 04:08:41 request.go:299: WPSUnknownCategory: resp.StatusCode, resp.Body, resp.Request.URL 404 &{0x1162580 0xc00024a880 0x13556e0} http://localhost:11443/time/0?pnsdk=WebPubSub-Go/7.0.3&uuid=pn-4055c51f-d54a-47a6-ae24-3e818fa0b79f
+WebPubSub :->  2022/06/12 04:08:41 request.go:187: res.StatusCode, status, err.Error() 404 {webpubsub/server: Server respond with error code 404: 404 page not found Unknown Time 404 false      [] [] <nil>} webpubsub/server: Server respond with error code 404: 404 page not found
+WebPubSub :->  2022/06/12 04:08:41 reconnection_manager.go:110: Network disconnected, reconnection try 3 of 50
+ {webpubsub/server: Server respond with error code 404: 404 page not found Unknown Time 404 false      [] [] <nil>} webpubsub/server: Server respond with error code 404: 404 page not found
+WebPubSub :->  2022/06/12 04:08:42 request.go:313: 200 OK: resp.StatusCode, resp.Status, resp.Body, resp.Request.URL, string(body) 200 200 OK &{0x1162580 0xc000037500 0x13556e0} http://localhost:11443/v2/subscribe/demo/my-channel,my-another-channel,my-channel-pnpres,my-another-channel-pnpres/0?uuid=pn-4055c51f-d54a-47a6-ae24-3e818fa0b79f&channel-group=my-channelgroup,my-another-channel-group,my-channelgroup-pnpres,my-another-channel-group-pnpres&tr=0&state={"my-another-channel":{"k2":"v2"},"my-another-channel-group":{"k2":"v2"},"my-channel":{"k2":"v2"},"my-channelgroup":{"k2":"v2"}}&pnsdk=WebPubSub-Go/7.0.3 {"error":"timeout"}
+WebPubSub :->  2022/06/12 04:08:42 request.go:216: WPSUnknownCategory {"error":"timeout"} {Subscribe 200 false localhost:11443 pn-4055c51f-d54a-47a6-ae24-3e818fa0b79f  0xc0000b82d0}
+WebPubSub :->  2022/06/12 04:08:47 listener_manager.go:103: announceStatus exit
+WebPubSub :->  2022/06/12 04:09:08 webpubsub.go:755: WebPubSub Go v4 SDK: 7.0.3
+pnconf: &{{{0 0} 0 0 0 0} demo demo   localhost:11443 pn-cc843494-8aa3-4b72-9fae-c4cffeceed59 enigma false 10 10 310 60 0 0 50 60  3 0xc000116870 false false false 100 30 20 true true 5 true}
+go1.18.3
+amd64
+darwin
+WebPubSub :->  2022/06/12 04:09:08 webpubsub.go:778: Init RequestWorkers: workers 20
+WebPubSub :->  2022/06/12 04:09:08 request_workers.go:80: Start: Running with workers  20
+WebPubSub :->  2022/06/12 04:09:08 request_workers.go:83: Start: StartNonSubWorker  0
+WebPubSub :->  2022/06/12 04:09:08 request_workers.go:83: Start: StartNonSubWorker  1
+WebPubSub :->  2022/06/12 04:09:08 request_workers.go:83: Start: StartNonSubWorker  2
+WebPubSub :->  2022/06/12 04:09:08 request_workers.go:83: Start: StartNonSubWorker  3
+WebPubSub :->  2022/06/12 04:09:08 request_workers.go:83: Start: StartNonSubWorker  4
+WebPubSub :->  2022/06/12 04:09:08 request_workers.go:83: Start: StartNonSubWorker  5
+WebPubSub :->  2022/06/12 04:09:08 request_workers.go:83: Start: StartNonSubWorker  6
+WebPubSub :->  2022/06/12 04:09:08 request_workers.go:83: Start: StartNonSubWorker  7
+WebPubSub :->  2022/06/12 04:09:08 request_workers.go:83: Start: StartNonSubWorker  8
+WebPubSub :->  2022/06/12 04:09:08 request_workers.go:83: Start: StartNonSubWorker  9
+WebPubSub :->  2022/06/12 04:09:08 request_workers.go:83: Start: StartNonSubWorker  10
+WebPubSub :->  2022/06/12 04:09:08 request_workers.go:83: Start: StartNonSubWorker  11
+WebPubSub :->  2022/06/12 04:09:08 request_workers.go:83: Start: StartNonSubWorker  12
+WebPubSub :->  2022/06/12 04:09:08 request_workers.go:83: Start: StartNonSubWorker  13
+WebPubSub :->  2022/06/12 04:09:08 request_workers.go:83: Start: StartNonSubWorker  14
+WebPubSub :->  2022/06/12 04:09:08 request_workers.go:83: Start: StartNonSubWorker  15
+WebPubSub :->  2022/06/12 04:09:08 request_workers.go:83: Start: StartNonSubWorker  16
+WebPubSub :->  2022/06/12 04:09:08 request_workers.go:83: Start: StartNonSubWorker  17
+WebPubSub :->  2022/06/12 04:09:08 request_workers.go:83: Start: StartNonSubWorker  18
+WebPubSub :->  2022/06/12 04:09:08 request_workers.go:83: Start: StartNonSubWorker  19
+WebPubSub :->  2022/06/12 04:09:08 subscription_manager.go:202: adapting a new subscription [my-channel my-another-channel] true
+WebPubSub :->  2022/06/12 04:09:08 subscription_manager.go:1048: reconnect
+WebPubSub :->  2022/06/12 04:09:08 reconnection_manager.go:162: stopHeartbeatTimer
+WebPubSub :->  2022/06/12 04:09:08 reconnection_manager.go:169: stopHeartbeatTimer true
+WebPubSub :->  2022/06/12 04:09:08 subscription_manager.go:1050: after stopHeartbeatTimer
+WebPubSub :->  2022/06/12 04:09:08 subscription_manager.go:1106: webpubsub: subscribe: loop stop: pn-cc843494-8aa3-4b72-9fae-c4cffeceed59: [my-channel my-another-channel my-channel-pnpres my-another-channel-pnpres]/[my-channelgroup my-another-channel-group my-channelgroup-pnpres my-another-channel-group-pnpres]
+WebPubSub :->  2022/06/12 04:09:08 subscription_manager.go:291: startSubscribeLoop
+WebPubSub :->  2022/06/12 04:09:08 subscription_manager.go:297: startSubscribeLoop looping...
+WebPubSub :->  2022/06/12 04:09:08 subscription_manager.go:515: subscribeMessageWorker setting context
+WebPubSub :->  2022/06/12 04:09:08 subscription_manager.go:517: subscribeMessageWorker after setting context
+WebPubSub :->  2022/06/12 04:09:08 subscription_manager.go:520: subscribeMessageWorker
+WebPubSub :->  2022/06/12 04:09:08 subscription_manager.go:523: acquiring lock exitSubscriptionManagerMutex
+WebPubSub :->  2022/06/12 04:09:08 subscription_manager.go:529: make channel exitSubscriptionManager
+WebPubSub :->  2022/06/12 04:09:08 subscription_manager.go:535: subscribeMessageWorker looping...
+WebPubSub :->  2022/06/12 04:09:08 heartbeat_manager.go:166: heartbeat: loop: stopping...
+WebPubSub :->  2022/06/12 04:09:08 reconnection_manager.go:75: Reconnection policy: 3, retries: 50
+WebPubSub :->  2022/06/12 04:09:08 request.go:97: url:http://localhost:11443/v2/subscribe/demo/my-channel,my-another-channel,my-channel-pnpres,my-another-channel-pnpres/0?pnsdk=WebPubSub-Go/7.0.3&uuid=pn-cc843494-8aa3-4b72-9fae-c4cffeceed59&channel-group=my-channelgroup,my-another-channel-group,my-channelgroup-pnpres,my-another-channel-group-pnpres&tr=0&state={"my-another-channel":{"k2":"v2"},"my-another-channel-group":{"k2":"v2"},"my-channel":{"k2":"v2"},"my-channelgroup":{"k2":"v2"}}
+method:GET
+WebPubSub :->  2022/06/12 04:09:08 heartbeat_manager.go:133: heartbeat: new timer 0
+WebPubSub :->  2022/06/12 04:09:08 request.go:97: url:http://localhost:11443/time/0?pnsdk=WebPubSub-Go/7.0.3&uuid=pn-cc843494-8aa3-4b72-9fae-c4cffeceed59
+method:GET
+WebPubSub :->  2022/06/12 04:09:08 request.go:284: webpubsub/server: Server respond with error code 404: 404 page not found
+WebPubSub :->  2022/06/12 04:09:08 request.go:299: WPSUnknownCategory: resp.StatusCode, resp.Body, resp.Request.URL 404 &{0x1162580 0xc000113500 0x13556e0} http://localhost:11443/time/0?pnsdk=WebPubSub-Go/7.0.3&uuid=pn-cc843494-8aa3-4b72-9fae-c4cffeceed59
+WebPubSub :->  2022/06/12 04:09:08 request.go:187: res.StatusCode, status, err.Error() 404 {webpubsub/server: Server respond with error code 404: 404 page not found Unknown Time 404 false      [] [] <nil>} webpubsub/server: Server respond with error code 404: 404 page not found
+WebPubSub :->  2022/06/12 04:09:08 reconnection_manager.go:110: Network disconnected, reconnection try 1 of 50
+ {webpubsub/server: Server respond with error code 404: 404 page not found Unknown Time 404 false      [] [] <nil>} webpubsub/server: Server respond with error code 404: 404 page not found
+WebPubSub :->  2022/06/12 04:09:09 request.go:97: url:http://localhost:11443/time/0?pnsdk=WebPubSub-Go/7.0.3&uuid=pn-cc843494-8aa3-4b72-9fae-c4cffeceed59
+method:GET
+WebPubSub :->  2022/06/12 04:09:09 request.go:284: webpubsub/server: Server respond with error code 404: 404 page not found
+WebPubSub :->  2022/06/12 04:09:09 request.go:299: WPSUnknownCategory: resp.StatusCode, resp.Body, resp.Request.URL 404 &{0x1162580 0xc000036300 0x13556e0} http://localhost:11443/time/0?pnsdk=WebPubSub-Go/7.0.3&uuid=pn-cc843494-8aa3-4b72-9fae-c4cffeceed59
+WebPubSub :->  2022/06/12 04:09:09 request.go:187: res.StatusCode, status, err.Error() 404 {webpubsub/server: Server respond with error code 404: 404 page not found Unknown Time 404 false      [] [] <nil>} webpubsub/server: Server respond with error code 404: 404 page not found
+WebPubSub :->  2022/06/12 04:09:09 reconnection_manager.go:110: Network disconnected, reconnection try 2 of 50
+ {webpubsub/server: Server respond with error code 404: 404 page not found Unknown Time 404 false      [] [] <nil>} webpubsub/server: Server respond with error code 404: 404 page not found
+WebPubSub :->  2022/06/12 04:09:12 request.go:97: url:http://localhost:11443/time/0?pnsdk=WebPubSub-Go/7.0.3&uuid=pn-cc843494-8aa3-4b72-9fae-c4cffeceed59
+method:GET
+WebPubSub :->  2022/06/12 04:09:12 request.go:284: webpubsub/server: Server respond with error code 404: 404 page not found
+WebPubSub :->  2022/06/12 04:09:12 request.go:299: WPSUnknownCategory: resp.StatusCode, resp.Body, resp.Request.URL 404 &{0x1162580 0xc0000363c0 0x13556e0} http://localhost:11443/time/0?pnsdk=WebPubSub-Go/7.0.3&uuid=pn-cc843494-8aa3-4b72-9fae-c4cffeceed59
+WebPubSub :->  2022/06/12 04:09:12 request.go:187: res.StatusCode, status, err.Error() 404 {webpubsub/server: Server respond with error code 404: 404 page not found Unknown Time 404 false      [] [] <nil>} webpubsub/server: Server respond with error code 404: 404 page not found
+WebPubSub :->  2022/06/12 04:09:12 reconnection_manager.go:110: Network disconnected, reconnection try 3 of 50
+ {webpubsub/server: Server respond with error code 404: 404 page not found Unknown Time 404 false      [] [] <nil>} webpubsub/server: Server respond with error code 404: 404 page not found
+WebPubSub :->  2022/06/12 04:09:13 request.go:313: 200 OK: resp.StatusCode, resp.Status, resp.Body, resp.Request.URL, string(body) 200 200 OK &{0x1162580 0xc0001136c0 0x13556e0} http://localhost:11443/v2/subscribe/demo/my-channel,my-another-channel,my-channel-pnpres,my-another-channel-pnpres/0?pnsdk=WebPubSub-Go/7.0.3&uuid=pn-cc843494-8aa3-4b72-9fae-c4cffeceed59&channel-group=my-channelgroup,my-another-channel-group,my-channelgroup-pnpres,my-another-channel-group-pnpres&tr=0&state={"my-another-channel":{"k2":"v2"},"my-another-channel-group":{"k2":"v2"},"my-channel":{"k2":"v2"},"my-channelgroup":{"k2":"v2"}} {"error":"timeout"}
+WebPubSub :->  2022/06/12 04:09:13 request.go:216: WPSUnknownCategory {"error":"timeout"} {Subscribe 200 false localhost:11443 pn-cc843494-8aa3-4b72-9fae-c4cffeceed59  0xc00014e510}
+WebPubSub :->  2022/06/12 04:10:21 webpubsub.go:755: WebPubSub Go v4 SDK: 7.0.3
+pnconf: &{{{0 0} 0 0 0 0} demo demo   localhost:11443 pn-d5715fa1-b955-4beb-b7b8-900cb80afc80 enigma false 10 10 310 60 0 0 50 60  3 0xc0001b8820 false false false 100 30 20 true true 5 true}
+go1.18.3
+amd64
+darwin
+WebPubSub :->  2022/06/12 04:10:21 webpubsub.go:778: Init RequestWorkers: workers 20
+WebPubSub :->  2022/06/12 04:10:21 request_workers.go:80: Start: Running with workers  20
+WebPubSub :->  2022/06/12 04:10:21 request_workers.go:83: Start: StartNonSubWorker  0
+WebPubSub :->  2022/06/12 04:10:21 request_workers.go:83: Start: StartNonSubWorker  1
+WebPubSub :->  2022/06/12 04:10:21 request_workers.go:83: Start: StartNonSubWorker  2
+WebPubSub :->  2022/06/12 04:10:21 request_workers.go:83: Start: StartNonSubWorker  3
+WebPubSub :->  2022/06/12 04:10:21 request_workers.go:83: Start: StartNonSubWorker  4
+WebPubSub :->  2022/06/12 04:10:21 request_workers.go:83: Start: StartNonSubWorker  5
+WebPubSub :->  2022/06/12 04:10:21 request_workers.go:83: Start: StartNonSubWorker  6
+WebPubSub :->  2022/06/12 04:10:21 request_workers.go:83: Start: StartNonSubWorker  7
+WebPubSub :->  2022/06/12 04:10:21 request_workers.go:83: Start: StartNonSubWorker  8
+WebPubSub :->  2022/06/12 04:10:21 request_workers.go:83: Start: StartNonSubWorker  9
+WebPubSub :->  2022/06/12 04:10:21 request_workers.go:83: Start: StartNonSubWorker  10
+WebPubSub :->  2022/06/12 04:10:21 request_workers.go:83: Start: StartNonSubWorker  11
+WebPubSub :->  2022/06/12 04:10:21 request_workers.go:83: Start: StartNonSubWorker  12
+WebPubSub :->  2022/06/12 04:10:21 request_workers.go:83: Start: StartNonSubWorker  13
+WebPubSub :->  2022/06/12 04:10:21 request_workers.go:83: Start: StartNonSubWorker  14
+WebPubSub :->  2022/06/12 04:10:21 request_workers.go:83: Start: StartNonSubWorker  15
+WebPubSub :->  2022/06/12 04:10:21 request_workers.go:83: Start: StartNonSubWorker  16
+WebPubSub :->  2022/06/12 04:10:21 request_workers.go:83: Start: StartNonSubWorker  17
+WebPubSub :->  2022/06/12 04:10:21 request_workers.go:83: Start: StartNonSubWorker  18
+WebPubSub :->  2022/06/12 04:10:21 request_workers.go:83: Start: StartNonSubWorker  19
+WebPubSub :->  2022/06/12 04:10:21 subscription_manager.go:202: adapting a new subscription [my-channel my-another-channel] true
+WebPubSub :->  2022/06/12 04:10:21 subscription_manager.go:1048: reconnect
+WebPubSub :->  2022/06/12 04:10:21 reconnection_manager.go:162: stopHeartbeatTimer
+WebPubSub :->  2022/06/12 04:10:21 reconnection_manager.go:169: stopHeartbeatTimer true
+WebPubSub :->  2022/06/12 04:10:21 subscription_manager.go:1050: after stopHeartbeatTimer
+WebPubSub :->  2022/06/12 04:10:21 subscription_manager.go:1106: webpubsub: subscribe: loop stop: pn-d5715fa1-b955-4beb-b7b8-900cb80afc80: [my-channel my-another-channel my-channel-pnpres my-another-channel-pnpres]/[my-channelgroup my-another-channel-group my-channelgroup-pnpres my-another-channel-group-pnpres]
+WebPubSub :->  2022/06/12 04:10:21 subscription_manager.go:291: startSubscribeLoop
+WebPubSub :->  2022/06/12 04:10:21 subscription_manager.go:297: startSubscribeLoop looping...
+WebPubSub :->  2022/06/12 04:10:21 reconnection_manager.go:75: Reconnection policy: 3, retries: 50
+WebPubSub :->  2022/06/12 04:10:21 subscription_manager.go:515: subscribeMessageWorker setting context
+WebPubSub :->  2022/06/12 04:10:21 subscription_manager.go:517: subscribeMessageWorker after setting context
+WebPubSub :->  2022/06/12 04:10:21 heartbeat_manager.go:166: heartbeat: loop: stopping...
+WebPubSub :->  2022/06/12 04:10:21 heartbeat_manager.go:133: heartbeat: new timer 0
+WebPubSub :->  2022/06/12 04:10:21 subscription_manager.go:520: subscribeMessageWorker
+WebPubSub :->  2022/06/12 04:10:21 request.go:97: url:http://localhost:11443/time/0?pnsdk=WebPubSub-Go/7.0.3&uuid=pn-d5715fa1-b955-4beb-b7b8-900cb80afc80
+method:GET
+WebPubSub :->  2022/06/12 04:10:21 request.go:97: url:http://localhost:11443/v2/subscribe/demo/my-channel,my-another-channel,my-channel-pnpres,my-another-channel-pnpres/0?pnsdk=WebPubSub-Go/7.0.3&uuid=pn-d5715fa1-b955-4beb-b7b8-900cb80afc80&channel-group=my-another-channel-group,my-channelgroup,my-channelgroup-pnpres,my-another-channel-group-pnpres&tr=0&state={"my-another-channel":{"k2":"v2"},"my-another-channel-group":{"k2":"v2"},"my-channel":{"k2":"v2"},"my-channelgroup":{"k2":"v2"}}
+method:GET
+WebPubSub :->  2022/06/12 04:10:21 subscription_manager.go:523: acquiring lock exitSubscriptionManagerMutex
+WebPubSub :->  2022/06/12 04:10:21 subscription_manager.go:529: make channel exitSubscriptionManager
+WebPubSub :->  2022/06/12 04:10:21 subscription_manager.go:535: subscribeMessageWorker looping...
+WebPubSub :->  2022/06/12 04:10:21 request.go:284: webpubsub/server: Server respond with error code 404: 404 page not found
+WebPubSub :->  2022/06/12 04:10:21 request.go:299: WPSUnknownCategory: resp.StatusCode, resp.Body, resp.Request.URL 404 &{0x1162580 0xc00038e180 0x13556e0} http://localhost:11443/time/0?pnsdk=WebPubSub-Go/7.0.3&uuid=pn-d5715fa1-b955-4beb-b7b8-900cb80afc80
+WebPubSub :->  2022/06/12 04:10:21 request.go:187: res.StatusCode, status, err.Error() 404 {webpubsub/server: Server respond with error code 404: 404 page not found Unknown Time 404 false      [] [] <nil>} webpubsub/server: Server respond with error code 404: 404 page not found
+WebPubSub :->  2022/06/12 04:10:21 reconnection_manager.go:110: Network disconnected, reconnection try 1 of 50
+ {webpubsub/server: Server respond with error code 404: 404 page not found Unknown Time 404 false      [] [] <nil>} webpubsub/server: Server respond with error code 404: 404 page not found
+WebPubSub :->  2022/06/12 04:10:22 request.go:97: url:http://localhost:11443/time/0?pnsdk=WebPubSub-Go/7.0.3&uuid=pn-d5715fa1-b955-4beb-b7b8-900cb80afc80
+method:GET
+WebPubSub :->  2022/06/12 04:10:22 request.go:284: webpubsub/server: Server respond with error code 404: 404 page not found
+WebPubSub :->  2022/06/12 04:10:22 request.go:299: WPSUnknownCategory: resp.StatusCode, resp.Body, resp.Request.URL 404 &{0x1162580 0xc0001cb400 0x13556e0} http://localhost:11443/time/0?pnsdk=WebPubSub-Go/7.0.3&uuid=pn-d5715fa1-b955-4beb-b7b8-900cb80afc80
+WebPubSub :->  2022/06/12 04:10:22 request.go:187: res.StatusCode, status, err.Error() 404 {webpubsub/server: Server respond with error code 404: 404 page not found Unknown Time 404 false      [] [] <nil>} webpubsub/server: Server respond with error code 404: 404 page not found
+WebPubSub :->  2022/06/12 04:10:22 reconnection_manager.go:110: Network disconnected, reconnection try 2 of 50
+ {webpubsub/server: Server respond with error code 404: 404 page not found Unknown Time 404 false      [] [] <nil>} webpubsub/server: Server respond with error code 404: 404 page not found
+WebPubSub :->  2022/06/12 04:10:25 request.go:97: url:http://localhost:11443/time/0?pnsdk=WebPubSub-Go/7.0.3&uuid=pn-d5715fa1-b955-4beb-b7b8-900cb80afc80
+method:GET
+WebPubSub :->  2022/06/12 04:10:25 request.go:284: webpubsub/server: Server respond with error code 404: 404 page not found
+WebPubSub :->  2022/06/12 04:10:25 request.go:299: WPSUnknownCategory: resp.StatusCode, resp.Body, resp.Request.URL 404 &{0x1162580 0xc00038e2c0 0x13556e0} http://localhost:11443/time/0?pnsdk=WebPubSub-Go/7.0.3&uuid=pn-d5715fa1-b955-4beb-b7b8-900cb80afc80
+WebPubSub :->  2022/06/12 04:10:25 request.go:187: res.StatusCode, status, err.Error() 404 {webpubsub/server: Server respond with error code 404: 404 page not found Unknown Time 404 false      [] [] <nil>} webpubsub/server: Server respond with error code 404: 404 page not found
+WebPubSub :->  2022/06/12 04:10:25 reconnection_manager.go:110: Network disconnected, reconnection try 3 of 50
+ {webpubsub/server: Server respond with error code 404: 404 page not found Unknown Time 404 false      [] [] <nil>} webpubsub/server: Server respond with error code 404: 404 page not found
+WebPubSub :->  2022/06/12 04:10:26 request.go:284: webpubsub/server: Server respond with error code 400: {"error":"timeout"}
+WebPubSub :->  2022/06/12 04:10:26 request.go:294: WPSBadRequestCategory: resp.StatusCode, resp.Body, resp.Request.URL 400 &{0x1162580 0xc0001cb540 0x13556e0} http://localhost:11443/v2/subscribe/demo/my-channel,my-another-channel,my-channel-pnpres,my-another-channel-pnpres/0?pnsdk=WebPubSub-Go/7.0.3&uuid=pn-d5715fa1-b955-4beb-b7b8-900cb80afc80&channel-group=my-another-channel-group,my-channelgroup,my-channelgroup-pnpres,my-another-channel-group-pnpres&tr=0&state={"my-another-channel":{"k2":"v2"},"my-another-channel-group":{"k2":"v2"},"my-channel":{"k2":"v2"},"my-channelgroup":{"k2":"v2"}}
+WebPubSub :->  2022/06/12 04:10:26 request.go:187: res.StatusCode, status, err.Error() 400 {webpubsub/server: Server respond with error code 400: {"error":"timeout"} Bad Request No Category Matched 400 false      [] [] <nil>} webpubsub/server: Server respond with error code 400: {"error":"timeout"}
+WebPubSub :->  2022/06/12 04:10:26 subscription_manager.go:339: webpubsub/server: Server respond with error code 400: {"error":"timeout"}
+WebPubSub :->  2022/06/12 04:10:26 subscription_manager.go:345: continue
+WebPubSub :->  2022/06/12 04:10:26 subscription_manager.go:297: startSubscribeLoop looping...
+WebPubSub :->  2022/06/12 04:10:26 listener_manager.go:103: announceStatus exit
+WebPubSub :->  2022/06/12 04:10:26 request.go:97: url:http://localhost:11443/v2/subscribe/demo/my-another-channel,my-channel,my-channel-pnpres,my-another-channel-pnpres/0?pnsdk=WebPubSub-Go/7.0.3&uuid=pn-d5715fa1-b955-4beb-b7b8-900cb80afc80&channel-group=my-another-channel-group,my-channelgroup,my-channelgroup-pnpres,my-another-channel-group-pnpres&tr=0&state={"my-another-channel":{"k2":"v2"},"my-another-channel-group":{"k2":"v2"},"my-channel":{"k2":"v2"},"my-channelgroup":{"k2":"v2"}}
+method:GET
+WebPubSub :->  2022/06/12 04:10:31 request.go:284: webpubsub/server: Server respond with error code 400: {"error":"timeout"}
+WebPubSub :->  2022/06/12 04:10:31 request.go:294: WPSBadRequestCategory: resp.StatusCode, resp.Body, resp.Request.URL 400 &{0x1162580 0xc0000367c0 0x13556e0} http://localhost:11443/v2/subscribe/demo/my-another-channel,my-channel,my-channel-pnpres,my-another-channel-pnpres/0?pnsdk=WebPubSub-Go/7.0.3&uuid=pn-d5715fa1-b955-4beb-b7b8-900cb80afc80&channel-group=my-another-channel-group,my-channelgroup,my-channelgroup-pnpres,my-another-channel-group-pnpres&tr=0&state={"my-another-channel":{"k2":"v2"},"my-another-channel-group":{"k2":"v2"},"my-channel":{"k2":"v2"},"my-channelgroup":{"k2":"v2"}}
+WebPubSub :->  2022/06/12 04:10:31 request.go:187: res.StatusCode, status, err.Error() 400 {webpubsub/server: Server respond with error code 400: {"error":"timeout"} Bad Request No Category Matched 400 false      [] [] <nil>} webpubsub/server: Server respond with error code 400: {"error":"timeout"}
+WebPubSub :->  2022/06/12 04:10:31 subscription_manager.go:339: webpubsub/server: Server respond with error code 400: {"error":"timeout"}
+WebPubSub :->  2022/06/12 04:10:31 subscription_manager.go:345: continue
+WebPubSub :->  2022/06/12 04:10:31 subscription_manager.go:297: startSubscribeLoop looping...
+WebPubSub :->  2022/06/12 04:10:31 listener_manager.go:103: announceStatus exit
+WebPubSub :->  2022/06/12 04:10:31 request.go:97: url:http://localhost:11443/v2/subscribe/demo/my-channel,my-another-channel,my-channel-pnpres,my-another-channel-pnpres/0?pnsdk=WebPubSub-Go/7.0.3&uuid=pn-d5715fa1-b955-4beb-b7b8-900cb80afc80&channel-group=my-channelgroup,my-another-channel-group,my-channelgroup-pnpres,my-another-channel-group-pnpres&tr=0&state={"my-another-channel":{"k2":"v2"},"my-another-channel-group":{"k2":"v2"},"my-channel":{"k2":"v2"},"my-channelgroup":{"k2":"v2"}}
+method:GET
+WebPubSub :->  2022/06/12 04:10:32 request.go:97: url:http://localhost:11443/time/0?pnsdk=WebPubSub-Go/7.0.3&uuid=pn-d5715fa1-b955-4beb-b7b8-900cb80afc80
+method:GET
+WebPubSub :->  2022/06/12 04:10:32 request.go:284: webpubsub/server: Server respond with error code 404: 404 page not found
+WebPubSub :->  2022/06/12 04:10:32 request.go:299: WPSUnknownCategory: resp.StatusCode, resp.Body, resp.Request.URL 404 &{0x1162580 0xc000092240 0x13556e0} http://localhost:11443/time/0?pnsdk=WebPubSub-Go/7.0.3&uuid=pn-d5715fa1-b955-4beb-b7b8-900cb80afc80
+WebPubSub :->  2022/06/12 04:10:32 request.go:187: res.StatusCode, status, err.Error() 404 {webpubsub/server: Server respond with error code 404: 404 page not found Unknown Time 404 false      [] [] <nil>} webpubsub/server: Server respond with error code 404: 404 page not found
+WebPubSub :->  2022/06/12 04:10:32 reconnection_manager.go:110: Network disconnected, reconnection try 4 of 50
+ {webpubsub/server: Server respond with error code 404: 404 page not found Unknown Time 404 false      [] [] <nil>} webpubsub/server: Server respond with error code 404: 404 page not found
+WebPubSub :->  2022/06/12 04:10:36 request.go:284: webpubsub/server: Server respond with error code 400: {"error":"timeout"}
+WebPubSub :->  2022/06/12 04:10:36 request.go:294: WPSBadRequestCategory: resp.StatusCode, resp.Body, resp.Request.URL 400 &{0x1162580 0xc000092300 0x13556e0} http://localhost:11443/v2/subscribe/demo/my-channel,my-another-channel,my-channel-pnpres,my-another-channel-pnpres/0?pnsdk=WebPubSub-Go/7.0.3&uuid=pn-d5715fa1-b955-4beb-b7b8-900cb80afc80&channel-group=my-channelgroup,my-another-channel-group,my-channelgroup-pnpres,my-another-channel-group-pnpres&tr=0&state={"my-another-channel":{"k2":"v2"},"my-another-channel-group":{"k2":"v2"},"my-channel":{"k2":"v2"},"my-channelgroup":{"k2":"v2"}}
+WebPubSub :->  2022/06/12 04:10:36 request.go:187: res.StatusCode, status, err.Error() 400 {webpubsub/server: Server respond with error code 400: {"error":"timeout"} Bad Request No Category Matched 400 false      [] [] <nil>} webpubsub/server: Server respond with error code 400: {"error":"timeout"}
+WebPubSub :->  2022/06/12 04:10:36 subscription_manager.go:339: webpubsub/server: Server respond with error code 400: {"error":"timeout"}
+WebPubSub :->  2022/06/12 04:10:36 subscription_manager.go:345: continue
+WebPubSub :->  2022/06/12 04:10:36 subscription_manager.go:297: startSubscribeLoop looping...
+WebPubSub :->  2022/06/12 04:10:36 listener_manager.go:103: announceStatus exit
+WebPubSub :->  2022/06/12 04:10:36 request.go:97: url:http://localhost:11443/v2/subscribe/demo/my-channel,my-another-channel,my-channel-pnpres,my-another-channel-pnpres/0?pnsdk=WebPubSub-Go/7.0.3&uuid=pn-d5715fa1-b955-4beb-b7b8-900cb80afc80&channel-group=my-channelgroup,my-another-channel-group,my-channelgroup-pnpres,my-another-channel-group-pnpres&tr=0&state={"my-another-channel":{"k2":"v2"},"my-another-channel-group":{"k2":"v2"},"my-channel":{"k2":"v2"},"my-channelgroup":{"k2":"v2"}}
+method:GET
+WebPubSub :->  2022/06/12 04:10:41 request.go:284: webpubsub/server: Server respond with error code 400: {"error":"timeout"}
+WebPubSub :->  2022/06/12 04:10:41 request.go:294: WPSBadRequestCategory: resp.StatusCode, resp.Body, resp.Request.URL 400 &{0x1162580 0xc000092880 0x13556e0} http://localhost:11443/v2/subscribe/demo/my-channel,my-another-channel,my-channel-pnpres,my-another-channel-pnpres/0?pnsdk=WebPubSub-Go/7.0.3&uuid=pn-d5715fa1-b955-4beb-b7b8-900cb80afc80&channel-group=my-channelgroup,my-another-channel-group,my-channelgroup-pnpres,my-another-channel-group-pnpres&tr=0&state={"my-another-channel":{"k2":"v2"},"my-another-channel-group":{"k2":"v2"},"my-channel":{"k2":"v2"},"my-channelgroup":{"k2":"v2"}}
+WebPubSub :->  2022/06/12 04:10:41 request.go:187: res.StatusCode, status, err.Error() 400 {webpubsub/server: Server respond with error code 400: {"error":"timeout"} Bad Request No Category Matched 400 false      [] [] <nil>} webpubsub/server: Server respond with error code 400: {"error":"timeout"}
+WebPubSub :->  2022/06/12 04:10:41 subscription_manager.go:339: webpubsub/server: Server respond with error code 400: {"error":"timeout"}
+WebPubSub :->  2022/06/12 04:10:41 subscription_manager.go:345: continue
+WebPubSub :->  2022/06/12 04:10:41 subscription_manager.go:297: startSubscribeLoop looping...
+WebPubSub :->  2022/06/12 04:10:41 listener_manager.go:103: announceStatus exit
+WebPubSub :->  2022/06/12 04:10:41 request.go:97: url:http://localhost:11443/v2/subscribe/demo/my-channel,my-another-channel,my-channel-pnpres,my-another-channel-pnpres/0?pnsdk=WebPubSub-Go/7.0.3&uuid=pn-d5715fa1-b955-4beb-b7b8-900cb80afc80&channel-group=my-channelgroup,my-another-channel-group,my-channelgroup-pnpres,my-another-channel-group-pnpres&tr=0&state={"my-another-channel":{"k2":"v2"},"my-another-channel-group":{"k2":"v2"},"my-channel":{"k2":"v2"},"my-channelgroup":{"k2":"v2"}}
+method:GET
+WebPubSub :->  2022/06/12 04:10:46 request.go:284: webpubsub/server: Server respond with error code 400: {"error":"timeout"}
+WebPubSub :->  2022/06/12 04:10:46 request.go:294: WPSBadRequestCategory: resp.StatusCode, resp.Body, resp.Request.URL 400 &{0x1162580 0xc000036dc0 0x13556e0} http://localhost:11443/v2/subscribe/demo/my-channel,my-another-channel,my-channel-pnpres,my-another-channel-pnpres/0?pnsdk=WebPubSub-Go/7.0.3&uuid=pn-d5715fa1-b955-4beb-b7b8-900cb80afc80&channel-group=my-channelgroup,my-another-channel-group,my-channelgroup-pnpres,my-another-channel-group-pnpres&tr=0&state={"my-another-channel":{"k2":"v2"},"my-another-channel-group":{"k2":"v2"},"my-channel":{"k2":"v2"},"my-channelgroup":{"k2":"v2"}}
+WebPubSub :->  2022/06/12 04:10:46 request.go:187: res.StatusCode, status, err.Error() 400 {webpubsub/server: Server respond with error code 400: {"error":"timeout"} Bad Request No Category Matched 400 false      [] [] <nil>} webpubsub/server: Server respond with error code 400: {"error":"timeout"}
+WebPubSub :->  2022/06/12 04:10:46 subscription_manager.go:339: webpubsub/server: Server respond with error code 400: {"error":"timeout"}
+WebPubSub :->  2022/06/12 04:10:46 subscription_manager.go:345: continue
+WebPubSub :->  2022/06/12 04:10:46 subscription_manager.go:297: startSubscribeLoop looping...
+WebPubSub :->  2022/06/12 04:10:46 listener_manager.go:103: announceStatus exit
+WebPubSub :->  2022/06/12 04:10:46 request.go:97: url:http://localhost:11443/v2/subscribe/demo/my-channel,my-another-channel,my-channel-pnpres,my-another-channel-pnpres/0?pnsdk=WebPubSub-Go/7.0.3&uuid=pn-d5715fa1-b955-4beb-b7b8-900cb80afc80&channel-group=my-channelgroup,my-another-channel-group,my-another-channel-group-pnpres,my-channelgroup-pnpres&tr=0&state={"my-another-channel":{"k2":"v2"},"my-another-channel-group":{"k2":"v2"},"my-channel":{"k2":"v2"},"my-channelgroup":{"k2":"v2"}}
+method:GET
+WebPubSub :->  2022/06/12 04:10:47 request.go:97: url:http://localhost:11443/time/0?pnsdk=WebPubSub-Go/7.0.3&uuid=pn-d5715fa1-b955-4beb-b7b8-900cb80afc80
+method:GET
+WebPubSub :->  2022/06/12 04:10:47 request.go:284: webpubsub/server: Server respond with error code 404: 404 page not found
+WebPubSub :->  2022/06/12 04:10:47 request.go:299: WPSUnknownCategory: resp.StatusCode, resp.Body, resp.Request.URL 404 &{0x1162580 0xc00038e380 0x13556e0} http://localhost:11443/time/0?pnsdk=WebPubSub-Go/7.0.3&uuid=pn-d5715fa1-b955-4beb-b7b8-900cb80afc80
+WebPubSub :->  2022/06/12 04:10:47 request.go:187: res.StatusCode, status, err.Error() 404 {webpubsub/server: Server respond with error code 404: 404 page not found Unknown Time 404 false      [] [] <nil>} webpubsub/server: Server respond with error code 404: 404 page not found
+WebPubSub :->  2022/06/12 04:10:47 reconnection_manager.go:110: Network disconnected, reconnection try 5 of 50
+ {webpubsub/server: Server respond with error code 404: 404 page not found Unknown Time 404 false      [] [] <nil>} webpubsub/server: Server respond with error code 404: 404 page not found
+WebPubSub :->  2022/06/12 04:10:51 request.go:284: webpubsub/server: Server respond with error code 400: {"error":"timeout"}
+WebPubSub :->  2022/06/12 04:10:51 request.go:294: WPSBadRequestCategory: resp.StatusCode, resp.Body, resp.Request.URL 400 &{0x1162580 0xc0000373c0 0x13556e0} http://localhost:11443/v2/subscribe/demo/my-channel,my-another-channel,my-channel-pnpres,my-another-channel-pnpres/0?pnsdk=WebPubSub-Go/7.0.3&uuid=pn-d5715fa1-b955-4beb-b7b8-900cb80afc80&channel-group=my-channelgroup,my-another-channel-group,my-another-channel-group-pnpres,my-channelgroup-pnpres&tr=0&state={"my-another-channel":{"k2":"v2"},"my-another-channel-group":{"k2":"v2"},"my-channel":{"k2":"v2"},"my-channelgroup":{"k2":"v2"}}
+WebPubSub :->  2022/06/12 04:10:51 request.go:187: res.StatusCode, status, err.Error() 400 {webpubsub/server: Server respond with error code 400: {"error":"timeout"} Bad Request No Category Matched 400 false      [] [] <nil>} webpubsub/server: Server respond with error code 400: {"error":"timeout"}
+WebPubSub :->  2022/06/12 04:10:51 subscription_manager.go:339: webpubsub/server: Server respond with error code 400: {"error":"timeout"}
+WebPubSub :->  2022/06/12 04:10:51 subscription_manager.go:345: continue
+WebPubSub :->  2022/06/12 04:10:51 subscription_manager.go:297: startSubscribeLoop looping...
+WebPubSub :->  2022/06/12 04:10:51 listener_manager.go:103: announceStatus exit
+WebPubSub :->  2022/06/12 04:10:51 request.go:97: url:http://localhost:11443/v2/subscribe/demo/my-channel,my-another-channel,my-another-channel-pnpres,my-channel-pnpres/0?pnsdk=WebPubSub-Go/7.0.3&uuid=pn-d5715fa1-b955-4beb-b7b8-900cb80afc80&channel-group=my-channelgroup,my-another-channel-group,my-channelgroup-pnpres,my-another-channel-group-pnpres&tr=0&state={"my-another-channel":{"k2":"v2"},"my-another-channel-group":{"k2":"v2"},"my-channel":{"k2":"v2"},"my-channelgroup":{"k2":"v2"}}
+method:GET
+WebPubSub :->  2022/06/12 04:10:56 request.go:284: webpubsub/server: Server respond with error code 400: {"error":"timeout"}
+WebPubSub :->  2022/06/12 04:10:56 request.go:294: WPSBadRequestCategory: resp.StatusCode, resp.Body, resp.Request.URL 400 &{0x1162580 0xc000037940 0x13556e0} http://localhost:11443/v2/subscribe/demo/my-channel,my-another-channel,my-another-channel-pnpres,my-channel-pnpres/0?pnsdk=WebPubSub-Go/7.0.3&uuid=pn-d5715fa1-b955-4beb-b7b8-900cb80afc80&channel-group=my-channelgroup,my-another-channel-group,my-channelgroup-pnpres,my-another-channel-group-pnpres&tr=0&state={"my-another-channel":{"k2":"v2"},"my-another-channel-group":{"k2":"v2"},"my-channel":{"k2":"v2"},"my-channelgroup":{"k2":"v2"}}
+WebPubSub :->  2022/06/12 04:10:56 request.go:187: res.StatusCode, status, err.Error() 400 {webpubsub/server: Server respond with error code 400: {"error":"timeout"} Bad Request No Category Matched 400 false      [] [] <nil>} webpubsub/server: Server respond with error code 400: {"error":"timeout"}
+WebPubSub :->  2022/06/12 04:10:56 subscription_manager.go:339: webpubsub/server: Server respond with error code 400: {"error":"timeout"}
+WebPubSub :->  2022/06/12 04:10:56 subscription_manager.go:345: continue
+WebPubSub :->  2022/06/12 04:10:56 subscription_manager.go:297: startSubscribeLoop looping...
+WebPubSub :->  2022/06/12 04:10:56 listener_manager.go:103: announceStatus exit
+WebPubSub :->  2022/06/12 04:10:56 request.go:97: url:http://localhost:11443/v2/subscribe/demo/my-another-channel,my-channel,my-channel-pnpres,my-another-channel-pnpres/0?pnsdk=WebPubSub-Go/7.0.3&uuid=pn-d5715fa1-b955-4beb-b7b8-900cb80afc80&channel-group=my-channelgroup,my-another-channel-group,my-channelgroup-pnpres,my-another-channel-group-pnpres&tr=0&state={"my-another-channel":{"k2":"v2"},"my-another-channel-group":{"k2":"v2"},"my-channel":{"k2":"v2"},"my-channelgroup":{"k2":"v2"}}
+method:GET
+WebPubSub :->  2022/06/12 04:11:01 request.go:284: webpubsub/server: Server respond with error code 400: {"error":"timeout"}
+WebPubSub :->  2022/06/12 04:11:01 request.go:294: WPSBadRequestCategory: resp.StatusCode, resp.Body, resp.Request.URL 400 &{0x1162580 0xc00038e480 0x13556e0} http://localhost:11443/v2/subscribe/demo/my-another-channel,my-channel,my-channel-pnpres,my-another-channel-pnpres/0?pnsdk=WebPubSub-Go/7.0.3&uuid=pn-d5715fa1-b955-4beb-b7b8-900cb80afc80&channel-group=my-channelgroup,my-another-channel-group,my-channelgroup-pnpres,my-another-channel-group-pnpres&tr=0&state={"my-another-channel":{"k2":"v2"},"my-another-channel-group":{"k2":"v2"},"my-channel":{"k2":"v2"},"my-channelgroup":{"k2":"v2"}}
+WebPubSub :->  2022/06/12 04:11:01 request.go:187: res.StatusCode, status, err.Error() 400 {webpubsub/server: Server respond with error code 400: {"error":"timeout"} Bad Request No Category Matched 400 false      [] [] <nil>} webpubsub/server: Server respond with error code 400: {"error":"timeout"}
+WebPubSub :->  2022/06/12 04:11:01 subscription_manager.go:339: webpubsub/server: Server respond with error code 400: {"error":"timeout"}
+WebPubSub :->  2022/06/12 04:11:01 subscription_manager.go:345: continue
+WebPubSub :->  2022/06/12 04:11:01 subscription_manager.go:297: startSubscribeLoop looping...
+WebPubSub :->  2022/06/12 04:11:01 listener_manager.go:103: announceStatus exit
+WebPubSub :->  2022/06/12 04:11:01 request.go:97: url:http://localhost:11443/v2/subscribe/demo/my-channel,my-another-channel,my-channel-pnpres,my-another-channel-pnpres/0?pnsdk=WebPubSub-Go/7.0.3&uuid=pn-d5715fa1-b955-4beb-b7b8-900cb80afc80&channel-group=my-channelgroup,my-another-channel-group,my-another-channel-group-pnpres,my-channelgroup-pnpres&tr=0&state={"my-another-channel":{"k2":"v2"},"my-another-channel-group":{"k2":"v2"},"my-channel":{"k2":"v2"},"my-channelgroup":{"k2":"v2"}}
+method:GET
+WebPubSub :->  2022/06/12 04:11:06 request.go:284: webpubsub/server: Server respond with error code 400: {"error":"timeout"}
+WebPubSub :->  2022/06/12 04:11:06 request.go:294: WPSBadRequestCategory: resp.StatusCode, resp.Body, resp.Request.URL 400 &{0x1162580 0xc00038ea00 0x13556e0} http://localhost:11443/v2/subscribe/demo/my-channel,my-another-channel,my-channel-pnpres,my-another-channel-pnpres/0?pnsdk=WebPubSub-Go/7.0.3&uuid=pn-d5715fa1-b955-4beb-b7b8-900cb80afc80&channel-group=my-channelgroup,my-another-channel-group,my-another-channel-group-pnpres,my-channelgroup-pnpres&tr=0&state={"my-another-channel":{"k2":"v2"},"my-another-channel-group":{"k2":"v2"},"my-channel":{"k2":"v2"},"my-channelgroup":{"k2":"v2"}}
+WebPubSub :->  2022/06/12 04:11:06 request.go:187: res.StatusCode, status, err.Error() 400 {webpubsub/server: Server respond with error code 400: {"error":"timeout"} Bad Request No Category Matched 400 false      [] [] <nil>} webpubsub/server: Server respond with error code 400: {"error":"timeout"}
+WebPubSub :->  2022/06/12 04:11:06 subscription_manager.go:339: webpubsub/server: Server respond with error code 400: {"error":"timeout"}
+WebPubSub :->  2022/06/12 04:11:06 subscription_manager.go:345: continue
+WebPubSub :->  2022/06/12 04:11:06 subscription_manager.go:297: startSubscribeLoop looping...
+WebPubSub :->  2022/06/12 04:11:06 listener_manager.go:103: announceStatus exit
+WebPubSub :->  2022/06/12 04:11:06 request.go:97: url:http://localhost:11443/v2/subscribe/demo/my-channel,my-another-channel,my-channel-pnpres,my-another-channel-pnpres/0?state={"my-another-channel":{"k2":"v2"},"my-another-channel-group":{"k2":"v2"},"my-channel":{"k2":"v2"},"my-channelgroup":{"k2":"v2"}}&pnsdk=WebPubSub-Go/7.0.3&uuid=pn-d5715fa1-b955-4beb-b7b8-900cb80afc80&channel-group=my-channelgroup,my-another-channel-group,my-channelgroup-pnpres,my-another-channel-group-pnpres&tr=0
+method:GET
+WebPubSub :->  2022/06/12 04:11:11 request.go:284: webpubsub/server: Server respond with error code 400: {"error":"timeout"}
+WebPubSub :->  2022/06/12 04:11:11 request.go:294: WPSBadRequestCategory: resp.StatusCode, resp.Body, resp.Request.URL 400 &{0x1162580 0xc000037e80 0x13556e0} http://localhost:11443/v2/subscribe/demo/my-channel,my-another-channel,my-channel-pnpres,my-another-channel-pnpres/0?state={"my-another-channel":{"k2":"v2"},"my-another-channel-group":{"k2":"v2"},"my-channel":{"k2":"v2"},"my-channelgroup":{"k2":"v2"}}&pnsdk=WebPubSub-Go/7.0.3&uuid=pn-d5715fa1-b955-4beb-b7b8-900cb80afc80&channel-group=my-channelgroup,my-another-channel-group,my-channelgroup-pnpres,my-another-channel-group-pnpres&tr=0
+WebPubSub :->  2022/06/12 04:11:11 request.go:187: res.StatusCode, status, err.Error() 400 {webpubsub/server: Server respond with error code 400: {"error":"timeout"} Bad Request No Category Matched 400 false      [] [] <nil>} webpubsub/server: Server respond with error code 400: {"error":"timeout"}
+WebPubSub :->  2022/06/12 04:11:11 subscription_manager.go:339: webpubsub/server: Server respond with error code 400: {"error":"timeout"}
+WebPubSub :->  2022/06/12 04:11:11 subscription_manager.go:345: continue
+WebPubSub :->  2022/06/12 04:11:11 subscription_manager.go:297: startSubscribeLoop looping...
+WebPubSub :->  2022/06/12 04:11:11 listener_manager.go:103: announceStatus exit
+WebPubSub :->  2022/06/12 04:11:11 request.go:97: url:http://localhost:11443/v2/subscribe/demo/my-channel,my-another-channel,my-channel-pnpres,my-another-channel-pnpres/0?pnsdk=WebPubSub-Go/7.0.3&uuid=pn-d5715fa1-b955-4beb-b7b8-900cb80afc80&channel-group=my-channelgroup,my-another-channel-group,my-channelgroup-pnpres,my-another-channel-group-pnpres&tr=0&state={"my-another-channel":{"k2":"v2"},"my-another-channel-group":{"k2":"v2"},"my-channel":{"k2":"v2"},"my-channelgroup":{"k2":"v2"}}
+method:GET
+WebPubSub :->  2022/06/12 04:11:16 request.go:284: webpubsub/server: Server respond with error code 400: {"error":"timeout"}
+WebPubSub :->  2022/06/12 04:11:16 request.go:294: WPSBadRequestCategory: resp.StatusCode, resp.Body, resp.Request.URL 400 &{0x1162580 0xc0004aa400 0x13556e0} http://localhost:11443/v2/subscribe/demo/my-channel,my-another-channel,my-channel-pnpres,my-another-channel-pnpres/0?pnsdk=WebPubSub-Go/7.0.3&uuid=pn-d5715fa1-b955-4beb-b7b8-900cb80afc80&channel-group=my-channelgroup,my-another-channel-group,my-channelgroup-pnpres,my-another-channel-group-pnpres&tr=0&state={"my-another-channel":{"k2":"v2"},"my-another-channel-group":{"k2":"v2"},"my-channel":{"k2":"v2"},"my-channelgroup":{"k2":"v2"}}
+WebPubSub :->  2022/06/12 04:11:16 request.go:187: res.StatusCode, status, err.Error() 400 {webpubsub/server: Server respond with error code 400: {"error":"timeout"} Bad Request No Category Matched 400 false      [] [] <nil>} webpubsub/server: Server respond with error code 400: {"error":"timeout"}
+WebPubSub :->  2022/06/12 04:11:16 subscription_manager.go:339: webpubsub/server: Server respond with error code 400: {"error":"timeout"}
+WebPubSub :->  2022/06/12 04:11:16 subscription_manager.go:345: continue
+WebPubSub :->  2022/06/12 04:11:16 subscription_manager.go:297: startSubscribeLoop looping...
+WebPubSub :->  2022/06/12 04:11:16 request.go:97: url:http://localhost:11443/v2/subscribe/demo/my-channel,my-another-channel,my-channel-pnpres,my-another-channel-pnpres/0?pnsdk=WebPubSub-Go/7.0.3&uuid=pn-d5715fa1-b955-4beb-b7b8-900cb80afc80&channel-group=my-channelgroup,my-another-channel-group,my-channelgroup-pnpres,my-another-channel-group-pnpres&tr=0&state={"my-another-channel":{"k2":"v2"},"my-another-channel-group":{"k2":"v2"},"my-channel":{"k2":"v2"},"my-channelgroup":{"k2":"v2"}}
+method:GET
+WebPubSub :->  2022/06/12 04:11:16 listener_manager.go:103: announceStatus exit
+WebPubSub :->  2022/06/12 04:11:18 request.go:97: url:http://localhost:11443/time/0?pnsdk=WebPubSub-Go/7.0.3&uuid=pn-d5715fa1-b955-4beb-b7b8-900cb80afc80
+method:GET
+WebPubSub :->  2022/06/12 04:11:18 request.go:284: webpubsub/server: Server respond with error code 404: 404 page not found
+WebPubSub :->  2022/06/12 04:11:18 request.go:299: WPSUnknownCategory: resp.StatusCode, resp.Body, resp.Request.URL 404 &{0x1162580 0xc00038ef80 0x13556e0} http://localhost:11443/time/0?pnsdk=WebPubSub-Go/7.0.3&uuid=pn-d5715fa1-b955-4beb-b7b8-900cb80afc80
+WebPubSub :->  2022/06/12 04:11:18 request.go:187: res.StatusCode, status, err.Error() 404 {webpubsub/server: Server respond with error code 404: 404 page not found Unknown Time 404 false      [] [] <nil>} webpubsub/server: Server respond with error code 404: 404 page not found
+WebPubSub :->  2022/06/12 04:11:18 reconnection_manager.go:148: timerInterval > MaxExponentialBackoff at: 1
+WebPubSub :->  2022/06/12 04:11:18 reconnection_manager.go:110: Network disconnected, reconnection try 6 of 50
+ {webpubsub/server: Server respond with error code 404: 404 page not found Unknown Time 404 false      [] [] <nil>} webpubsub/server: Server respond with error code 404: 404 page not found
+WebPubSub :->  2022/06/12 04:11:19 request.go:97: url:http://localhost:11443/time/0?pnsdk=WebPubSub-Go/7.0.3&uuid=pn-d5715fa1-b955-4beb-b7b8-900cb80afc80
+method:GET
+WebPubSub :->  2022/06/12 04:11:19 request.go:284: webpubsub/server: Server respond with error code 404: 404 page not found
+WebPubSub :->  2022/06/12 04:11:19 request.go:299: WPSUnknownCategory: resp.StatusCode, resp.Body, resp.Request.URL 404 &{0x1162580 0xc00038f040 0x13556e0} http://localhost:11443/time/0?pnsdk=WebPubSub-Go/7.0.3&uuid=pn-d5715fa1-b955-4beb-b7b8-900cb80afc80
+WebPubSub :->  2022/06/12 04:11:19 request.go:187: res.StatusCode, status, err.Error() 404 {webpubsub/server: Server respond with error code 404: 404 page not found Unknown Time 404 false      [] [] <nil>} webpubsub/server: Server respond with error code 404: 404 page not found
+WebPubSub :->  2022/06/12 04:11:19 reconnection_manager.go:110: Network disconnected, reconnection try 7 of 50
+ {webpubsub/server: Server respond with error code 404: 404 page not found Unknown Time 404 false      [] [] <nil>} webpubsub/server: Server respond with error code 404: 404 page not found
+WebPubSub :->  2022/06/12 04:11:21 request.go:284: webpubsub/server: Server respond with error code 400: {"error":"timeout"}
+WebPubSub :->  2022/06/12 04:11:21 request.go:294: WPSBadRequestCategory: resp.StatusCode, resp.Body, resp.Request.URL 400 &{0x1162580 0xc00038f100 0x13556e0} http://localhost:11443/v2/subscribe/demo/my-channel,my-another-channel,my-channel-pnpres,my-another-channel-pnpres/0?pnsdk=WebPubSub-Go/7.0.3&uuid=pn-d5715fa1-b955-4beb-b7b8-900cb80afc80&channel-group=my-channelgroup,my-another-channel-group,my-channelgroup-pnpres,my-another-channel-group-pnpres&tr=0&state={"my-another-channel":{"k2":"v2"},"my-another-channel-group":{"k2":"v2"},"my-channel":{"k2":"v2"},"my-channelgroup":{"k2":"v2"}}
+WebPubSub :->  2022/06/12 04:11:21 request.go:187: res.StatusCode, status, err.Error() 400 {webpubsub/server: Server respond with error code 400: {"error":"timeout"} Bad Request No Category Matched 400 false      [] [] <nil>} webpubsub/server: Server respond with error code 400: {"error":"timeout"}
+WebPubSub :->  2022/06/12 04:11:21 subscription_manager.go:339: webpubsub/server: Server respond with error code 400: {"error":"timeout"}
+WebPubSub :->  2022/06/12 04:11:21 subscription_manager.go:345: continue
+WebPubSub :->  2022/06/12 04:11:21 subscription_manager.go:297: startSubscribeLoop looping...
+WebPubSub :->  2022/06/12 04:11:21 listener_manager.go:103: announceStatus exit
+WebPubSub :->  2022/06/12 04:11:21 request.go:97: url:http://localhost:11443/v2/subscribe/demo/my-another-channel,my-channel,my-channel-pnpres,my-another-channel-pnpres/0?pnsdk=WebPubSub-Go/7.0.3&uuid=pn-d5715fa1-b955-4beb-b7b8-900cb80afc80&channel-group=my-channelgroup,my-another-channel-group,my-channelgroup-pnpres,my-another-channel-group-pnpres&tr=0&state={"my-another-channel":{"k2":"v2"},"my-another-channel-group":{"k2":"v2"},"my-channel":{"k2":"v2"},"my-channelgroup":{"k2":"v2"}}
+method:GET
+WebPubSub :->  2022/06/12 04:11:22 request.go:97: url:http://localhost:11443/time/0?uuid=pn-d5715fa1-b955-4beb-b7b8-900cb80afc80&pnsdk=WebPubSub-Go/7.0.3
+method:GET
+WebPubSub :->  2022/06/12 04:11:22 request.go:284: webpubsub/server: Server respond with error code 404: 404 page not found
+WebPubSub :->  2022/06/12 04:11:22 request.go:299: WPSUnknownCategory: resp.StatusCode, resp.Body, resp.Request.URL 404 &{0x1162580 0xc000092e00 0x13556e0} http://localhost:11443/time/0?uuid=pn-d5715fa1-b955-4beb-b7b8-900cb80afc80&pnsdk=WebPubSub-Go/7.0.3
+WebPubSub :->  2022/06/12 04:11:22 request.go:187: res.StatusCode, status, err.Error() 404 {webpubsub/server: Server respond with error code 404: 404 page not found Unknown Time 404 false      [] [] <nil>} webpubsub/server: Server respond with error code 404: 404 page not found
+WebPubSub :->  2022/06/12 04:11:22 reconnection_manager.go:110: Network disconnected, reconnection try 8 of 50
+ {webpubsub/server: Server respond with error code 404: 404 page not found Unknown Time 404 false      [] [] <nil>} webpubsub/server: Server respond with error code 404: 404 page not found
+WebPubSub :->  2022/06/12 04:11:23 request.go:175: err.Error() Get "http://localhost:11443/v2/subscribe/demo/my-another-channel,my-channel,my-channel-pnpres,my-another-channel-pnpres/0?pnsdk=WebPubSub-Go/7.0.3&uuid=pn-d5715fa1-b955-4beb-b7b8-900cb80afc80&channel-group=my-channelgroup,my-another-channel-group,my-channelgroup-pnpres,my-another-channel-group-pnpres&tr=0&state={\"my-another-channel\":{\"k2\":\"v2\"},\"my-another-channel-group\":{\"k2\":\"v2\"},\"my-channel\":{\"k2\":\"v2\"},\"my-channelgroup\":{\"k2\":\"v2\"}}": dial tcp [::1]:11443: connect: connection refused
+WebPubSub :->  2022/06/12 04:11:23 request.go:178: WPSUnknownCategory webpubsub/connection: Failed to execute request: Get "http://localhost:11443/v2/subscribe/demo/my-another-channel,my-channel,my-channel-pnpres,my-another-channel-pnpres/0?pnsdk=WebPubSub-Go/7.0.3&uuid=pn-d5715fa1-b955-4beb-b7b8-900cb80afc80&channel-group=my-channelgroup,my-another-channel-group,my-channelgroup-pnpres,my-another-channel-group-pnpres&tr=0&state={\"my-another-channel\":{\"k2\":\"v2\"},\"my-another-channel-group\":{\"k2\":\"v2\"},\"my-channel\":{\"k2\":\"v2\"},\"my-channelgroup\":{\"k2\":\"v2\"}}": dial tcp [::1]:11443: connect: connection refused http://localhost:11443/v2/subscribe/demo/my-another-channel,my-channel,my-channel-pnpres,my-another-channel-pnpres/0?pnsdk=WebPubSub-Go/7.0.3&uuid=pn-d5715fa1-b955-4beb-b7b8-900cb80afc80&channel-group=my-channelgroup,my-another-channel-group,my-channelgroup-pnpres,my-another-channel-group-pnpres&tr=0&state={"my-another-channel":{"k2":"v2"},"my-another-channel-group":{"k2":"v2"},"my-channel":{"k2":"v2"},"my-channelgroup":{"k2":"v2"}}
+WebPubSub :->  2022/06/12 04:11:23 subscription_manager.go:339: webpubsub/connection: Failed to execute request: Get "http://localhost:11443/v2/subscribe/demo/my-another-channel,my-channel,my-channel-pnpres,my-another-channel-pnpres/0?pnsdk=WebPubSub-Go/7.0.3&uuid=pn-d5715fa1-b955-4beb-b7b8-900cb80afc80&channel-group=my-channelgroup,my-another-channel-group,my-channelgroup-pnpres,my-another-channel-group-pnpres&tr=0&state={\"my-another-channel\":{\"k2\":\"v2\"},\"my-another-channel-group\":{\"k2\":\"v2\"},\"my-channel\":{\"k2\":\"v2\"},\"my-channelgroup\":{\"k2\":\"v2\"}}": dial tcp [::1]:11443: connect: connection refused
+WebPubSub :->  2022/06/12 04:11:28 subscription_manager.go:387: Status: &{Unknown No Category Matched <nil> false false 0    <nil> [] []}
+WebPubSub :->  2022/06/12 04:11:28 listener_manager.go:103: announceStatus exit
+WebPubSub :->  2022/06/12 04:11:29 request.go:97: url:http://localhost:11443/time/0?pnsdk=WebPubSub-Go/7.0.3&uuid=pn-d5715fa1-b955-4beb-b7b8-900cb80afc80
+method:GET
+WebPubSub :->  2022/06/12 04:11:29 request.go:175: err.Error() Get "http://localhost:11443/time/0?pnsdk=WebPubSub-Go/7.0.3&uuid=pn-d5715fa1-b955-4beb-b7b8-900cb80afc80": dial tcp [::1]:11443: connect: connection refused
+WebPubSub :->  2022/06/12 04:11:29 request.go:178: WPSUnknownCategory webpubsub/connection: Failed to execute request: Get "http://localhost:11443/time/0?pnsdk=WebPubSub-Go/7.0.3&uuid=pn-d5715fa1-b955-4beb-b7b8-900cb80afc80": dial tcp [::1]:11443: connect: connection refused http://localhost:11443/time/0?pnsdk=WebPubSub-Go/7.0.3&uuid=pn-d5715fa1-b955-4beb-b7b8-900cb80afc80
+WebPubSub :->  2022/06/12 04:11:29 reconnection_manager.go:110: Network disconnected, reconnection try 9 of 50
+ {webpubsub/connection: Failed to execute request: Get "http://localhost:11443/time/0?pnsdk=WebPubSub-Go/7.0.3&uuid=pn-d5715fa1-b955-4beb-b7b8-900cb80afc80": dial tcp [::1]:11443: connect: connection refused Unknown No Category Matched 0 false      [] [] <nil>} webpubsub/connection: Failed to execute request: Get "http://localhost:11443/time/0?pnsdk=WebPubSub-Go/7.0.3&uuid=pn-d5715fa1-b955-4beb-b7b8-900cb80afc80": dial tcp [::1]:11443: connect: connection refused
+WebPubSub :->  2022/06/12 04:11:44 request.go:97: url:http://localhost:11443/time/0?pnsdk=WebPubSub-Go/7.0.3&uuid=pn-d5715fa1-b955-4beb-b7b8-900cb80afc80
+method:GET
+WebPubSub :->  2022/06/12 04:11:44 request.go:284: webpubsub/server: Server respond with error code 404: 404 page not found
+WebPubSub :->  2022/06/12 04:11:44 request.go:299: WPSUnknownCategory: resp.StatusCode, resp.Body, resp.Request.URL 404 &{0x1162580 0xc00038f900 0x13556e0} http://localhost:11443/time/0?pnsdk=WebPubSub-Go/7.0.3&uuid=pn-d5715fa1-b955-4beb-b7b8-900cb80afc80
+WebPubSub :->  2022/06/12 04:11:44 request.go:187: res.StatusCode, status, err.Error() 404 {webpubsub/server: Server respond with error code 404: 404 page not found Unknown Time 404 false      [] [] <nil>} webpubsub/server: Server respond with error code 404: 404 page not found
+WebPubSub :->  2022/06/12 04:11:44 reconnection_manager.go:110: Network disconnected, reconnection try 10 of 50
+ {webpubsub/server: Server respond with error code 404: 404 page not found Unknown Time 404 false      [] [] <nil>} webpubsub/server: Server respond with error code 404: 404 page not found
+WebPubSub :->  2022/06/12 04:12:15 request.go:97: url:http://localhost:11443/time/0?pnsdk=WebPubSub-Go/7.0.3&uuid=pn-d5715fa1-b955-4beb-b7b8-900cb80afc80
+method:GET
+WebPubSub :->  2022/06/12 04:12:15 request.go:284: webpubsub/server: Server respond with error code 404: 404 page not found
+WebPubSub :->  2022/06/12 04:12:15 request.go:299: WPSUnknownCategory: resp.StatusCode, resp.Body, resp.Request.URL 404 &{0x1162580 0xc0004aac40 0x13556e0} http://localhost:11443/time/0?pnsdk=WebPubSub-Go/7.0.3&uuid=pn-d5715fa1-b955-4beb-b7b8-900cb80afc80
+WebPubSub :->  2022/06/12 04:12:15 request.go:187: res.StatusCode, status, err.Error() 404 {webpubsub/server: Server respond with error code 404: 404 page not found Unknown Time 404 false      [] [] <nil>} webpubsub/server: Server respond with error code 404: 404 page not found
+WebPubSub :->  2022/06/12 04:12:15 reconnection_manager.go:148: timerInterval > MaxExponentialBackoff at: 1
+WebPubSub :->  2022/06/12 04:12:15 reconnection_manager.go:110: Network disconnected, reconnection try 11 of 50
+ {webpubsub/server: Server respond with error code 404: 404 page not found Unknown Time 404 false      [] [] <nil>} webpubsub/server: Server respond with error code 404: 404 page not found
+WebPubSub :->  2022/06/12 04:12:16 request.go:97: url:http://localhost:11443/time/0?pnsdk=WebPubSub-Go/7.0.3&uuid=pn-d5715fa1-b955-4beb-b7b8-900cb80afc80
+method:GET
+WebPubSub :->  2022/06/12 04:12:16 request.go:284: webpubsub/server: Server respond with error code 404: 404 page not found
+WebPubSub :->  2022/06/12 04:12:16 request.go:299: WPSUnknownCategory: resp.StatusCode, resp.Body, resp.Request.URL 404 &{0x1162580 0xc0004aad00 0x13556e0} http://localhost:11443/time/0?pnsdk=WebPubSub-Go/7.0.3&uuid=pn-d5715fa1-b955-4beb-b7b8-900cb80afc80
+WebPubSub :->  2022/06/12 04:12:16 request.go:187: res.StatusCode, status, err.Error() 404 {webpubsub/server: Server respond with error code 404: 404 page not found Unknown Time 404 false      [] [] <nil>} webpubsub/server: Server respond with error code 404: 404 page not found
+WebPubSub :->  2022/06/12 04:12:16 reconnection_manager.go:110: Network disconnected, reconnection try 12 of 50
+ {webpubsub/server: Server respond with error code 404: 404 page not found Unknown Time 404 false      [] [] <nil>} webpubsub/server: Server respond with error code 404: 404 page not found
+WebPubSub :->  2022/06/12 04:12:19 request.go:97: url:http://localhost:11443/time/0?uuid=pn-d5715fa1-b955-4beb-b7b8-900cb80afc80&pnsdk=WebPubSub-Go/7.0.3
+method:GET
+WebPubSub :->  2022/06/12 04:12:19 request.go:284: webpubsub/server: Server respond with error code 404: 404 page not found
+WebPubSub :->  2022/06/12 04:12:19 request.go:299: WPSUnknownCategory: resp.StatusCode, resp.Body, resp.Request.URL 404 &{0x1162580 0xc0004aadc0 0x13556e0} http://localhost:11443/time/0?uuid=pn-d5715fa1-b955-4beb-b7b8-900cb80afc80&pnsdk=WebPubSub-Go/7.0.3
+WebPubSub :->  2022/06/12 04:12:19 request.go:187: res.StatusCode, status, err.Error() 404 {webpubsub/server: Server respond with error code 404: 404 page not found Unknown Time 404 false      [] [] <nil>} webpubsub/server: Server respond with error code 404: 404 page not found
+WebPubSub :->  2022/06/12 04:12:19 reconnection_manager.go:110: Network disconnected, reconnection try 13 of 50
+ {webpubsub/server: Server respond with error code 404: 404 page not found Unknown Time 404 false      [] [] <nil>} webpubsub/server: Server respond with error code 404: 404 page not found
+WebPubSub :->  2022/06/12 04:12:26 request.go:97: url:http://localhost:11443/time/0?pnsdk=WebPubSub-Go/7.0.3&uuid=pn-d5715fa1-b955-4beb-b7b8-900cb80afc80
+method:GET
+WebPubSub :->  2022/06/12 04:12:26 request.go:284: webpubsub/server: Server respond with error code 404: 404 page not found
+WebPubSub :->  2022/06/12 04:12:26 request.go:299: WPSUnknownCategory: resp.StatusCode, resp.Body, resp.Request.URL 404 &{0x1162580 0xc000093300 0x13556e0} http://localhost:11443/time/0?pnsdk=WebPubSub-Go/7.0.3&uuid=pn-d5715fa1-b955-4beb-b7b8-900cb80afc80
+WebPubSub :->  2022/06/12 04:12:26 request.go:187: res.StatusCode, status, err.Error() 404 {webpubsub/server: Server respond with error code 404: 404 page not found Unknown Time 404 false      [] [] <nil>} webpubsub/server: Server respond with error code 404: 404 page not found
+WebPubSub :->  2022/06/12 04:12:26 reconnection_manager.go:110: Network disconnected, reconnection try 14 of 50
+ {webpubsub/server: Server respond with error code 404: 404 page not found Unknown Time 404 false      [] [] <nil>} webpubsub/server: Server respond with error code 404: 404 page not found
+WebPubSub :->  2022/06/12 04:12:41 request.go:97: url:http://localhost:11443/time/0?pnsdk=WebPubSub-Go/7.0.3&uuid=pn-d5715fa1-b955-4beb-b7b8-900cb80afc80
+method:GET
+WebPubSub :->  2022/06/12 04:12:41 request.go:284: webpubsub/server: Server respond with error code 404: 404 page not found
+WebPubSub :->  2022/06/12 04:12:41 request.go:299: WPSUnknownCategory: resp.StatusCode, resp.Body, resp.Request.URL 404 &{0x1162580 0xc0004aaf00 0x13556e0} http://localhost:11443/time/0?pnsdk=WebPubSub-Go/7.0.3&uuid=pn-d5715fa1-b955-4beb-b7b8-900cb80afc80
+WebPubSub :->  2022/06/12 04:12:41 request.go:187: res.StatusCode, status, err.Error() 404 {webpubsub/server: Server respond with error code 404: 404 page not found Unknown Time 404 false      [] [] <nil>} webpubsub/server: Server respond with error code 404: 404 page not found
+WebPubSub :->  2022/06/12 04:12:41 reconnection_manager.go:110: Network disconnected, reconnection try 15 of 50
+ {webpubsub/server: Server respond with error code 404: 404 page not found Unknown Time 404 false      [] [] <nil>} webpubsub/server: Server respond with error code 404: 404 page not found
+WebPubSub :->  2022/06/12 04:13:12 request.go:97: url:http://localhost:11443/time/0?pnsdk=WebPubSub-Go/7.0.3&uuid=pn-d5715fa1-b955-4beb-b7b8-900cb80afc80
+method:GET
+WebPubSub :->  2022/06/12 04:13:12 request.go:175: err.Error() Get "http://localhost:11443/time/0?pnsdk=WebPubSub-Go/7.0.3&uuid=pn-d5715fa1-b955-4beb-b7b8-900cb80afc80": dial tcp [::1]:11443: connect: connection refused
+WebPubSub :->  2022/06/12 04:13:12 request.go:178: WPSUnknownCategory webpubsub/connection: Failed to execute request: Get "http://localhost:11443/time/0?pnsdk=WebPubSub-Go/7.0.3&uuid=pn-d5715fa1-b955-4beb-b7b8-900cb80afc80": dial tcp [::1]:11443: connect: connection refused http://localhost:11443/time/0?pnsdk=WebPubSub-Go/7.0.3&uuid=pn-d5715fa1-b955-4beb-b7b8-900cb80afc80
+WebPubSub :->  2022/06/12 04:13:12 reconnection_manager.go:148: timerInterval > MaxExponentialBackoff at: 1
+WebPubSub :->  2022/06/12 04:13:12 reconnection_manager.go:110: Network disconnected, reconnection try 16 of 50
+ {webpubsub/connection: Failed to execute request: Get "http://localhost:11443/time/0?pnsdk=WebPubSub-Go/7.0.3&uuid=pn-d5715fa1-b955-4beb-b7b8-900cb80afc80": dial tcp [::1]:11443: connect: connection refused Unknown No Category Matched 0 false      [] [] <nil>} webpubsub/connection: Failed to execute request: Get "http://localhost:11443/time/0?pnsdk=WebPubSub-Go/7.0.3&uuid=pn-d5715fa1-b955-4beb-b7b8-900cb80afc80": dial tcp [::1]:11443: connect: connection refused
+WebPubSub :->  2022/06/12 04:13:13 request.go:97: url:http://localhost:11443/time/0?pnsdk=WebPubSub-Go/7.0.3&uuid=pn-d5715fa1-b955-4beb-b7b8-900cb80afc80
+method:GET
+WebPubSub :->  2022/06/12 04:13:13 request.go:175: err.Error() Get "http://localhost:11443/time/0?pnsdk=WebPubSub-Go/7.0.3&uuid=pn-d5715fa1-b955-4beb-b7b8-900cb80afc80": dial tcp [::1]:11443: connect: connection refused
+WebPubSub :->  2022/06/12 04:13:13 request.go:178: WPSUnknownCategory webpubsub/connection: Failed to execute request: Get "http://localhost:11443/time/0?pnsdk=WebPubSub-Go/7.0.3&uuid=pn-d5715fa1-b955-4beb-b7b8-900cb80afc80": dial tcp [::1]:11443: connect: connection refused http://localhost:11443/time/0?pnsdk=WebPubSub-Go/7.0.3&uuid=pn-d5715fa1-b955-4beb-b7b8-900cb80afc80
+WebPubSub :->  2022/06/12 04:13:13 reconnection_manager.go:110: Network disconnected, reconnection try 17 of 50
+ {webpubsub/connection: Failed to execute request: Get "http://localhost:11443/time/0?pnsdk=WebPubSub-Go/7.0.3&uuid=pn-d5715fa1-b955-4beb-b7b8-900cb80afc80": dial tcp [::1]:11443: connect: connection refused Unknown No Category Matched 0 false      [] [] <nil>} webpubsub/connection: Failed to execute request: Get "http://localhost:11443/time/0?pnsdk=WebPubSub-Go/7.0.3&uuid=pn-d5715fa1-b955-4beb-b7b8-900cb80afc80": dial tcp [::1]:11443: connect: connection refused
+WebPubSub :->  2022/06/12 04:13:16 request.go:97: url:http://localhost:11443/time/0?pnsdk=WebPubSub-Go/7.0.3&uuid=pn-d5715fa1-b955-4beb-b7b8-900cb80afc80
+method:GET
+WebPubSub :->  2022/06/12 04:13:16 request.go:175: err.Error() Get "http://localhost:11443/time/0?pnsdk=WebPubSub-Go/7.0.3&uuid=pn-d5715fa1-b955-4beb-b7b8-900cb80afc80": dial tcp [::1]:11443: connect: connection refused
+WebPubSub :->  2022/06/12 04:13:16 request.go:178: WPSUnknownCategory webpubsub/connection: Failed to execute request: Get "http://localhost:11443/time/0?pnsdk=WebPubSub-Go/7.0.3&uuid=pn-d5715fa1-b955-4beb-b7b8-900cb80afc80": dial tcp [::1]:11443: connect: connection refused http://localhost:11443/time/0?pnsdk=WebPubSub-Go/7.0.3&uuid=pn-d5715fa1-b955-4beb-b7b8-900cb80afc80
+WebPubSub :->  2022/06/12 04:13:16 reconnection_manager.go:110: Network disconnected, reconnection try 18 of 50
+ {webpubsub/connection: Failed to execute request: Get "http://localhost:11443/time/0?pnsdk=WebPubSub-Go/7.0.3&uuid=pn-d5715fa1-b955-4beb-b7b8-900cb80afc80": dial tcp [::1]:11443: connect: connection refused Unknown No Category Matched 0 false      [] [] <nil>} webpubsub/connection: Failed to execute request: Get "http://localhost:11443/time/0?pnsdk=WebPubSub-Go/7.0.3&uuid=pn-d5715fa1-b955-4beb-b7b8-900cb80afc80": dial tcp [::1]:11443: connect: connection refused
+WebPubSub :->  2022/06/12 04:13:23 request.go:97: url:http://localhost:11443/time/0?pnsdk=WebPubSub-Go/7.0.3&uuid=pn-d5715fa1-b955-4beb-b7b8-900cb80afc80
+method:GET
+WebPubSub :->  2022/06/12 04:13:23 request.go:175: err.Error() Get "http://localhost:11443/time/0?pnsdk=WebPubSub-Go/7.0.3&uuid=pn-d5715fa1-b955-4beb-b7b8-900cb80afc80": dial tcp [::1]:11443: connect: connection refused
+WebPubSub :->  2022/06/12 04:13:23 request.go:178: WPSUnknownCategory webpubsub/connection: Failed to execute request: Get "http://localhost:11443/time/0?pnsdk=WebPubSub-Go/7.0.3&uuid=pn-d5715fa1-b955-4beb-b7b8-900cb80afc80": dial tcp [::1]:11443: connect: connection refused http://localhost:11443/time/0?pnsdk=WebPubSub-Go/7.0.3&uuid=pn-d5715fa1-b955-4beb-b7b8-900cb80afc80
+WebPubSub :->  2022/06/12 04:13:23 reconnection_manager.go:110: Network disconnected, reconnection try 19 of 50
+ {webpubsub/connection: Failed to execute request: Get "http://localhost:11443/time/0?pnsdk=WebPubSub-Go/7.0.3&uuid=pn-d5715fa1-b955-4beb-b7b8-900cb80afc80": dial tcp [::1]:11443: connect: connection refused Unknown No Category Matched 0 false      [] [] <nil>} webpubsub/connection: Failed to execute request: Get "http://localhost:11443/time/0?pnsdk=WebPubSub-Go/7.0.3&uuid=pn-d5715fa1-b955-4beb-b7b8-900cb80afc80": dial tcp [::1]:11443: connect: connection refused
+WebPubSub :->  2022/06/12 04:13:38 request.go:97: url:http://localhost:11443/time/0?uuid=pn-d5715fa1-b955-4beb-b7b8-900cb80afc80&pnsdk=WebPubSub-Go/7.0.3
+method:GET
+WebPubSub :->  2022/06/12 04:13:38 request.go:175: err.Error() Get "http://localhost:11443/time/0?uuid=pn-d5715fa1-b955-4beb-b7b8-900cb80afc80&pnsdk=WebPubSub-Go/7.0.3": dial tcp [::1]:11443: connect: connection refused
+WebPubSub :->  2022/06/12 04:13:38 request.go:178: WPSUnknownCategory webpubsub/connection: Failed to execute request: Get "http://localhost:11443/time/0?uuid=pn-d5715fa1-b955-4beb-b7b8-900cb80afc80&pnsdk=WebPubSub-Go/7.0.3": dial tcp [::1]:11443: connect: connection refused http://localhost:11443/time/0?uuid=pn-d5715fa1-b955-4beb-b7b8-900cb80afc80&pnsdk=WebPubSub-Go/7.0.3
+WebPubSub :->  2022/06/12 04:13:38 reconnection_manager.go:110: Network disconnected, reconnection try 20 of 50
+ {webpubsub/connection: Failed to execute request: Get "http://localhost:11443/time/0?uuid=pn-d5715fa1-b955-4beb-b7b8-900cb80afc80&pnsdk=WebPubSub-Go/7.0.3": dial tcp [::1]:11443: connect: connection refused Unknown No Category Matched 0 false      [] [] <nil>} webpubsub/connection: Failed to execute request: Get "http://localhost:11443/time/0?uuid=pn-d5715fa1-b955-4beb-b7b8-900cb80afc80&pnsdk=WebPubSub-Go/7.0.3": dial tcp [::1]:11443: connect: connection refused
+WebPubSub :->  2022/06/12 04:14:09 request.go:97: url:http://localhost:11443/time/0?pnsdk=WebPubSub-Go/7.0.3&uuid=pn-d5715fa1-b955-4beb-b7b8-900cb80afc80
+method:GET
+WebPubSub :->  2022/06/12 04:14:09 request.go:175: err.Error() Get "http://localhost:11443/time/0?pnsdk=WebPubSub-Go/7.0.3&uuid=pn-d5715fa1-b955-4beb-b7b8-900cb80afc80": dial tcp [::1]:11443: connect: connection refused
+WebPubSub :->  2022/06/12 04:14:09 request.go:178: WPSUnknownCategory webpubsub/connection: Failed to execute request: Get "http://localhost:11443/time/0?pnsdk=WebPubSub-Go/7.0.3&uuid=pn-d5715fa1-b955-4beb-b7b8-900cb80afc80": dial tcp [::1]:11443: connect: connection refused http://localhost:11443/time/0?pnsdk=WebPubSub-Go/7.0.3&uuid=pn-d5715fa1-b955-4beb-b7b8-900cb80afc80
+WebPubSub :->  2022/06/12 04:14:09 reconnection_manager.go:148: timerInterval > MaxExponentialBackoff at: 1
+WebPubSub :->  2022/06/12 04:14:09 reconnection_manager.go:110: Network disconnected, reconnection try 21 of 50
+ {webpubsub/connection: Failed to execute request: Get "http://localhost:11443/time/0?pnsdk=WebPubSub-Go/7.0.3&uuid=pn-d5715fa1-b955-4beb-b7b8-900cb80afc80": dial tcp [::1]:11443: connect: connection refused Unknown No Category Matched 0 false      [] [] <nil>} webpubsub/connection: Failed to execute request: Get "http://localhost:11443/time/0?pnsdk=WebPubSub-Go/7.0.3&uuid=pn-d5715fa1-b955-4beb-b7b8-900cb80afc80": dial tcp [::1]:11443: connect: connection refused
+WebPubSub :->  2022/06/12 04:14:10 request.go:97: url:http://localhost:11443/time/0?pnsdk=WebPubSub-Go/7.0.3&uuid=pn-d5715fa1-b955-4beb-b7b8-900cb80afc80
+method:GET
+WebPubSub :->  2022/06/12 04:14:10 request.go:175: err.Error() Get "http://localhost:11443/time/0?pnsdk=WebPubSub-Go/7.0.3&uuid=pn-d5715fa1-b955-4beb-b7b8-900cb80afc80": dial tcp [::1]:11443: connect: connection refused
+WebPubSub :->  2022/06/12 04:14:10 request.go:178: WPSUnknownCategory webpubsub/connection: Failed to execute request: Get "http://localhost:11443/time/0?pnsdk=WebPubSub-Go/7.0.3&uuid=pn-d5715fa1-b955-4beb-b7b8-900cb80afc80": dial tcp [::1]:11443: connect: connection refused http://localhost:11443/time/0?pnsdk=WebPubSub-Go/7.0.3&uuid=pn-d5715fa1-b955-4beb-b7b8-900cb80afc80
+WebPubSub :->  2022/06/12 04:14:10 reconnection_manager.go:110: Network disconnected, reconnection try 22 of 50
+ {webpubsub/connection: Failed to execute request: Get "http://localhost:11443/time/0?pnsdk=WebPubSub-Go/7.0.3&uuid=pn-d5715fa1-b955-4beb-b7b8-900cb80afc80": dial tcp [::1]:11443: connect: connection refused Unknown No Category Matched 0 false      [] [] <nil>} webpubsub/connection: Failed to execute request: Get "http://localhost:11443/time/0?pnsdk=WebPubSub-Go/7.0.3&uuid=pn-d5715fa1-b955-4beb-b7b8-900cb80afc80": dial tcp [::1]:11443: connect: connection refused
+WebPubSub :->  2022/06/12 04:14:13 request.go:97: url:http://localhost:11443/time/0?pnsdk=WebPubSub-Go/7.0.3&uuid=pn-d5715fa1-b955-4beb-b7b8-900cb80afc80
+method:GET
+WebPubSub :->  2022/06/12 04:14:13 request.go:175: err.Error() Get "http://localhost:11443/time/0?pnsdk=WebPubSub-Go/7.0.3&uuid=pn-d5715fa1-b955-4beb-b7b8-900cb80afc80": dial tcp [::1]:11443: connect: connection refused
+WebPubSub :->  2022/06/12 04:14:13 request.go:178: WPSUnknownCategory webpubsub/connection: Failed to execute request: Get "http://localhost:11443/time/0?pnsdk=WebPubSub-Go/7.0.3&uuid=pn-d5715fa1-b955-4beb-b7b8-900cb80afc80": dial tcp [::1]:11443: connect: connection refused http://localhost:11443/time/0?pnsdk=WebPubSub-Go/7.0.3&uuid=pn-d5715fa1-b955-4beb-b7b8-900cb80afc80
+WebPubSub :->  2022/06/12 04:14:13 reconnection_manager.go:110: Network disconnected, reconnection try 23 of 50
+ {webpubsub/connection: Failed to execute request: Get "http://localhost:11443/time/0?pnsdk=WebPubSub-Go/7.0.3&uuid=pn-d5715fa1-b955-4beb-b7b8-900cb80afc80": dial tcp [::1]:11443: connect: connection refused Unknown No Category Matched 0 false      [] [] <nil>} webpubsub/connection: Failed to execute request: Get "http://localhost:11443/time/0?pnsdk=WebPubSub-Go/7.0.3&uuid=pn-d5715fa1-b955-4beb-b7b8-900cb80afc80": dial tcp [::1]:11443: connect: connection refused
+WebPubSub :->  2022/06/12 04:14:20 request.go:97: url:http://localhost:11443/time/0?pnsdk=WebPubSub-Go/7.0.3&uuid=pn-d5715fa1-b955-4beb-b7b8-900cb80afc80
+method:GET
+WebPubSub :->  2022/06/12 04:14:20 request.go:175: err.Error() Get "http://localhost:11443/time/0?pnsdk=WebPubSub-Go/7.0.3&uuid=pn-d5715fa1-b955-4beb-b7b8-900cb80afc80": dial tcp [::1]:11443: connect: connection refused
+WebPubSub :->  2022/06/12 04:14:20 request.go:178: WPSUnknownCategory webpubsub/connection: Failed to execute request: Get "http://localhost:11443/time/0?pnsdk=WebPubSub-Go/7.0.3&uuid=pn-d5715fa1-b955-4beb-b7b8-900cb80afc80": dial tcp [::1]:11443: connect: connection refused http://localhost:11443/time/0?pnsdk=WebPubSub-Go/7.0.3&uuid=pn-d5715fa1-b955-4beb-b7b8-900cb80afc80
+WebPubSub :->  2022/06/12 04:14:20 reconnection_manager.go:110: Network disconnected, reconnection try 24 of 50
+ {webpubsub/connection: Failed to execute request: Get "http://localhost:11443/time/0?pnsdk=WebPubSub-Go/7.0.3&uuid=pn-d5715fa1-b955-4beb-b7b8-900cb80afc80": dial tcp [::1]:11443: connect: connection refused Unknown No Category Matched 0 false      [] [] <nil>} webpubsub/connection: Failed to execute request: Get "http://localhost:11443/time/0?pnsdk=WebPubSub-Go/7.0.3&uuid=pn-d5715fa1-b955-4beb-b7b8-900cb80afc80": dial tcp [::1]:11443: connect: connection refused
+WebPubSub :->  2022/06/12 04:14:35 request.go:97: url:http://localhost:11443/time/0?pnsdk=WebPubSub-Go/7.0.3&uuid=pn-d5715fa1-b955-4beb-b7b8-900cb80afc80
+method:GET
+WebPubSub :->  2022/06/12 04:14:35 request.go:175: err.Error() Get "http://localhost:11443/time/0?pnsdk=WebPubSub-Go/7.0.3&uuid=pn-d5715fa1-b955-4beb-b7b8-900cb80afc80": dial tcp [::1]:11443: connect: connection refused
+WebPubSub :->  2022/06/12 04:14:35 request.go:178: WPSUnknownCategory webpubsub/connection: Failed to execute request: Get "http://localhost:11443/time/0?pnsdk=WebPubSub-Go/7.0.3&uuid=pn-d5715fa1-b955-4beb-b7b8-900cb80afc80": dial tcp [::1]:11443: connect: connection refused http://localhost:11443/time/0?pnsdk=WebPubSub-Go/7.0.3&uuid=pn-d5715fa1-b955-4beb-b7b8-900cb80afc80
+WebPubSub :->  2022/06/12 04:14:35 reconnection_manager.go:110: Network disconnected, reconnection try 25 of 50
+ {webpubsub/connection: Failed to execute request: Get "http://localhost:11443/time/0?pnsdk=WebPubSub-Go/7.0.3&uuid=pn-d5715fa1-b955-4beb-b7b8-900cb80afc80": dial tcp [::1]:11443: connect: connection refused Unknown No Category Matched 0 false      [] [] <nil>} webpubsub/connection: Failed to execute request: Get "http://localhost:11443/time/0?pnsdk=WebPubSub-Go/7.0.3&uuid=pn-d5715fa1-b955-4beb-b7b8-900cb80afc80": dial tcp [::1]:11443: connect: connection refused
+WebPubSub :->  2022/06/12 04:15:06 request.go:97: url:http://localhost:11443/time/0?pnsdk=WebPubSub-Go/7.0.3&uuid=pn-d5715fa1-b955-4beb-b7b8-900cb80afc80
+method:GET
+WebPubSub :->  2022/06/12 04:15:06 request.go:175: err.Error() Get "http://localhost:11443/time/0?pnsdk=WebPubSub-Go/7.0.3&uuid=pn-d5715fa1-b955-4beb-b7b8-900cb80afc80": dial tcp [::1]:11443: connect: connection refused
+WebPubSub :->  2022/06/12 04:15:06 request.go:178: WPSUnknownCategory webpubsub/connection: Failed to execute request: Get "http://localhost:11443/time/0?pnsdk=WebPubSub-Go/7.0.3&uuid=pn-d5715fa1-b955-4beb-b7b8-900cb80afc80": dial tcp [::1]:11443: connect: connection refused http://localhost:11443/time/0?pnsdk=WebPubSub-Go/7.0.3&uuid=pn-d5715fa1-b955-4beb-b7b8-900cb80afc80
+WebPubSub :->  2022/06/12 04:15:06 reconnection_manager.go:148: timerInterval > MaxExponentialBackoff at: 1
+WebPubSub :->  2022/06/12 04:15:06 reconnection_manager.go:110: Network disconnected, reconnection try 26 of 50
+ {webpubsub/connection: Failed to execute request: Get "http://localhost:11443/time/0?pnsdk=WebPubSub-Go/7.0.3&uuid=pn-d5715fa1-b955-4beb-b7b8-900cb80afc80": dial tcp [::1]:11443: connect: connection refused Unknown No Category Matched 0 false      [] [] <nil>} webpubsub/connection: Failed to execute request: Get "http://localhost:11443/time/0?pnsdk=WebPubSub-Go/7.0.3&uuid=pn-d5715fa1-b955-4beb-b7b8-900cb80afc80": dial tcp [::1]:11443: connect: connection refused
+WebPubSub :->  2022/06/12 04:15:07 request.go:97: url:http://localhost:11443/time/0?uuid=pn-d5715fa1-b955-4beb-b7b8-900cb80afc80&pnsdk=WebPubSub-Go/7.0.3
+method:GET
+WebPubSub :->  2022/06/12 04:15:07 request.go:175: err.Error() Get "http://localhost:11443/time/0?uuid=pn-d5715fa1-b955-4beb-b7b8-900cb80afc80&pnsdk=WebPubSub-Go/7.0.3": dial tcp [::1]:11443: connect: connection refused
+WebPubSub :->  2022/06/12 04:15:07 request.go:178: WPSUnknownCategory webpubsub/connection: Failed to execute request: Get "http://localhost:11443/time/0?uuid=pn-d5715fa1-b955-4beb-b7b8-900cb80afc80&pnsdk=WebPubSub-Go/7.0.3": dial tcp [::1]:11443: connect: connection refused http://localhost:11443/time/0?uuid=pn-d5715fa1-b955-4beb-b7b8-900cb80afc80&pnsdk=WebPubSub-Go/7.0.3
+WebPubSub :->  2022/06/12 04:15:07 reconnection_manager.go:110: Network disconnected, reconnection try 27 of 50
+ {webpubsub/connection: Failed to execute request: Get "http://localhost:11443/time/0?uuid=pn-d5715fa1-b955-4beb-b7b8-900cb80afc80&pnsdk=WebPubSub-Go/7.0.3": dial tcp [::1]:11443: connect: connection refused Unknown No Category Matched 0 false      [] [] <nil>} webpubsub/connection: Failed to execute request: Get "http://localhost:11443/time/0?uuid=pn-d5715fa1-b955-4beb-b7b8-900cb80afc80&pnsdk=WebPubSub-Go/7.0.3": dial tcp [::1]:11443: connect: connection refused
+WebPubSub :->  2022/06/12 04:15:10 request.go:97: url:http://localhost:11443/time/0?pnsdk=WebPubSub-Go/7.0.3&uuid=pn-d5715fa1-b955-4beb-b7b8-900cb80afc80
+method:GET
+WebPubSub :->  2022/06/12 04:15:10 request.go:175: err.Error() Get "http://localhost:11443/time/0?pnsdk=WebPubSub-Go/7.0.3&uuid=pn-d5715fa1-b955-4beb-b7b8-900cb80afc80": dial tcp [::1]:11443: connect: connection refused
+WebPubSub :->  2022/06/12 04:15:10 request.go:178: WPSUnknownCategory webpubsub/connection: Failed to execute request: Get "http://localhost:11443/time/0?pnsdk=WebPubSub-Go/7.0.3&uuid=pn-d5715fa1-b955-4beb-b7b8-900cb80afc80": dial tcp [::1]:11443: connect: connection refused http://localhost:11443/time/0?pnsdk=WebPubSub-Go/7.0.3&uuid=pn-d5715fa1-b955-4beb-b7b8-900cb80afc80
+WebPubSub :->  2022/06/12 04:15:10 reconnection_manager.go:110: Network disconnected, reconnection try 28 of 50
+ {webpubsub/connection: Failed to execute request: Get "http://localhost:11443/time/0?pnsdk=WebPubSub-Go/7.0.3&uuid=pn-d5715fa1-b955-4beb-b7b8-900cb80afc80": dial tcp [::1]:11443: connect: connection refused Unknown No Category Matched 0 false      [] [] <nil>} webpubsub/connection: Failed to execute request: Get "http://localhost:11443/time/0?pnsdk=WebPubSub-Go/7.0.3&uuid=pn-d5715fa1-b955-4beb-b7b8-900cb80afc80": dial tcp [::1]:11443: connect: connection refused
+WebPubSub :->  2022/06/12 04:15:17 request.go:97: url:http://localhost:11443/time/0?pnsdk=WebPubSub-Go/7.0.3&uuid=pn-d5715fa1-b955-4beb-b7b8-900cb80afc80
+method:GET
+WebPubSub :->  2022/06/12 04:15:17 request.go:175: err.Error() Get "http://localhost:11443/time/0?pnsdk=WebPubSub-Go/7.0.3&uuid=pn-d5715fa1-b955-4beb-b7b8-900cb80afc80": dial tcp [::1]:11443: connect: connection refused
+WebPubSub :->  2022/06/12 04:15:17 request.go:178: WPSUnknownCategory webpubsub/connection: Failed to execute request: Get "http://localhost:11443/time/0?pnsdk=WebPubSub-Go/7.0.3&uuid=pn-d5715fa1-b955-4beb-b7b8-900cb80afc80": dial tcp [::1]:11443: connect: connection refused http://localhost:11443/time/0?pnsdk=WebPubSub-Go/7.0.3&uuid=pn-d5715fa1-b955-4beb-b7b8-900cb80afc80
+WebPubSub :->  2022/06/12 04:15:17 reconnection_manager.go:110: Network disconnected, reconnection try 29 of 50
+ {webpubsub/connection: Failed to execute request: Get "http://localhost:11443/time/0?pnsdk=WebPubSub-Go/7.0.3&uuid=pn-d5715fa1-b955-4beb-b7b8-900cb80afc80": dial tcp [::1]:11443: connect: connection refused Unknown No Category Matched 0 false      [] [] <nil>} webpubsub/connection: Failed to execute request: Get "http://localhost:11443/time/0?pnsdk=WebPubSub-Go/7.0.3&uuid=pn-d5715fa1-b955-4beb-b7b8-900cb80afc80": dial tcp [::1]:11443: connect: connection refused
+WebPubSub :->  2022/06/12 04:15:32 request.go:97: url:http://localhost:11443/time/0?pnsdk=WebPubSub-Go/7.0.3&uuid=pn-d5715fa1-b955-4beb-b7b8-900cb80afc80
+method:GET
+WebPubSub :->  2022/06/12 04:15:32 request.go:175: err.Error() Get "http://localhost:11443/time/0?pnsdk=WebPubSub-Go/7.0.3&uuid=pn-d5715fa1-b955-4beb-b7b8-900cb80afc80": dial tcp [::1]:11443: connect: connection refused
+WebPubSub :->  2022/06/12 04:15:32 request.go:178: WPSUnknownCategory webpubsub/connection: Failed to execute request: Get "http://localhost:11443/time/0?pnsdk=WebPubSub-Go/7.0.3&uuid=pn-d5715fa1-b955-4beb-b7b8-900cb80afc80": dial tcp [::1]:11443: connect: connection refused http://localhost:11443/time/0?pnsdk=WebPubSub-Go/7.0.3&uuid=pn-d5715fa1-b955-4beb-b7b8-900cb80afc80
+WebPubSub :->  2022/06/12 04:15:32 reconnection_manager.go:110: Network disconnected, reconnection try 30 of 50
+ {webpubsub/connection: Failed to execute request: Get "http://localhost:11443/time/0?pnsdk=WebPubSub-Go/7.0.3&uuid=pn-d5715fa1-b955-4beb-b7b8-900cb80afc80": dial tcp [::1]:11443: connect: connection refused Unknown No Category Matched 0 false      [] [] <nil>} webpubsub/connection: Failed to execute request: Get "http://localhost:11443/time/0?pnsdk=WebPubSub-Go/7.0.3&uuid=pn-d5715fa1-b955-4beb-b7b8-900cb80afc80": dial tcp [::1]:11443: connect: connection refused
+WebPubSub :->  2022/06/12 04:16:03 request.go:97: url:http://localhost:11443/time/0?pnsdk=WebPubSub-Go/7.0.3&uuid=pn-d5715fa1-b955-4beb-b7b8-900cb80afc80
+method:GET
+WebPubSub :->  2022/06/12 04:16:03 request.go:175: err.Error() Get "http://localhost:11443/time/0?pnsdk=WebPubSub-Go/7.0.3&uuid=pn-d5715fa1-b955-4beb-b7b8-900cb80afc80": dial tcp [::1]:11443: connect: connection refused
+WebPubSub :->  2022/06/12 04:16:03 request.go:178: WPSUnknownCategory webpubsub/connection: Failed to execute request: Get "http://localhost:11443/time/0?pnsdk=WebPubSub-Go/7.0.3&uuid=pn-d5715fa1-b955-4beb-b7b8-900cb80afc80": dial tcp [::1]:11443: connect: connection refused http://localhost:11443/time/0?pnsdk=WebPubSub-Go/7.0.3&uuid=pn-d5715fa1-b955-4beb-b7b8-900cb80afc80
+WebPubSub :->  2022/06/12 04:16:03 reconnection_manager.go:148: timerInterval > MaxExponentialBackoff at: 1
+WebPubSub :->  2022/06/12 04:16:03 reconnection_manager.go:110: Network disconnected, reconnection try 31 of 50
+ {webpubsub/connection: Failed to execute request: Get "http://localhost:11443/time/0?pnsdk=WebPubSub-Go/7.0.3&uuid=pn-d5715fa1-b955-4beb-b7b8-900cb80afc80": dial tcp [::1]:11443: connect: connection refused Unknown No Category Matched 0 false      [] [] <nil>} webpubsub/connection: Failed to execute request: Get "http://localhost:11443/time/0?pnsdk=WebPubSub-Go/7.0.3&uuid=pn-d5715fa1-b955-4beb-b7b8-900cb80afc80": dial tcp [::1]:11443: connect: connection refused
+WebPubSub :->  2022/06/12 04:16:04 request.go:97: url:http://localhost:11443/time/0?pnsdk=WebPubSub-Go/7.0.3&uuid=pn-d5715fa1-b955-4beb-b7b8-900cb80afc80
+method:GET
+WebPubSub :->  2022/06/12 04:16:04 request.go:175: err.Error() Get "http://localhost:11443/time/0?pnsdk=WebPubSub-Go/7.0.3&uuid=pn-d5715fa1-b955-4beb-b7b8-900cb80afc80": dial tcp [::1]:11443: connect: connection refused
+WebPubSub :->  2022/06/12 04:16:04 request.go:178: WPSUnknownCategory webpubsub/connection: Failed to execute request: Get "http://localhost:11443/time/0?pnsdk=WebPubSub-Go/7.0.3&uuid=pn-d5715fa1-b955-4beb-b7b8-900cb80afc80": dial tcp [::1]:11443: connect: connection refused http://localhost:11443/time/0?pnsdk=WebPubSub-Go/7.0.3&uuid=pn-d5715fa1-b955-4beb-b7b8-900cb80afc80
+WebPubSub :->  2022/06/12 04:16:04 reconnection_manager.go:110: Network disconnected, reconnection try 32 of 50
+ {webpubsub/connection: Failed to execute request: Get "http://localhost:11443/time/0?pnsdk=WebPubSub-Go/7.0.3&uuid=pn-d5715fa1-b955-4beb-b7b8-900cb80afc80": dial tcp [::1]:11443: connect: connection refused Unknown No Category Matched 0 false      [] [] <nil>} webpubsub/connection: Failed to execute request: Get "http://localhost:11443/time/0?pnsdk=WebPubSub-Go/7.0.3&uuid=pn-d5715fa1-b955-4beb-b7b8-900cb80afc80": dial tcp [::1]:11443: connect: connection refused
+WebPubSub :->  2022/06/12 04:16:07 request.go:97: url:http://localhost:11443/time/0?pnsdk=WebPubSub-Go/7.0.3&uuid=pn-d5715fa1-b955-4beb-b7b8-900cb80afc80
+method:GET
+WebPubSub :->  2022/06/12 04:16:07 request.go:175: err.Error() Get "http://localhost:11443/time/0?pnsdk=WebPubSub-Go/7.0.3&uuid=pn-d5715fa1-b955-4beb-b7b8-900cb80afc80": dial tcp [::1]:11443: connect: connection refused
+WebPubSub :->  2022/06/12 04:16:07 request.go:178: WPSUnknownCategory webpubsub/connection: Failed to execute request: Get "http://localhost:11443/time/0?pnsdk=WebPubSub-Go/7.0.3&uuid=pn-d5715fa1-b955-4beb-b7b8-900cb80afc80": dial tcp [::1]:11443: connect: connection refused http://localhost:11443/time/0?pnsdk=WebPubSub-Go/7.0.3&uuid=pn-d5715fa1-b955-4beb-b7b8-900cb80afc80
+WebPubSub :->  2022/06/12 04:16:07 reconnection_manager.go:110: Network disconnected, reconnection try 33 of 50
+ {webpubsub/connection: Failed to execute request: Get "http://localhost:11443/time/0?pnsdk=WebPubSub-Go/7.0.3&uuid=pn-d5715fa1-b955-4beb-b7b8-900cb80afc80": dial tcp [::1]:11443: connect: connection refused Unknown No Category Matched 0 false      [] [] <nil>} webpubsub/connection: Failed to execute request: Get "http://localhost:11443/time/0?pnsdk=WebPubSub-Go/7.0.3&uuid=pn-d5715fa1-b955-4beb-b7b8-900cb80afc80": dial tcp [::1]:11443: connect: connection refused
+WebPubSub :->  2022/06/12 04:16:14 request.go:97: url:http://localhost:11443/time/0?pnsdk=WebPubSub-Go/7.0.3&uuid=pn-d5715fa1-b955-4beb-b7b8-900cb80afc80
+method:GET
+WebPubSub :->  2022/06/12 04:16:14 request.go:175: err.Error() Get "http://localhost:11443/time/0?pnsdk=WebPubSub-Go/7.0.3&uuid=pn-d5715fa1-b955-4beb-b7b8-900cb80afc80": dial tcp [::1]:11443: connect: connection refused
+WebPubSub :->  2022/06/12 04:16:14 request.go:178: WPSUnknownCategory webpubsub/connection: Failed to execute request: Get "http://localhost:11443/time/0?pnsdk=WebPubSub-Go/7.0.3&uuid=pn-d5715fa1-b955-4beb-b7b8-900cb80afc80": dial tcp [::1]:11443: connect: connection refused http://localhost:11443/time/0?pnsdk=WebPubSub-Go/7.0.3&uuid=pn-d5715fa1-b955-4beb-b7b8-900cb80afc80
+WebPubSub :->  2022/06/12 04:16:14 reconnection_manager.go:110: Network disconnected, reconnection try 34 of 50
+ {webpubsub/connection: Failed to execute request: Get "http://localhost:11443/time/0?pnsdk=WebPubSub-Go/7.0.3&uuid=pn-d5715fa1-b955-4beb-b7b8-900cb80afc80": dial tcp [::1]:11443: connect: connection refused Unknown No Category Matched 0 false      [] [] <nil>} webpubsub/connection: Failed to execute request: Get "http://localhost:11443/time/0?pnsdk=WebPubSub-Go/7.0.3&uuid=pn-d5715fa1-b955-4beb-b7b8-900cb80afc80": dial tcp [::1]:11443: connect: connection refused
+WebPubSub :->  2022/06/12 04:16:29 request.go:97: url:http://localhost:11443/time/0?pnsdk=WebPubSub-Go/7.0.3&uuid=pn-d5715fa1-b955-4beb-b7b8-900cb80afc80
+method:GET
+WebPubSub :->  2022/06/12 04:16:29 request.go:175: err.Error() Get "http://localhost:11443/time/0?pnsdk=WebPubSub-Go/7.0.3&uuid=pn-d5715fa1-b955-4beb-b7b8-900cb80afc80": dial tcp [::1]:11443: connect: connection refused
+WebPubSub :->  2022/06/12 04:16:29 request.go:178: WPSUnknownCategory webpubsub/connection: Failed to execute request: Get "http://localhost:11443/time/0?pnsdk=WebPubSub-Go/7.0.3&uuid=pn-d5715fa1-b955-4beb-b7b8-900cb80afc80": dial tcp [::1]:11443: connect: connection refused http://localhost:11443/time/0?pnsdk=WebPubSub-Go/7.0.3&uuid=pn-d5715fa1-b955-4beb-b7b8-900cb80afc80
+WebPubSub :->  2022/06/12 04:16:29 reconnection_manager.go:110: Network disconnected, reconnection try 35 of 50
+ {webpubsub/connection: Failed to execute request: Get "http://localhost:11443/time/0?pnsdk=WebPubSub-Go/7.0.3&uuid=pn-d5715fa1-b955-4beb-b7b8-900cb80afc80": dial tcp [::1]:11443: connect: connection refused Unknown No Category Matched 0 false      [] [] <nil>} webpubsub/connection: Failed to execute request: Get "http://localhost:11443/time/0?pnsdk=WebPubSub-Go/7.0.3&uuid=pn-d5715fa1-b955-4beb-b7b8-900cb80afc80": dial tcp [::1]:11443: connect: connection refused
+WebPubSub :->  2022/06/12 04:17:00 request.go:97: url:http://localhost:11443/time/0?pnsdk=WebPubSub-Go/7.0.3&uuid=pn-d5715fa1-b955-4beb-b7b8-900cb80afc80
+method:GET
+WebPubSub :->  2022/06/12 04:17:00 request.go:284: webpubsub/server: Server respond with error code 404: 404 page not found
+WebPubSub :->  2022/06/12 04:17:00 request.go:299: WPSUnknownCategory: resp.StatusCode, resp.Body, resp.Request.URL 404 &{0x1162580 0xc0004fc200 0x13556e0} http://localhost:11443/time/0?pnsdk=WebPubSub-Go/7.0.3&uuid=pn-d5715fa1-b955-4beb-b7b8-900cb80afc80
+WebPubSub :->  2022/06/12 04:17:00 request.go:187: res.StatusCode, status, err.Error() 404 {webpubsub/server: Server respond with error code 404: 404 page not found Unknown Time 404 false      [] [] <nil>} webpubsub/server: Server respond with error code 404: 404 page not found
+WebPubSub :->  2022/06/12 04:17:00 reconnection_manager.go:148: timerInterval > MaxExponentialBackoff at: 1
+WebPubSub :->  2022/06/12 04:17:00 reconnection_manager.go:110: Network disconnected, reconnection try 36 of 50
+ {webpubsub/server: Server respond with error code 404: 404 page not found Unknown Time 404 false      [] [] <nil>} webpubsub/server: Server respond with error code 404: 404 page not found
+WebPubSub :->  2022/06/12 04:17:01 request.go:97: url:http://localhost:11443/time/0?pnsdk=WebPubSub-Go/7.0.3&uuid=pn-d5715fa1-b955-4beb-b7b8-900cb80afc80
+method:GET
+WebPubSub :->  2022/06/12 04:17:01 request.go:284: webpubsub/server: Server respond with error code 404: 404 page not found
+WebPubSub :->  2022/06/12 04:17:01 request.go:299: WPSUnknownCategory: resp.StatusCode, resp.Body, resp.Request.URL 404 &{0x1162580 0xc0004fc2c0 0x13556e0} http://localhost:11443/time/0?pnsdk=WebPubSub-Go/7.0.3&uuid=pn-d5715fa1-b955-4beb-b7b8-900cb80afc80
+WebPubSub :->  2022/06/12 04:17:01 request.go:187: res.StatusCode, status, err.Error() 404 {webpubsub/server: Server respond with error code 404: 404 page not found Unknown Time 404 false      [] [] <nil>} webpubsub/server: Server respond with error code 404: 404 page not found
+WebPubSub :->  2022/06/12 04:17:01 reconnection_manager.go:110: Network disconnected, reconnection try 37 of 50
+ {webpubsub/server: Server respond with error code 404: 404 page not found Unknown Time 404 false      [] [] <nil>} webpubsub/server: Server respond with error code 404: 404 page not found
+WebPubSub :->  2022/06/12 04:17:04 request.go:97: url:http://localhost:11443/time/0?pnsdk=WebPubSub-Go/7.0.3&uuid=pn-d5715fa1-b955-4beb-b7b8-900cb80afc80
+method:GET
+WebPubSub :->  2022/06/12 04:17:04 request.go:284: webpubsub/server: Server respond with error code 404: 404 page not found
+WebPubSub :->  2022/06/12 04:17:04 request.go:299: WPSUnknownCategory: resp.StatusCode, resp.Body, resp.Request.URL 404 &{0x1162580 0xc000470240 0x13556e0} http://localhost:11443/time/0?pnsdk=WebPubSub-Go/7.0.3&uuid=pn-d5715fa1-b955-4beb-b7b8-900cb80afc80
+WebPubSub :->  2022/06/12 04:17:04 request.go:187: res.StatusCode, status, err.Error() 404 {webpubsub/server: Server respond with error code 404: 404 page not found Unknown Time 404 false      [] [] <nil>} webpubsub/server: Server respond with error code 404: 404 page not found
+WebPubSub :->  2022/06/12 04:17:04 reconnection_manager.go:110: Network disconnected, reconnection try 38 of 50
+ {webpubsub/server: Server respond with error code 404: 404 page not found Unknown Time 404 false      [] [] <nil>} webpubsub/server: Server respond with error code 404: 404 page not found
+WebPubSub :->  2022/06/12 04:17:11 request.go:97: url:http://localhost:11443/time/0?pnsdk=WebPubSub-Go/7.0.3&uuid=pn-d5715fa1-b955-4beb-b7b8-900cb80afc80
+method:GET
+WebPubSub :->  2022/06/12 04:17:11 request.go:284: webpubsub/server: Server respond with error code 404: 404 page not found
+WebPubSub :->  2022/06/12 04:17:11 request.go:299: WPSUnknownCategory: resp.StatusCode, resp.Body, resp.Request.URL 404 &{0x1162580 0xc000470300 0x13556e0} http://localhost:11443/time/0?pnsdk=WebPubSub-Go/7.0.3&uuid=pn-d5715fa1-b955-4beb-b7b8-900cb80afc80
+WebPubSub :->  2022/06/12 04:17:11 request.go:187: res.StatusCode, status, err.Error() 404 {webpubsub/server: Server respond with error code 404: 404 page not found Unknown Time 404 false      [] [] <nil>} webpubsub/server: Server respond with error code 404: 404 page not found
+WebPubSub :->  2022/06/12 04:17:11 reconnection_manager.go:110: Network disconnected, reconnection try 39 of 50
+ {webpubsub/server: Server respond with error code 404: 404 page not found Unknown Time 404 false      [] [] <nil>} webpubsub/server: Server respond with error code 404: 404 page not found
+WebPubSub :->  2022/06/12 04:17:26 request.go:97: url:http://localhost:11443/time/0?pnsdk=WebPubSub-Go/7.0.3&uuid=pn-d5715fa1-b955-4beb-b7b8-900cb80afc80
+method:GET
+WebPubSub :->  2022/06/12 04:17:26 request.go:284: webpubsub/server: Server respond with error code 404: 404 page not found
+WebPubSub :->  2022/06/12 04:17:26 request.go:299: WPSUnknownCategory: resp.StatusCode, resp.Body, resp.Request.URL 404 &{0x1162580 0xc0004703c0 0x13556e0} http://localhost:11443/time/0?pnsdk=WebPubSub-Go/7.0.3&uuid=pn-d5715fa1-b955-4beb-b7b8-900cb80afc80
+WebPubSub :->  2022/06/12 04:17:26 request.go:187: res.StatusCode, status, err.Error() 404 {webpubsub/server: Server respond with error code 404: 404 page not found Unknown Time 404 false      [] [] <nil>} webpubsub/server: Server respond with error code 404: 404 page not found
+WebPubSub :->  2022/06/12 04:17:26 reconnection_manager.go:110: Network disconnected, reconnection try 40 of 50
+ {webpubsub/server: Server respond with error code 404: 404 page not found Unknown Time 404 false      [] [] <nil>} webpubsub/server: Server respond with error code 404: 404 page not found
+WebPubSub :->  2022/06/12 04:17:57 request.go:97: url:http://localhost:11443/time/0?uuid=pn-d5715fa1-b955-4beb-b7b8-900cb80afc80&pnsdk=WebPubSub-Go/7.0.3
+method:GET
+WebPubSub :->  2022/06/12 04:17:57 request.go:284: webpubsub/server: Server respond with error code 404: 404 page not found
+WebPubSub :->  2022/06/12 04:17:57 request.go:299: WPSUnknownCategory: resp.StatusCode, resp.Body, resp.Request.URL 404 &{0x1162580 0xc000470480 0x13556e0} http://localhost:11443/time/0?uuid=pn-d5715fa1-b955-4beb-b7b8-900cb80afc80&pnsdk=WebPubSub-Go/7.0.3
+WebPubSub :->  2022/06/12 04:17:57 request.go:187: res.StatusCode, status, err.Error() 404 {webpubsub/server: Server respond with error code 404: 404 page not found Unknown Time 404 false      [] [] <nil>} webpubsub/server: Server respond with error code 404: 404 page not found
+WebPubSub :->  2022/06/12 04:17:57 reconnection_manager.go:148: timerInterval > MaxExponentialBackoff at: 1
+WebPubSub :->  2022/06/12 04:17:57 reconnection_manager.go:110: Network disconnected, reconnection try 41 of 50
+ {webpubsub/server: Server respond with error code 404: 404 page not found Unknown Time 404 false      [] [] <nil>} webpubsub/server: Server respond with error code 404: 404 page not found
+WebPubSub :->  2022/06/12 04:17:58 request.go:97: url:http://localhost:11443/time/0?pnsdk=WebPubSub-Go/7.0.3&uuid=pn-d5715fa1-b955-4beb-b7b8-900cb80afc80
+method:GET
+WebPubSub :->  2022/06/12 04:17:58 request.go:284: webpubsub/server: Server respond with error code 404: 404 page not found
+WebPubSub :->  2022/06/12 04:17:58 request.go:299: WPSUnknownCategory: resp.StatusCode, resp.Body, resp.Request.URL 404 &{0x1162580 0xc000470540 0x13556e0} http://localhost:11443/time/0?pnsdk=WebPubSub-Go/7.0.3&uuid=pn-d5715fa1-b955-4beb-b7b8-900cb80afc80
+WebPubSub :->  2022/06/12 04:17:58 request.go:187: res.StatusCode, status, err.Error() 404 {webpubsub/server: Server respond with error code 404: 404 page not found Unknown Time 404 false      [] [] <nil>} webpubsub/server: Server respond with error code 404: 404 page not found
+WebPubSub :->  2022/06/12 04:17:58 reconnection_manager.go:110: Network disconnected, reconnection try 42 of 50
+ {webpubsub/server: Server respond with error code 404: 404 page not found Unknown Time 404 false      [] [] <nil>} webpubsub/server: Server respond with error code 404: 404 page not found
+WebPubSub :->  2022/06/12 04:18:01 request.go:97: url:http://localhost:11443/time/0?pnsdk=WebPubSub-Go/7.0.3&uuid=pn-d5715fa1-b955-4beb-b7b8-900cb80afc80
+method:GET
+WebPubSub :->  2022/06/12 04:18:01 request.go:284: webpubsub/server: Server respond with error code 404: 404 page not found
+WebPubSub :->  2022/06/12 04:18:01 request.go:299: WPSUnknownCategory: resp.StatusCode, resp.Body, resp.Request.URL 404 &{0x1162580 0xc000470600 0x13556e0} http://localhost:11443/time/0?pnsdk=WebPubSub-Go/7.0.3&uuid=pn-d5715fa1-b955-4beb-b7b8-900cb80afc80
+WebPubSub :->  2022/06/12 04:18:01 request.go:187: res.StatusCode, status, err.Error() 404 {webpubsub/server: Server respond with error code 404: 404 page not found Unknown Time 404 false      [] [] <nil>} webpubsub/server: Server respond with error code 404: 404 page not found
+WebPubSub :->  2022/06/12 04:18:01 reconnection_manager.go:110: Network disconnected, reconnection try 43 of 50
+ {webpubsub/server: Server respond with error code 404: 404 page not found Unknown Time 404 false      [] [] <nil>} webpubsub/server: Server respond with error code 404: 404 page not found
+WebPubSub :->  2022/06/12 04:18:08 request.go:97: url:http://localhost:11443/time/0?pnsdk=WebPubSub-Go/7.0.3&uuid=pn-d5715fa1-b955-4beb-b7b8-900cb80afc80
+method:GET
+WebPubSub :->  2022/06/12 04:18:08 request.go:284: webpubsub/server: Server respond with error code 404: 404 page not found
+WebPubSub :->  2022/06/12 04:18:08 request.go:299: WPSUnknownCategory: resp.StatusCode, resp.Body, resp.Request.URL 404 &{0x1162580 0xc0004706c0 0x13556e0} http://localhost:11443/time/0?pnsdk=WebPubSub-Go/7.0.3&uuid=pn-d5715fa1-b955-4beb-b7b8-900cb80afc80
+WebPubSub :->  2022/06/12 04:18:08 request.go:187: res.StatusCode, status, err.Error() 404 {webpubsub/server: Server respond with error code 404: 404 page not found Unknown Time 404 false      [] [] <nil>} webpubsub/server: Server respond with error code 404: 404 page not found
+WebPubSub :->  2022/06/12 04:18:08 reconnection_manager.go:110: Network disconnected, reconnection try 44 of 50
+ {webpubsub/server: Server respond with error code 404: 404 page not found Unknown Time 404 false      [] [] <nil>} webpubsub/server: Server respond with error code 404: 404 page not found

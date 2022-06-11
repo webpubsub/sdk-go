@@ -1,0 +1,70 @@
+package webpubsub
+
+import (
+	"fmt"
+	"testing"
+
+	"github.com/stretchr/testify/assert"
+	h "github.com/webpubsub/go/v7/tests/helpers"
+)
+
+func AssertSendFile(t *testing.T, checkQueryParam, testContext bool) {
+	assert := assert.New(t)
+	pn := NewWebPubSub(NewDemoConfig())
+
+	queryParam := map[string]string{
+		"q1": "v1",
+		"q2": "v2",
+	}
+
+	if !checkQueryParam {
+		queryParam = nil
+	}
+
+	o := newSendFileBuilder(pn)
+	if testContext {
+		o = newSendFileBuilderWithContext(pn, backgroundContext)
+	}
+
+	channel := "chan"
+	o.Channel(channel)
+	o.QueryParam(queryParam)
+
+	path, err := o.opts.buildPath()
+	assert.Nil(err)
+
+	h.AssertPathsEqual(t,
+		fmt.Sprintf(sendFilePath, pn.Config.SubscribeKey, channel),
+		path, []int{})
+
+	body, err := o.opts.buildBody()
+	assert.Nil(err)
+	assert.Equal([]byte{123, 34, 110, 97, 109, 101, 34, 58, 34, 34, 125}, body)
+
+	if checkQueryParam {
+		u, _ := o.opts.buildQuery()
+		assert.Equal("v1", u.Get("q1"))
+		assert.Equal("v2", u.Get("q2"))
+	}
+
+}
+
+func TestSendFile(t *testing.T) {
+	AssertSendFile(t, true, false)
+}
+
+func TestSendFileContext(t *testing.T) {
+	AssertSendFile(t, true, true)
+}
+
+func TestSendFileResponseValueError(t *testing.T) {
+	assert := assert.New(t)
+	pn := NewWebPubSub(NewDemoConfig())
+	opts := &sendFileOpts{
+		webpubsub: pn,
+	}
+	jsonBytes := []byte(`s`)
+
+	_, _, err := newWPSSendFileResponse(jsonBytes, opts, StatusResponse{})
+	assert.Equal("webpubsub/parsing: Error unmarshalling response: {s}", err.Error())
+}
