@@ -62,7 +62,7 @@ func NewDemoConfig() *Config {
 func NewConfig(uuid string) *Config {
 	c := Config{
 		UUID:                          uuid,
-		Origin:                        "ps.pndsn.com",
+		Origin:                        "ps11.pndsn.com",
 		Secure:                        true,
 		ConnectTimeout:                10,
 		NonSubscribeRequestTimeout:    10,

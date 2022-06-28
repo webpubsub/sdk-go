@@ -1007,3 +1007,1251 @@ WebPubSub :->  2022/06/12 04:18:08 request.go:299: WPSUnknownCategory: resp.Stat
 WebPubSub :->  2022/06/12 04:18:08 request.go:187: res.StatusCode, status, err.Error() 404 {webpubsub/server: Server respond with error code 404: 404 page not found Unknown Time 404 false      [] [] <nil>} webpubsub/server: Server respond with error code 404: 404 page not found
 WebPubSub :->  2022/06/12 04:18:08 reconnection_manager.go:110: Network disconnected, reconnection try 44 of 50
  {webpubsub/server: Server respond with error code 404: 404 page not found Unknown Time 404 false      [] [] <nil>} webpubsub/server: Server respond with error code 404: 404 page not found
+WebPubSub :->  2022/06/23 00:39:06 webpubsub.go:755: WebPubSub Go v4 SDK: 7.0.3
+pnconf: &{{{0 0} 0 0 0 0} pub-c-deeb6f03-8193-4a34-b253-e89f915dc7b8 sub-c-e548adb7-3388-4d3a-8134-91d0130312e2 sec-c-MTdiNTE1NDgtMWQ1Yy00NTA5LTlhZGUtMThmMzJlOTE0Nzlh  ps11.pndsn.com pn-3efdd1ce-7f09-41fa-99ec-d52fd986b446  true 10 10 310 60 0 0 50 60  3 0xc000088870 false false false 100 30 20 true true 5 true}
+go1.18.3
+amd64
+darwin
+WebPubSub :->  2022/06/23 00:39:06 webpubsub.go:778: Init RequestWorkers: workers 20
+WebPubSub :->  2022/06/23 00:39:06 request_workers.go:80: Start: Running with workers  20
+WebPubSub :->  2022/06/23 00:39:06 request_workers.go:83: Start: StartNonSubWorker  0
+WebPubSub :->  2022/06/23 00:39:06 request_workers.go:83: Start: StartNonSubWorker  1
+WebPubSub :->  2022/06/23 00:39:06 request_workers.go:83: Start: StartNonSubWorker  2
+WebPubSub :->  2022/06/23 00:39:06 request_workers.go:83: Start: StartNonSubWorker  3
+WebPubSub :->  2022/06/23 00:39:06 request_workers.go:83: Start: StartNonSubWorker  4
+WebPubSub :->  2022/06/23 00:39:06 request_workers.go:83: Start: StartNonSubWorker  5
+WebPubSub :->  2022/06/23 00:39:06 request_workers.go:83: Start: StartNonSubWorker  6
+WebPubSub :->  2022/06/23 00:39:06 request_workers.go:83: Start: StartNonSubWorker  7
+WebPubSub :->  2022/06/23 00:39:06 request_workers.go:83: Start: StartNonSubWorker  8
+WebPubSub :->  2022/06/23 00:39:06 request_workers.go:83: Start: StartNonSubWorker  9
+WebPubSub :->  2022/06/23 00:39:06 request_workers.go:83: Start: StartNonSubWorker  10
+WebPubSub :->  2022/06/23 00:39:06 request_workers.go:83: Start: StartNonSubWorker  11
+WebPubSub :->  2022/06/23 00:39:06 request_workers.go:83: Start: StartNonSubWorker  12
+WebPubSub :->  2022/06/23 00:39:06 request_workers.go:83: Start: StartNonSubWorker  13
+WebPubSub :->  2022/06/23 00:39:06 request_workers.go:83: Start: StartNonSubWorker  14
+WebPubSub :->  2022/06/23 00:39:06 request_workers.go:83: Start: StartNonSubWorker  15
+WebPubSub :->  2022/06/23 00:39:06 request_workers.go:83: Start: StartNonSubWorker  16
+WebPubSub :->  2022/06/23 00:39:06 request_workers.go:83: Start: StartNonSubWorker  17
+WebPubSub :->  2022/06/23 00:39:06 request_workers.go:83: Start: StartNonSubWorker  18
+WebPubSub :->  2022/06/23 00:39:06 request_workers.go:83: Start: StartNonSubWorker  19
+WebPubSub :->  2022/06/23 00:41:30 webpubsub.go:755: WebPubSub Go v4 SDK: 7.0.3
+pnconf: &{{{0 0} 0 0 0 0} pub-c-deeb6f03-8193-4a34-b253-e89f915dc7b8 sub-c-e548adb7-3388-4d3a-8134-91d0130312e2 sec-c-MTdiNTE1NDgtMWQ1Yy00NTA5LTlhZGUtMThmMzJlOTE0Nzlh  ps11.pndsn.com pn-2f51dca2-d6a5-4e26-bed3-74f26208e8d6  true 10 10 310 60 0 0 50 60  3 0xc000140820 false false false 100 30 20 true true 5 true}
+go1.18.3
+amd64
+darwin
+WebPubSub :->  2022/06/23 00:41:30 webpubsub.go:778: Init RequestWorkers: workers 20
+WebPubSub :->  2022/06/23 00:41:30 request_workers.go:80: Start: Running with workers  20
+WebPubSub :->  2022/06/23 00:41:30 request_workers.go:83: Start: StartNonSubWorker  0
+WebPubSub :->  2022/06/23 00:41:30 request_workers.go:83: Start: StartNonSubWorker  1
+WebPubSub :->  2022/06/23 00:41:30 request_workers.go:83: Start: StartNonSubWorker  2
+WebPubSub :->  2022/06/23 00:41:30 request_workers.go:83: Start: StartNonSubWorker  3
+WebPubSub :->  2022/06/23 00:41:30 request_workers.go:83: Start: StartNonSubWorker  4
+WebPubSub :->  2022/06/23 00:41:30 request_workers.go:83: Start: StartNonSubWorker  5
+WebPubSub :->  2022/06/23 00:41:30 request_workers.go:83: Start: StartNonSubWorker  6
+WebPubSub :->  2022/06/23 00:41:30 request_workers.go:83: Start: StartNonSubWorker  7
+WebPubSub :->  2022/06/23 00:41:30 request_workers.go:83: Start: StartNonSubWorker  8
+WebPubSub :->  2022/06/23 00:41:30 request_workers.go:83: Start: StartNonSubWorker  9
+WebPubSub :->  2022/06/23 00:41:30 request_workers.go:83: Start: StartNonSubWorker  10
+WebPubSub :->  2022/06/23 00:41:30 request_workers.go:83: Start: StartNonSubWorker  11
+WebPubSub :->  2022/06/23 00:41:30 request_workers.go:83: Start: StartNonSubWorker  12
+WebPubSub :->  2022/06/23 00:41:30 request_workers.go:83: Start: StartNonSubWorker  13
+WebPubSub :->  2022/06/23 00:41:30 request_workers.go:83: Start: StartNonSubWorker  14
+WebPubSub :->  2022/06/23 00:41:30 request_workers.go:83: Start: StartNonSubWorker  15
+WebPubSub :->  2022/06/23 00:41:30 request_workers.go:83: Start: StartNonSubWorker  16
+WebPubSub :->  2022/06/23 00:41:30 request_workers.go:83: Start: StartNonSubWorker  17
+WebPubSub :->  2022/06/23 00:41:30 request_workers.go:83: Start: StartNonSubWorker  18
+WebPubSub :->  2022/06/23 00:41:30 request_workers.go:83: Start: StartNonSubWorker  19
+WebPubSub :->  2022/06/23 00:42:24 grant_token_request.go:199: bmVal: true 1 1
+WebPubSub :->  2022/06/23 00:42:24 grant_token_request.go:199: bmVal: true 2 3
+WebPubSub :->  2022/06/23 00:42:24 grant_token_request.go:199: bmVal: false 8 3
+WebPubSub :->  2022/06/23 00:42:24 grant_token_request.go:199: bmVal: false 128 3
+WebPubSub :->  2022/06/23 00:42:24 grant_token_request.go:199: bmVal: false 64 3
+WebPubSub :->  2022/06/23 00:42:24 grant_token_request.go:199: bmVal: false 4 3
+WebPubSub :->  2022/06/23 00:42:24 grant_token_request.go:199: bmVal: false 32 3
+WebPubSub :->  2022/06/23 00:42:24 grant_token_request.go:220: bmVal ChannelPermissions: 3
+WebPubSub :->  2022/06/23 00:42:24 grant_token_request.go:199: bmVal: true 1 1
+WebPubSub :->  2022/06/23 00:42:24 grant_token_request.go:199: bmVal: true 2 3
+WebPubSub :->  2022/06/23 00:42:24 grant_token_request.go:199: bmVal: false 8 3
+WebPubSub :->  2022/06/23 00:42:24 grant_token_request.go:199: bmVal: false 128 3
+WebPubSub :->  2022/06/23 00:42:24 grant_token_request.go:199: bmVal: false 64 3
+WebPubSub :->  2022/06/23 00:42:24 grant_token_request.go:199: bmVal: false 4 3
+WebPubSub :->  2022/06/23 00:42:24 grant_token_request.go:199: bmVal: false 32 3
+WebPubSub :->  2022/06/23 00:42:24 grant_token_request.go:220: bmVal ChannelPermissions: 3
+WebPubSub :->  2022/06/23 00:42:24 grant_token_request.go:199: bmVal: true 1 1
+WebPubSub :->  2022/06/23 00:42:24 grant_token_request.go:199: bmVal: false 4 1
+WebPubSub :->  2022/06/23 00:42:24 grant_token_request.go:236: bmVal GroupPermissions: 1
+WebPubSub :->  2022/06/23 00:42:24 grant_token_request.go:199: bmVal: true 1 1
+WebPubSub :->  2022/06/23 00:42:24 grant_token_request.go:199: bmVal: false 4 1
+WebPubSub :->  2022/06/23 00:42:24 grant_token_request.go:236: bmVal GroupPermissions: 1
+WebPubSub :->  2022/06/23 00:42:24 grant_token_request.go:199: bmVal: true 1 1
+WebPubSub :->  2022/06/23 00:42:24 grant_token_request.go:199: bmVal: true 2 3
+WebPubSub :->  2022/06/23 00:42:24 grant_token_request.go:199: bmVal: true 8 11
+WebPubSub :->  2022/06/23 00:42:24 grant_token_request.go:199: bmVal: false 128 11
+WebPubSub :->  2022/06/23 00:42:24 grant_token_request.go:199: bmVal: false 64 11
+WebPubSub :->  2022/06/23 00:42:24 grant_token_request.go:199: bmVal: false 4 11
+WebPubSub :->  2022/06/23 00:42:24 grant_token_request.go:199: bmVal: false 32 11
+WebPubSub :->  2022/06/23 00:42:24 grant_token_request.go:220: bmVal ChannelPermissions: 11
+WebPubSub :->  2022/06/23 00:42:24 grant_token_request.go:199: bmVal: true 1 1
+WebPubSub :->  2022/06/23 00:42:24 grant_token_request.go:199: bmVal: true 4 5
+WebPubSub :->  2022/06/23 00:42:24 grant_token_request.go:236: bmVal GroupPermissions: 5
+WebPubSub :->  2022/06/23 00:42:24 grant_token_request.go:304: permissions:  {{map[ch1:3 ch2:3] map[cg1:1 cg2:1] map[] map[] map[]} {map[^ch-[0-9a-f]*$:11] map[^:cg-[0-9a-f]*$:5] map[] map[] map[]} map[] }
+WebPubSub :->  2022/06/23 00:42:24 endpoints.go:232: signedInputV2: POST
+pub-c-deeb6f03-8193-4a34-b253-e89f915dc7b8
+/v3/pam/sub-c-e548adb7-3388-4d3a-8134-91d0130312e2/grant
+pnsdk=WebPubSub-Go%2F7.0.3&timestamp=1655916144&uuid=pn-2f51dca2-d6a5-4e26-bed3-74f26208e8d6
+{"ttl":10,"permissions":{"resources":{"channels":{"ch1":3,"ch2":3},"groups":{"cg1":1,"cg2":1},"uuids":{},"users":{},"spaces":{}},"patterns":{"channels":{"^ch-[0-9a-f]*$":11},"groups":{"^:cg-[0-9a-f]*$":5},"uuids":{},"users":{},"spaces":{}},"meta":{}}}
+WebPubSub :->  2022/06/23 00:42:24 endpoints.go:221: signaturev2: v2.uXayyAF91v9J6j7nEqAIzu4CktNzxAX2eLVkVln9XkU
+WebPubSub :->  2022/06/23 00:42:24 request.go:97: url:https://ps11.pndsn.com/v3/pam/sub-c-e548adb7-3388-4d3a-8134-91d0130312e2/grant?pnsdk=WebPubSub-Go/7.0.3&uuid=pn-2f51dca2-d6a5-4e26-bed3-74f26208e8d6&timestamp=1655916144&signature=v2.uXayyAF91v9J6j7nEqAIzu4CktNzxAX2eLVkVln9XkU
+method:POST
+WebPubSub :->  2022/06/23 00:42:24 grant_token_request.go:199: bmVal: true 1 1
+WebPubSub :->  2022/06/23 00:42:24 grant_token_request.go:199: bmVal: true 2 3
+WebPubSub :->  2022/06/23 00:42:24 grant_token_request.go:199: bmVal: false 8 3
+WebPubSub :->  2022/06/23 00:42:24 grant_token_request.go:199: bmVal: false 128 3
+WebPubSub :->  2022/06/23 00:42:24 grant_token_request.go:199: bmVal: false 64 3
+WebPubSub :->  2022/06/23 00:42:24 grant_token_request.go:199: bmVal: false 4 3
+WebPubSub :->  2022/06/23 00:42:24 grant_token_request.go:199: bmVal: false 32 3
+WebPubSub :->  2022/06/23 00:42:24 grant_token_request.go:220: bmVal ChannelPermissions: 3
+WebPubSub :->  2022/06/23 00:42:24 grant_token_request.go:199: bmVal: true 1 1
+WebPubSub :->  2022/06/23 00:42:24 grant_token_request.go:199: bmVal: true 2 3
+WebPubSub :->  2022/06/23 00:42:24 grant_token_request.go:199: bmVal: false 8 3
+WebPubSub :->  2022/06/23 00:42:24 grant_token_request.go:199: bmVal: false 128 3
+WebPubSub :->  2022/06/23 00:42:24 grant_token_request.go:199: bmVal: false 64 3
+WebPubSub :->  2022/06/23 00:42:24 grant_token_request.go:199: bmVal: false 4 3
+WebPubSub :->  2022/06/23 00:42:24 grant_token_request.go:199: bmVal: false 32 3
+WebPubSub :->  2022/06/23 00:42:24 grant_token_request.go:220: bmVal ChannelPermissions: 3
+WebPubSub :->  2022/06/23 00:42:24 grant_token_request.go:199: bmVal: true 1 1
+WebPubSub :->  2022/06/23 00:42:24 grant_token_request.go:199: bmVal: false 4 1
+WebPubSub :->  2022/06/23 00:42:24 grant_token_request.go:236: bmVal GroupPermissions: 1
+WebPubSub :->  2022/06/23 00:42:24 grant_token_request.go:199: bmVal: true 1 1
+WebPubSub :->  2022/06/23 00:42:24 grant_token_request.go:199: bmVal: false 4 1
+WebPubSub :->  2022/06/23 00:42:24 grant_token_request.go:236: bmVal GroupPermissions: 1
+WebPubSub :->  2022/06/23 00:42:24 grant_token_request.go:199: bmVal: true 1 1
+WebPubSub :->  2022/06/23 00:42:24 grant_token_request.go:199: bmVal: true 2 3
+WebPubSub :->  2022/06/23 00:42:24 grant_token_request.go:199: bmVal: true 8 11
+WebPubSub :->  2022/06/23 00:42:24 grant_token_request.go:199: bmVal: false 128 11
+WebPubSub :->  2022/06/23 00:42:24 grant_token_request.go:199: bmVal: false 64 11
+WebPubSub :->  2022/06/23 00:42:24 grant_token_request.go:199: bmVal: false 4 11
+WebPubSub :->  2022/06/23 00:42:24 grant_token_request.go:199: bmVal: false 32 11
+WebPubSub :->  2022/06/23 00:42:24 grant_token_request.go:220: bmVal ChannelPermissions: 11
+WebPubSub :->  2022/06/23 00:42:24 grant_token_request.go:199: bmVal: true 1 1
+WebPubSub :->  2022/06/23 00:42:24 grant_token_request.go:199: bmVal: true 4 5
+WebPubSub :->  2022/06/23 00:42:24 grant_token_request.go:236: bmVal GroupPermissions: 5
+WebPubSub :->  2022/06/23 00:42:24 grant_token_request.go:304: permissions:  {{map[ch1:3 ch2:3] map[cg1:1 cg2:1] map[] map[] map[]} {map[^ch-[0-9a-f]*$:11] map[^:cg-[0-9a-f]*$:5] map[] map[] map[]} map[] }
+WebPubSub :->  2022/06/23 00:42:24 request.go:73: BODY {"ttl":10,"permissions":{"resources":{"channels":{"ch1":3,"ch2":3},"groups":{"cg1":1,"cg2":1},"uuids":{},"users":{},"spaces":{}},"patterns":{"channels":{"^ch-[0-9a-f]*$":11},"groups":{"^:cg-[0-9a-f]*$":5},"uuids":{},"users":{},"spaces":{}},"meta":{}}}
+WebPubSub :->  2022/06/23 00:42:28 request.go:313: 200 OK: resp.StatusCode, resp.Status, resp.Body, resp.Request.URL, string(body) 200 200 OK &{0x11624e0 0xc000296080 0x1355640} https://ps11.pndsn.com/v3/pam/sub-c-e548adb7-3388-4d3a-8134-91d0130312e2/grant?pnsdk=WebPubSub-Go/7.0.3&uuid=pn-2f51dca2-d6a5-4e26-bed3-74f26208e8d6&timestamp=1655916144&signature=v2.uXayyAF91v9J6j7nEqAIzu4CktNzxAX2eLVkVln9XkU {"data":{"message":"Success","token":"p0F2AkF0GmKzRnRDdHRsCkNyZXOlRGNoYW6iY2NoMQNjY2gyA0NncnCiY2NnMQFjY2cyAUN1c3KgQ3NwY6BEdXVpZKBDcGF0pURjaGFuoW5eY2gtWzAtOWEtZl0qJAtDZ3JwoW9eOmNnLVswLTlhLWZdKiQFQ3VzcqBDc3BjoER1dWlkoERtZXRhoENzaWdYIOJOtMCWqaHMDfHrPtjXLzt42QWHfSUuujXDTycSf5MR"},"service":"Access Manager","status":200}
+WebPubSub :->  2022/06/23 00:42:28 request.go:216: WPSUnknownCategory {"data":{"message":"Success","token":"p0F2AkF0GmKzRnRDdHRsCkNyZXOlRGNoYW6iY2NoMQNjY2gyA0NncnCiY2NnMQFjY2cyAUN1c3KgQ3NwY6BEdXVpZKBDcGF0pURjaGFuoW5eY2gtWzAtOWEtZl0qJAtDZ3JwoW9eOmNnLVswLTlhLWZdKiQFQ3VzcqBDc3BjoER1dWlkoERtZXRhoENzaWdYIOJOtMCWqaHMDfHrPtjXLzt42QWHfSUuujXDTycSf5MR"},"service":"Access Manager","status":200} {Grant Token 200 true ps11.pndsn.com pn-2f51dca2-d6a5-4e26-bed3-74f26208e8d6  0xc00029e000}
+WebPubSub :->  2022/06/23 01:06:48 webpubsub.go:755: WebPubSub Go v4 SDK: 7.0.3
+pnconf: &{{{0 0} 0 0 0 0} pub-c-deeb6f03-8193-4a34-b253-e89f915dc7b8 sub-c-e548adb7-3388-4d3a-8134-91d0130312e2 sec-c-MTdiNTE1NDgtMWQ1Yy00NTA5LTlhZGUtMThmMzJlOTE0Nzlh  ps11.pndsn.com pn-a360872d-3c5b-4893-92d8-c515ea561714  true 10 10 310 60 0 0 50 60  3 0xc000088870 false false false 100 30 20 true true 5 true}
+go1.18.3
+amd64
+darwin
+WebPubSub :->  2022/06/23 01:06:48 webpubsub.go:778: Init RequestWorkers: workers 20
+WebPubSub :->  2022/06/23 01:06:48 request_workers.go:80: Start: Running with workers  20
+WebPubSub :->  2022/06/23 01:06:48 request_workers.go:83: Start: StartNonSubWorker  0
+WebPubSub :->  2022/06/23 01:06:48 request_workers.go:83: Start: StartNonSubWorker  1
+WebPubSub :->  2022/06/23 01:06:48 request_workers.go:83: Start: StartNonSubWorker  2
+WebPubSub :->  2022/06/23 01:06:48 request_workers.go:83: Start: StartNonSubWorker  3
+WebPubSub :->  2022/06/23 01:06:48 request_workers.go:83: Start: StartNonSubWorker  4
+WebPubSub :->  2022/06/23 01:06:48 request_workers.go:83: Start: StartNonSubWorker  5
+WebPubSub :->  2022/06/23 01:06:48 request_workers.go:83: Start: StartNonSubWorker  6
+WebPubSub :->  2022/06/23 01:06:48 request_workers.go:83: Start: StartNonSubWorker  7
+WebPubSub :->  2022/06/23 01:06:48 request_workers.go:83: Start: StartNonSubWorker  8
+WebPubSub :->  2022/06/23 01:06:48 request_workers.go:83: Start: StartNonSubWorker  9
+WebPubSub :->  2022/06/23 01:06:48 request_workers.go:83: Start: StartNonSubWorker  10
+WebPubSub :->  2022/06/23 01:06:48 request_workers.go:83: Start: StartNonSubWorker  11
+WebPubSub :->  2022/06/23 01:06:48 request_workers.go:83: Start: StartNonSubWorker  12
+WebPubSub :->  2022/06/23 01:06:48 request_workers.go:83: Start: StartNonSubWorker  13
+WebPubSub :->  2022/06/23 01:06:48 request_workers.go:83: Start: StartNonSubWorker  14
+WebPubSub :->  2022/06/23 01:06:48 request_workers.go:83: Start: StartNonSubWorker  15
+WebPubSub :->  2022/06/23 01:06:48 request_workers.go:83: Start: StartNonSubWorker  16
+WebPubSub :->  2022/06/23 01:06:48 request_workers.go:83: Start: StartNonSubWorker  17
+WebPubSub :->  2022/06/23 01:06:48 request_workers.go:83: Start: StartNonSubWorker  18
+WebPubSub :->  2022/06/23 01:06:48 request_workers.go:83: Start: StartNonSubWorker  19
+WebPubSub :->  2022/06/23 01:08:08 webpubsub.go:755: WebPubSub Go v4 SDK: 7.0.3
+pnconf: &{{{0 0} 0 0 0 0} pub-c-deeb6f03-8193-4a34-b253-e89f915dc7b8 sub-c-e548adb7-3388-4d3a-8134-91d0130312e2 sec-c-MTdiNTE1NDgtMWQ1Yy00NTA5LTlhZGUtMThmMzJlOTE0Nzlh  ps11.pndsn.com pn-55d28ae6-d5d1-478a-ac18-0eb0b0b9d808  true 10 10 310 60 0 0 50 60  3 0xc0000ae820 false false false 100 30 20 true true 5 true}
+go1.18.3
+amd64
+darwin
+WebPubSub :->  2022/06/23 01:08:08 webpubsub.go:778: Init RequestWorkers: workers 20
+WebPubSub :->  2022/06/23 01:08:08 request_workers.go:80: Start: Running with workers  20
+WebPubSub :->  2022/06/23 01:08:08 request_workers.go:83: Start: StartNonSubWorker  0
+WebPubSub :->  2022/06/23 01:08:08 request_workers.go:83: Start: StartNonSubWorker  1
+WebPubSub :->  2022/06/23 01:08:08 request_workers.go:83: Start: StartNonSubWorker  2
+WebPubSub :->  2022/06/23 01:08:08 request_workers.go:83: Start: StartNonSubWorker  3
+WebPubSub :->  2022/06/23 01:08:08 request_workers.go:83: Start: StartNonSubWorker  4
+WebPubSub :->  2022/06/23 01:08:08 request_workers.go:83: Start: StartNonSubWorker  5
+WebPubSub :->  2022/06/23 01:08:08 request_workers.go:83: Start: StartNonSubWorker  6
+WebPubSub :->  2022/06/23 01:08:08 request_workers.go:83: Start: StartNonSubWorker  7
+WebPubSub :->  2022/06/23 01:08:08 request_workers.go:83: Start: StartNonSubWorker  8
+WebPubSub :->  2022/06/23 01:08:08 request_workers.go:83: Start: StartNonSubWorker  9
+WebPubSub :->  2022/06/23 01:08:08 request_workers.go:83: Start: StartNonSubWorker  10
+WebPubSub :->  2022/06/23 01:08:08 request_workers.go:83: Start: StartNonSubWorker  11
+WebPubSub :->  2022/06/23 01:08:08 request_workers.go:83: Start: StartNonSubWorker  12
+WebPubSub :->  2022/06/23 01:08:08 request_workers.go:83: Start: StartNonSubWorker  13
+WebPubSub :->  2022/06/23 01:08:08 request_workers.go:83: Start: StartNonSubWorker  14
+WebPubSub :->  2022/06/23 01:08:08 request_workers.go:83: Start: StartNonSubWorker  15
+WebPubSub :->  2022/06/23 01:08:08 request_workers.go:83: Start: StartNonSubWorker  16
+WebPubSub :->  2022/06/23 01:08:08 request_workers.go:83: Start: StartNonSubWorker  17
+WebPubSub :->  2022/06/23 01:08:08 request_workers.go:83: Start: StartNonSubWorker  18
+WebPubSub :->  2022/06/23 01:08:08 request_workers.go:83: Start: StartNonSubWorker  19
+WebPubSub :->  2022/06/23 01:08:16 grant_token_request.go:199: bmVal: true 1 1
+WebPubSub :->  2022/06/23 01:08:16 grant_token_request.go:199: bmVal: true 2 3
+WebPubSub :->  2022/06/23 01:08:16 grant_token_request.go:199: bmVal: false 8 3
+WebPubSub :->  2022/06/23 01:08:16 grant_token_request.go:199: bmVal: false 128 3
+WebPubSub :->  2022/06/23 01:08:16 grant_token_request.go:199: bmVal: false 64 3
+WebPubSub :->  2022/06/23 01:08:16 grant_token_request.go:199: bmVal: false 4 3
+WebPubSub :->  2022/06/23 01:08:16 grant_token_request.go:199: bmVal: false 32 3
+WebPubSub :->  2022/06/23 01:08:16 grant_token_request.go:220: bmVal ChannelPermissions: 3
+WebPubSub :->  2022/06/23 01:08:16 grant_token_request.go:199: bmVal: true 1 1
+WebPubSub :->  2022/06/23 01:08:16 grant_token_request.go:199: bmVal: true 2 3
+WebPubSub :->  2022/06/23 01:08:16 grant_token_request.go:199: bmVal: false 8 3
+WebPubSub :->  2022/06/23 01:08:16 grant_token_request.go:199: bmVal: false 128 3
+WebPubSub :->  2022/06/23 01:08:16 grant_token_request.go:199: bmVal: false 64 3
+WebPubSub :->  2022/06/23 01:08:16 grant_token_request.go:199: bmVal: false 4 3
+WebPubSub :->  2022/06/23 01:08:16 grant_token_request.go:199: bmVal: false 32 3
+WebPubSub :->  2022/06/23 01:08:16 grant_token_request.go:220: bmVal ChannelPermissions: 3
+WebPubSub :->  2022/06/23 01:08:16 grant_token_request.go:199: bmVal: true 1 1
+WebPubSub :->  2022/06/23 01:08:16 grant_token_request.go:199: bmVal: false 4 1
+WebPubSub :->  2022/06/23 01:08:16 grant_token_request.go:236: bmVal GroupPermissions: 1
+WebPubSub :->  2022/06/23 01:08:16 grant_token_request.go:199: bmVal: true 1 1
+WebPubSub :->  2022/06/23 01:08:16 grant_token_request.go:199: bmVal: false 4 1
+WebPubSub :->  2022/06/23 01:08:16 grant_token_request.go:236: bmVal GroupPermissions: 1
+WebPubSub :->  2022/06/23 01:08:16 grant_token_request.go:199: bmVal: true 1 1
+WebPubSub :->  2022/06/23 01:08:16 grant_token_request.go:199: bmVal: true 2 3
+WebPubSub :->  2022/06/23 01:08:16 grant_token_request.go:199: bmVal: true 8 11
+WebPubSub :->  2022/06/23 01:08:16 grant_token_request.go:199: bmVal: false 128 11
+WebPubSub :->  2022/06/23 01:08:16 grant_token_request.go:199: bmVal: false 64 11
+WebPubSub :->  2022/06/23 01:08:16 grant_token_request.go:199: bmVal: false 4 11
+WebPubSub :->  2022/06/23 01:08:16 grant_token_request.go:199: bmVal: false 32 11
+WebPubSub :->  2022/06/23 01:08:16 grant_token_request.go:220: bmVal ChannelPermissions: 11
+WebPubSub :->  2022/06/23 01:08:16 grant_token_request.go:199: bmVal: true 1 1
+WebPubSub :->  2022/06/23 01:08:16 grant_token_request.go:199: bmVal: true 4 5
+WebPubSub :->  2022/06/23 01:08:16 grant_token_request.go:236: bmVal GroupPermissions: 5
+WebPubSub :->  2022/06/23 01:08:16 grant_token_request.go:304: permissions:  {{map[ch2:3 my-channel:3] map[cg1:1 cg2:1] map[] map[] map[]} {map[^ch-[0-9a-f]*$:11] map[^:cg-[0-9a-f]*$:5] map[] map[] map[]} map[] }
+WebPubSub :->  2022/06/23 01:08:16 endpoints.go:232: signedInputV2: POST
+pub-c-deeb6f03-8193-4a34-b253-e89f915dc7b8
+/v3/pam/sub-c-e548adb7-3388-4d3a-8134-91d0130312e2/grant
+pnsdk=WebPubSub-Go%2F7.0.3&timestamp=1655917696&uuid=pn-55d28ae6-d5d1-478a-ac18-0eb0b0b9d808
+{"ttl":10,"permissions":{"resources":{"channels":{"ch2":3,"my-channel":3},"groups":{"cg1":1,"cg2":1},"uuids":{},"users":{},"spaces":{}},"patterns":{"channels":{"^ch-[0-9a-f]*$":11},"groups":{"^:cg-[0-9a-f]*$":5},"uuids":{},"users":{},"spaces":{}},"meta":{}}}
+WebPubSub :->  2022/06/23 01:08:16 endpoints.go:221: signaturev2: v2.kgR14kEfiwBNY6aI5oRNbVWHytEDlcAb7_lOmrA20ig
+WebPubSub :->  2022/06/23 01:08:16 request.go:97: url:https://ps11.pndsn.com/v3/pam/sub-c-e548adb7-3388-4d3a-8134-91d0130312e2/grant?uuid=pn-55d28ae6-d5d1-478a-ac18-0eb0b0b9d808&timestamp=1655917696&pnsdk=WebPubSub-Go/7.0.3&signature=v2.kgR14kEfiwBNY6aI5oRNbVWHytEDlcAb7_lOmrA20ig
+method:POST
+WebPubSub :->  2022/06/23 01:08:16 grant_token_request.go:199: bmVal: true 1 1
+WebPubSub :->  2022/06/23 01:08:16 grant_token_request.go:199: bmVal: true 2 3
+WebPubSub :->  2022/06/23 01:08:16 grant_token_request.go:199: bmVal: false 8 3
+WebPubSub :->  2022/06/23 01:08:16 grant_token_request.go:199: bmVal: false 128 3
+WebPubSub :->  2022/06/23 01:08:16 grant_token_request.go:199: bmVal: false 64 3
+WebPubSub :->  2022/06/23 01:08:16 grant_token_request.go:199: bmVal: false 4 3
+WebPubSub :->  2022/06/23 01:08:16 grant_token_request.go:199: bmVal: false 32 3
+WebPubSub :->  2022/06/23 01:08:16 grant_token_request.go:220: bmVal ChannelPermissions: 3
+WebPubSub :->  2022/06/23 01:08:16 grant_token_request.go:199: bmVal: true 1 1
+WebPubSub :->  2022/06/23 01:08:16 grant_token_request.go:199: bmVal: true 2 3
+WebPubSub :->  2022/06/23 01:08:16 grant_token_request.go:199: bmVal: false 8 3
+WebPubSub :->  2022/06/23 01:08:16 grant_token_request.go:199: bmVal: false 128 3
+WebPubSub :->  2022/06/23 01:08:16 grant_token_request.go:199: bmVal: false 64 3
+WebPubSub :->  2022/06/23 01:08:16 grant_token_request.go:199: bmVal: false 4 3
+WebPubSub :->  2022/06/23 01:08:16 grant_token_request.go:199: bmVal: false 32 3
+WebPubSub :->  2022/06/23 01:08:16 grant_token_request.go:220: bmVal ChannelPermissions: 3
+WebPubSub :->  2022/06/23 01:08:16 grant_token_request.go:199: bmVal: true 1 1
+WebPubSub :->  2022/06/23 01:08:16 grant_token_request.go:199: bmVal: false 4 1
+WebPubSub :->  2022/06/23 01:08:16 grant_token_request.go:236: bmVal GroupPermissions: 1
+WebPubSub :->  2022/06/23 01:08:16 grant_token_request.go:199: bmVal: true 1 1
+WebPubSub :->  2022/06/23 01:08:16 grant_token_request.go:199: bmVal: false 4 1
+WebPubSub :->  2022/06/23 01:08:16 grant_token_request.go:236: bmVal GroupPermissions: 1
+WebPubSub :->  2022/06/23 01:08:16 grant_token_request.go:199: bmVal: true 1 1
+WebPubSub :->  2022/06/23 01:08:16 grant_token_request.go:199: bmVal: true 2 3
+WebPubSub :->  2022/06/23 01:08:16 grant_token_request.go:199: bmVal: true 8 11
+WebPubSub :->  2022/06/23 01:08:16 grant_token_request.go:199: bmVal: false 128 11
+WebPubSub :->  2022/06/23 01:08:16 grant_token_request.go:199: bmVal: false 64 11
+WebPubSub :->  2022/06/23 01:08:16 grant_token_request.go:199: bmVal: false 4 11
+WebPubSub :->  2022/06/23 01:08:16 grant_token_request.go:199: bmVal: false 32 11
+WebPubSub :->  2022/06/23 01:08:16 grant_token_request.go:220: bmVal ChannelPermissions: 11
+WebPubSub :->  2022/06/23 01:08:16 grant_token_request.go:199: bmVal: true 1 1
+WebPubSub :->  2022/06/23 01:08:16 grant_token_request.go:199: bmVal: true 4 5
+WebPubSub :->  2022/06/23 01:08:16 grant_token_request.go:236: bmVal GroupPermissions: 5
+WebPubSub :->  2022/06/23 01:08:16 grant_token_request.go:304: permissions:  {{map[ch2:3 my-channel:3] map[cg1:1 cg2:1] map[] map[] map[]} {map[^ch-[0-9a-f]*$:11] map[^:cg-[0-9a-f]*$:5] map[] map[] map[]} map[] }
+WebPubSub :->  2022/06/23 01:08:16 request.go:73: BODY {"ttl":10,"permissions":{"resources":{"channels":{"ch2":3,"my-channel":3},"groups":{"cg1":1,"cg2":1},"uuids":{},"users":{},"spaces":{}},"patterns":{"channels":{"^ch-[0-9a-f]*$":11},"groups":{"^:cg-[0-9a-f]*$":5},"uuids":{},"users":{},"spaces":{}},"meta":{}}}
+WebPubSub :->  2022/06/23 01:08:19 request.go:313: 200 OK: resp.StatusCode, resp.Status, resp.Body, resp.Request.URL, string(body) 200 200 OK &{0x11624e0 0xc0000379c0 0x1355640} https://ps11.pndsn.com/v3/pam/sub-c-e548adb7-3388-4d3a-8134-91d0130312e2/grant?uuid=pn-55d28ae6-d5d1-478a-ac18-0eb0b0b9d808&timestamp=1655917696&pnsdk=WebPubSub-Go/7.0.3&signature=v2.kgR14kEfiwBNY6aI5oRNbVWHytEDlcAb7_lOmrA20ig {"data":{"message":"Success","token":"p0F2AkF0GmKzTINDdHRsCkNyZXOlRGNoYW6iY2NoMgNqbXktY2hhbm5lbANDZ3JwomNjZzEBY2NnMgFDdXNyoENzcGOgRHV1aWSgQ3BhdKVEY2hhbqFuXmNoLVswLTlhLWZdKiQLQ2dycKFvXjpjZy1bMC05YS1mXSokBUN1c3KgQ3NwY6BEdXVpZKBEbWV0YaBDc2lnWCCgoZJoQbTHTx3e_TlNXReG3DywLS1zLqxSLJcH16KzVQ=="},"service":"Access Manager","status":200}
+WebPubSub :->  2022/06/23 01:08:19 request.go:216: WPSUnknownCategory {"data":{"message":"Success","token":"p0F2AkF0GmKzTINDdHRsCkNyZXOlRGNoYW6iY2NoMgNqbXktY2hhbm5lbANDZ3JwomNjZzEBY2NnMgFDdXNyoENzcGOgRHV1aWSgQ3BhdKVEY2hhbqFuXmNoLVswLTlhLWZdKiQLQ2dycKFvXjpjZy1bMC05YS1mXSokBUN1c3KgQ3NwY6BEdXVpZKBEbWV0YaBDc2lnWCCgoZJoQbTHTx3e_TlNXReG3DywLS1zLqxSLJcH16KzVQ=="},"service":"Access Manager","status":200} {Grant Token 200 true ps11.pndsn.com pn-55d28ae6-d5d1-478a-ac18-0eb0b0b9d808  0xc0000ba870}
+WebPubSub :->  2022/06/23 01:08:43 webpubsub.go:755: WebPubSub Go v4 SDK: 7.0.3
+pnconf: &{{{0 0} 0 0 0 0} pub-c-deeb6f03-8193-4a34-b253-e89f915dc7b8 sub-c-e548adb7-3388-4d3a-8134-91d0130312e2 sec-c-MTdiNTE1NDgtMWQ1Yy00NTA5LTlhZGUtMThmMzJlOTE0Nzlh  ps11.pndsn.com pn-91cdc321-8304-4730-ac80-2e835acc4080  true 10 10 310 60 0 0 50 60  3 0xc0001b8820 false false false 100 30 20 true true 5 true}
+go1.18.3
+amd64
+darwin
+WebPubSub :->  2022/06/23 01:08:43 webpubsub.go:778: Init RequestWorkers: workers 20
+WebPubSub :->  2022/06/23 01:08:43 request_workers.go:80: Start: Running with workers  20
+WebPubSub :->  2022/06/23 01:08:43 request_workers.go:83: Start: StartNonSubWorker  0
+WebPubSub :->  2022/06/23 01:08:43 request_workers.go:83: Start: StartNonSubWorker  1
+WebPubSub :->  2022/06/23 01:08:43 request_workers.go:83: Start: StartNonSubWorker  2
+WebPubSub :->  2022/06/23 01:08:43 request_workers.go:83: Start: StartNonSubWorker  3
+WebPubSub :->  2022/06/23 01:08:43 request_workers.go:83: Start: StartNonSubWorker  4
+WebPubSub :->  2022/06/23 01:08:43 request_workers.go:83: Start: StartNonSubWorker  5
+WebPubSub :->  2022/06/23 01:08:43 request_workers.go:83: Start: StartNonSubWorker  6
+WebPubSub :->  2022/06/23 01:08:43 request_workers.go:83: Start: StartNonSubWorker  7
+WebPubSub :->  2022/06/23 01:08:43 request_workers.go:83: Start: StartNonSubWorker  8
+WebPubSub :->  2022/06/23 01:08:43 request_workers.go:83: Start: StartNonSubWorker  9
+WebPubSub :->  2022/06/23 01:08:43 request_workers.go:83: Start: StartNonSubWorker  10
+WebPubSub :->  2022/06/23 01:08:43 request_workers.go:83: Start: StartNonSubWorker  11
+WebPubSub :->  2022/06/23 01:08:43 request_workers.go:83: Start: StartNonSubWorker  12
+WebPubSub :->  2022/06/23 01:08:43 request_workers.go:83: Start: StartNonSubWorker  13
+WebPubSub :->  2022/06/23 01:08:43 request_workers.go:83: Start: StartNonSubWorker  14
+WebPubSub :->  2022/06/23 01:08:43 request_workers.go:83: Start: StartNonSubWorker  15
+WebPubSub :->  2022/06/23 01:08:43 request_workers.go:83: Start: StartNonSubWorker  16
+WebPubSub :->  2022/06/23 01:08:43 request_workers.go:83: Start: StartNonSubWorker  17
+WebPubSub :->  2022/06/23 01:08:43 request_workers.go:83: Start: StartNonSubWorker  18
+WebPubSub :->  2022/06/23 01:08:43 request_workers.go:83: Start: StartNonSubWorker  19
+WebPubSub :->  2022/06/23 01:08:46 grant_token_request.go:199: bmVal: true 1 1
+WebPubSub :->  2022/06/23 01:08:46 grant_token_request.go:199: bmVal: true 2 3
+WebPubSub :->  2022/06/23 01:08:46 grant_token_request.go:199: bmVal: false 8 3
+WebPubSub :->  2022/06/23 01:08:46 grant_token_request.go:199: bmVal: false 128 3
+WebPubSub :->  2022/06/23 01:08:46 grant_token_request.go:199: bmVal: false 64 3
+WebPubSub :->  2022/06/23 01:08:46 grant_token_request.go:199: bmVal: false 4 3
+WebPubSub :->  2022/06/23 01:08:46 grant_token_request.go:199: bmVal: false 32 3
+WebPubSub :->  2022/06/23 01:08:46 grant_token_request.go:220: bmVal ChannelPermissions: 3
+WebPubSub :->  2022/06/23 01:08:46 grant_token_request.go:199: bmVal: true 1 1
+WebPubSub :->  2022/06/23 01:08:46 grant_token_request.go:199: bmVal: true 2 3
+WebPubSub :->  2022/06/23 01:08:46 grant_token_request.go:199: bmVal: false 8 3
+WebPubSub :->  2022/06/23 01:08:46 grant_token_request.go:199: bmVal: false 128 3
+WebPubSub :->  2022/06/23 01:08:46 grant_token_request.go:199: bmVal: false 64 3
+WebPubSub :->  2022/06/23 01:08:46 grant_token_request.go:199: bmVal: false 4 3
+WebPubSub :->  2022/06/23 01:08:46 grant_token_request.go:199: bmVal: false 32 3
+WebPubSub :->  2022/06/23 01:08:46 grant_token_request.go:220: bmVal ChannelPermissions: 3
+WebPubSub :->  2022/06/23 01:08:46 grant_token_request.go:199: bmVal: true 1 1
+WebPubSub :->  2022/06/23 01:08:46 grant_token_request.go:199: bmVal: false 4 1
+WebPubSub :->  2022/06/23 01:08:46 grant_token_request.go:236: bmVal GroupPermissions: 1
+WebPubSub :->  2022/06/23 01:08:46 grant_token_request.go:199: bmVal: true 1 1
+WebPubSub :->  2022/06/23 01:08:46 grant_token_request.go:199: bmVal: false 4 1
+WebPubSub :->  2022/06/23 01:08:46 grant_token_request.go:236: bmVal GroupPermissions: 1
+WebPubSub :->  2022/06/23 01:08:46 grant_token_request.go:199: bmVal: true 1 1
+WebPubSub :->  2022/06/23 01:08:46 grant_token_request.go:199: bmVal: true 2 3
+WebPubSub :->  2022/06/23 01:08:46 grant_token_request.go:199: bmVal: true 8 11
+WebPubSub :->  2022/06/23 01:08:46 grant_token_request.go:199: bmVal: false 128 11
+WebPubSub :->  2022/06/23 01:08:46 grant_token_request.go:199: bmVal: false 64 11
+WebPubSub :->  2022/06/23 01:08:46 grant_token_request.go:199: bmVal: false 4 11
+WebPubSub :->  2022/06/23 01:08:46 grant_token_request.go:199: bmVal: false 32 11
+WebPubSub :->  2022/06/23 01:08:46 grant_token_request.go:220: bmVal ChannelPermissions: 11
+WebPubSub :->  2022/06/23 01:08:46 grant_token_request.go:199: bmVal: true 1 1
+WebPubSub :->  2022/06/23 01:08:46 grant_token_request.go:199: bmVal: true 4 5
+WebPubSub :->  2022/06/23 01:08:46 grant_token_request.go:236: bmVal GroupPermissions: 5
+WebPubSub :->  2022/06/23 01:08:46 grant_token_request.go:304: permissions:  {{map[ch2:3 my-channel:3] map[cg1:1 cg2:1] map[] map[] map[]} {map[^ch-[0-9a-f]*$:11] map[^:cg-[0-9a-f]*$:5] map[] map[] map[]} map[] }
+WebPubSub :->  2022/06/23 01:08:46 endpoints.go:232: signedInputV2: POST
+pub-c-deeb6f03-8193-4a34-b253-e89f915dc7b8
+/v3/pam/sub-c-e548adb7-3388-4d3a-8134-91d0130312e2/grant
+pnsdk=WebPubSub-Go%2F7.0.3&timestamp=1655917726&uuid=pn-91cdc321-8304-4730-ac80-2e835acc4080
+{"ttl":10,"permissions":{"resources":{"channels":{"ch2":3,"my-channel":3},"groups":{"cg1":1,"cg2":1},"uuids":{},"users":{},"spaces":{}},"patterns":{"channels":{"^ch-[0-9a-f]*$":11},"groups":{"^:cg-[0-9a-f]*$":5},"uuids":{},"users":{},"spaces":{}},"meta":{}}}
+WebPubSub :->  2022/06/23 01:08:46 endpoints.go:221: signaturev2: v2.gXIZwijEtm-AfPSRoa0V15VHUvuDpgsGgyvy7N0qUns
+WebPubSub :->  2022/06/23 01:08:46 request.go:97: url:https://ps11.pndsn.com/v3/pam/sub-c-e548adb7-3388-4d3a-8134-91d0130312e2/grant?pnsdk=WebPubSub-Go/7.0.3&uuid=pn-91cdc321-8304-4730-ac80-2e835acc4080&timestamp=1655917726&signature=v2.gXIZwijEtm-AfPSRoa0V15VHUvuDpgsGgyvy7N0qUns
+method:POST
+WebPubSub :->  2022/06/23 01:08:46 grant_token_request.go:199: bmVal: true 1 1
+WebPubSub :->  2022/06/23 01:08:46 grant_token_request.go:199: bmVal: true 2 3
+WebPubSub :->  2022/06/23 01:08:46 grant_token_request.go:199: bmVal: false 8 3
+WebPubSub :->  2022/06/23 01:08:46 grant_token_request.go:199: bmVal: false 128 3
+WebPubSub :->  2022/06/23 01:08:46 grant_token_request.go:199: bmVal: false 64 3
+WebPubSub :->  2022/06/23 01:08:46 grant_token_request.go:199: bmVal: false 4 3
+WebPubSub :->  2022/06/23 01:08:46 grant_token_request.go:199: bmVal: false 32 3
+WebPubSub :->  2022/06/23 01:08:46 grant_token_request.go:220: bmVal ChannelPermissions: 3
+WebPubSub :->  2022/06/23 01:08:46 grant_token_request.go:199: bmVal: true 1 1
+WebPubSub :->  2022/06/23 01:08:46 grant_token_request.go:199: bmVal: true 2 3
+WebPubSub :->  2022/06/23 01:08:46 grant_token_request.go:199: bmVal: false 8 3
+WebPubSub :->  2022/06/23 01:08:46 grant_token_request.go:199: bmVal: false 128 3
+WebPubSub :->  2022/06/23 01:08:46 grant_token_request.go:199: bmVal: false 64 3
+WebPubSub :->  2022/06/23 01:08:46 grant_token_request.go:199: bmVal: false 4 3
+WebPubSub :->  2022/06/23 01:08:46 grant_token_request.go:199: bmVal: false 32 3
+WebPubSub :->  2022/06/23 01:08:46 grant_token_request.go:220: bmVal ChannelPermissions: 3
+WebPubSub :->  2022/06/23 01:08:46 grant_token_request.go:199: bmVal: true 1 1
+WebPubSub :->  2022/06/23 01:08:46 grant_token_request.go:199: bmVal: false 4 1
+WebPubSub :->  2022/06/23 01:08:46 grant_token_request.go:236: bmVal GroupPermissions: 1
+WebPubSub :->  2022/06/23 01:08:46 grant_token_request.go:199: bmVal: true 1 1
+WebPubSub :->  2022/06/23 01:08:46 grant_token_request.go:199: bmVal: false 4 1
+WebPubSub :->  2022/06/23 01:08:46 grant_token_request.go:236: bmVal GroupPermissions: 1
+WebPubSub :->  2022/06/23 01:08:46 grant_token_request.go:199: bmVal: true 1 1
+WebPubSub :->  2022/06/23 01:08:46 grant_token_request.go:199: bmVal: true 2 3
+WebPubSub :->  2022/06/23 01:08:46 grant_token_request.go:199: bmVal: true 8 11
+WebPubSub :->  2022/06/23 01:08:46 grant_token_request.go:199: bmVal: false 128 11
+WebPubSub :->  2022/06/23 01:08:46 grant_token_request.go:199: bmVal: false 64 11
+WebPubSub :->  2022/06/23 01:08:46 grant_token_request.go:199: bmVal: false 4 11
+WebPubSub :->  2022/06/23 01:08:46 grant_token_request.go:199: bmVal: false 32 11
+WebPubSub :->  2022/06/23 01:08:46 grant_token_request.go:220: bmVal ChannelPermissions: 11
+WebPubSub :->  2022/06/23 01:08:46 grant_token_request.go:199: bmVal: true 1 1
+WebPubSub :->  2022/06/23 01:08:46 grant_token_request.go:199: bmVal: true 4 5
+WebPubSub :->  2022/06/23 01:08:46 grant_token_request.go:236: bmVal GroupPermissions: 5
+WebPubSub :->  2022/06/23 01:08:46 grant_token_request.go:304: permissions:  {{map[ch2:3 my-channel:3] map[cg1:1 cg2:1] map[] map[] map[]} {map[^ch-[0-9a-f]*$:11] map[^:cg-[0-9a-f]*$:5] map[] map[] map[]} map[] }
+WebPubSub :->  2022/06/23 01:08:46 request.go:73: BODY {"ttl":10,"permissions":{"resources":{"channels":{"ch2":3,"my-channel":3},"groups":{"cg1":1,"cg2":1},"uuids":{},"users":{},"spaces":{}},"patterns":{"channels":{"^ch-[0-9a-f]*$":11},"groups":{"^:cg-[0-9a-f]*$":5},"uuids":{},"users":{},"spaces":{}},"meta":{}}}
+WebPubSub :->  2022/06/23 01:09:01 webpubsub.go:755: WebPubSub Go v4 SDK: 7.0.3
+pnconf: &{{{0 0} 0 0 0 0} pub-c-deeb6f03-8193-4a34-b253-e89f915dc7b8 sub-c-e548adb7-3388-4d3a-8134-91d0130312e2 sec-c-MTdiNTE1NDgtMWQ1Yy00NTA5LTlhZGUtMThmMzJlOTE0Nzlh  ps11.pndsn.com pn-3eeb79c0-a8a8-4dac-a7f2-427230e3a2a6  true 10 10 310 60 0 0 50 60  3 0xc000116870 false false false 100 30 20 true true 5 true}
+go1.18.3
+amd64
+darwin
+WebPubSub :->  2022/06/23 01:09:01 webpubsub.go:778: Init RequestWorkers: workers 20
+WebPubSub :->  2022/06/23 01:09:01 request_workers.go:80: Start: Running with workers  20
+WebPubSub :->  2022/06/23 01:09:01 request_workers.go:83: Start: StartNonSubWorker  0
+WebPubSub :->  2022/06/23 01:09:01 request_workers.go:83: Start: StartNonSubWorker  1
+WebPubSub :->  2022/06/23 01:09:01 request_workers.go:83: Start: StartNonSubWorker  2
+WebPubSub :->  2022/06/23 01:09:01 request_workers.go:83: Start: StartNonSubWorker  3
+WebPubSub :->  2022/06/23 01:09:01 request_workers.go:83: Start: StartNonSubWorker  4
+WebPubSub :->  2022/06/23 01:09:01 request_workers.go:83: Start: StartNonSubWorker  5
+WebPubSub :->  2022/06/23 01:09:01 request_workers.go:83: Start: StartNonSubWorker  6
+WebPubSub :->  2022/06/23 01:09:01 request_workers.go:83: Start: StartNonSubWorker  7
+WebPubSub :->  2022/06/23 01:09:01 request_workers.go:83: Start: StartNonSubWorker  8
+WebPubSub :->  2022/06/23 01:09:01 request_workers.go:83: Start: StartNonSubWorker  9
+WebPubSub :->  2022/06/23 01:09:01 request_workers.go:83: Start: StartNonSubWorker  10
+WebPubSub :->  2022/06/23 01:09:01 request_workers.go:83: Start: StartNonSubWorker  11
+WebPubSub :->  2022/06/23 01:09:01 request_workers.go:83: Start: StartNonSubWorker  12
+WebPubSub :->  2022/06/23 01:09:01 request_workers.go:83: Start: StartNonSubWorker  13
+WebPubSub :->  2022/06/23 01:09:01 request_workers.go:83: Start: StartNonSubWorker  14
+WebPubSub :->  2022/06/23 01:09:01 request_workers.go:83: Start: StartNonSubWorker  15
+WebPubSub :->  2022/06/23 01:09:01 request_workers.go:83: Start: StartNonSubWorker  16
+WebPubSub :->  2022/06/23 01:09:01 request_workers.go:83: Start: StartNonSubWorker  17
+WebPubSub :->  2022/06/23 01:09:01 request_workers.go:83: Start: StartNonSubWorker  18
+WebPubSub :->  2022/06/23 01:09:01 request_workers.go:83: Start: StartNonSubWorker  19
+WebPubSub :->  2022/06/23 01:09:01 grant_token_request.go:199: bmVal: true 1 1
+WebPubSub :->  2022/06/23 01:09:01 grant_token_request.go:199: bmVal: true 2 3
+WebPubSub :->  2022/06/23 01:09:01 grant_token_request.go:199: bmVal: false 8 3
+WebPubSub :->  2022/06/23 01:09:01 grant_token_request.go:199: bmVal: false 128 3
+WebPubSub :->  2022/06/23 01:09:01 grant_token_request.go:199: bmVal: false 64 3
+WebPubSub :->  2022/06/23 01:09:01 grant_token_request.go:199: bmVal: false 4 3
+WebPubSub :->  2022/06/23 01:09:01 grant_token_request.go:199: bmVal: false 32 3
+WebPubSub :->  2022/06/23 01:09:01 grant_token_request.go:220: bmVal ChannelPermissions: 3
+WebPubSub :->  2022/06/23 01:09:01 grant_token_request.go:199: bmVal: true 1 1
+WebPubSub :->  2022/06/23 01:09:01 grant_token_request.go:199: bmVal: true 2 3
+WebPubSub :->  2022/06/23 01:09:01 grant_token_request.go:199: bmVal: false 8 3
+WebPubSub :->  2022/06/23 01:09:01 grant_token_request.go:199: bmVal: false 128 3
+WebPubSub :->  2022/06/23 01:09:01 grant_token_request.go:199: bmVal: false 64 3
+WebPubSub :->  2022/06/23 01:09:01 grant_token_request.go:199: bmVal: false 4 3
+WebPubSub :->  2022/06/23 01:09:01 grant_token_request.go:199: bmVal: false 32 3
+WebPubSub :->  2022/06/23 01:09:01 grant_token_request.go:220: bmVal ChannelPermissions: 3
+WebPubSub :->  2022/06/23 01:09:01 grant_token_request.go:199: bmVal: true 1 1
+WebPubSub :->  2022/06/23 01:09:01 grant_token_request.go:199: bmVal: false 4 1
+WebPubSub :->  2022/06/23 01:09:01 grant_token_request.go:236: bmVal GroupPermissions: 1
+WebPubSub :->  2022/06/23 01:09:01 grant_token_request.go:199: bmVal: true 1 1
+WebPubSub :->  2022/06/23 01:09:01 grant_token_request.go:199: bmVal: false 4 1
+WebPubSub :->  2022/06/23 01:09:01 grant_token_request.go:236: bmVal GroupPermissions: 1
+WebPubSub :->  2022/06/23 01:09:01 grant_token_request.go:199: bmVal: true 1 1
+WebPubSub :->  2022/06/23 01:09:01 grant_token_request.go:199: bmVal: true 2 3
+WebPubSub :->  2022/06/23 01:09:01 grant_token_request.go:199: bmVal: true 8 11
+WebPubSub :->  2022/06/23 01:09:01 grant_token_request.go:199: bmVal: false 128 11
+WebPubSub :->  2022/06/23 01:09:01 grant_token_request.go:199: bmVal: false 64 11
+WebPubSub :->  2022/06/23 01:09:01 grant_token_request.go:199: bmVal: false 4 11
+WebPubSub :->  2022/06/23 01:09:01 grant_token_request.go:199: bmVal: false 32 11
+WebPubSub :->  2022/06/23 01:09:01 grant_token_request.go:220: bmVal ChannelPermissions: 11
+WebPubSub :->  2022/06/23 01:09:01 grant_token_request.go:199: bmVal: true 1 1
+WebPubSub :->  2022/06/23 01:09:01 grant_token_request.go:199: bmVal: true 4 5
+WebPubSub :->  2022/06/23 01:09:01 grant_token_request.go:236: bmVal GroupPermissions: 5
+WebPubSub :->  2022/06/23 01:09:01 grant_token_request.go:304: permissions:  {{map[ch2:3 my-channel:3] map[cg1:1 cg2:1] map[] map[] map[]} {map[^ch-[0-9a-f]*$:11] map[^:cg-[0-9a-f]*$:5] map[] map[] map[]} map[] }
+WebPubSub :->  2022/06/23 01:09:01 endpoints.go:232: signedInputV2: POST
+pub-c-deeb6f03-8193-4a34-b253-e89f915dc7b8
+/v3/pam/sub-c-e548adb7-3388-4d3a-8134-91d0130312e2/grant
+pnsdk=WebPubSub-Go%2F7.0.3&timestamp=1655917741&uuid=pn-3eeb79c0-a8a8-4dac-a7f2-427230e3a2a6
+{"ttl":10,"permissions":{"resources":{"channels":{"ch2":3,"my-channel":3},"groups":{"cg1":1,"cg2":1},"uuids":{},"users":{},"spaces":{}},"patterns":{"channels":{"^ch-[0-9a-f]*$":11},"groups":{"^:cg-[0-9a-f]*$":5},"uuids":{},"users":{},"spaces":{}},"meta":{}}}
+WebPubSub :->  2022/06/23 01:09:01 endpoints.go:221: signaturev2: v2.ZsRKcF2cZmujZnvFiruO2xtfGWjrz1LoocFdFIDut-w
+WebPubSub :->  2022/06/23 01:09:01 request.go:97: url:https://ps11.pndsn.com/v3/pam/sub-c-e548adb7-3388-4d3a-8134-91d0130312e2/grant?timestamp=1655917741&pnsdk=WebPubSub-Go/7.0.3&uuid=pn-3eeb79c0-a8a8-4dac-a7f2-427230e3a2a6&signature=v2.ZsRKcF2cZmujZnvFiruO2xtfGWjrz1LoocFdFIDut-w
+method:POST
+WebPubSub :->  2022/06/23 01:09:01 grant_token_request.go:199: bmVal: true 1 1
+WebPubSub :->  2022/06/23 01:09:01 grant_token_request.go:199: bmVal: true 2 3
+WebPubSub :->  2022/06/23 01:09:01 grant_token_request.go:199: bmVal: false 8 3
+WebPubSub :->  2022/06/23 01:09:01 grant_token_request.go:199: bmVal: false 128 3
+WebPubSub :->  2022/06/23 01:09:01 grant_token_request.go:199: bmVal: false 64 3
+WebPubSub :->  2022/06/23 01:09:01 grant_token_request.go:199: bmVal: false 4 3
+WebPubSub :->  2022/06/23 01:09:01 grant_token_request.go:199: bmVal: false 32 3
+WebPubSub :->  2022/06/23 01:09:01 grant_token_request.go:220: bmVal ChannelPermissions: 3
+WebPubSub :->  2022/06/23 01:09:01 grant_token_request.go:199: bmVal: true 1 1
+WebPubSub :->  2022/06/23 01:09:01 grant_token_request.go:199: bmVal: true 2 3
+WebPubSub :->  2022/06/23 01:09:01 grant_token_request.go:199: bmVal: false 8 3
+WebPubSub :->  2022/06/23 01:09:01 grant_token_request.go:199: bmVal: false 128 3
+WebPubSub :->  2022/06/23 01:09:01 grant_token_request.go:199: bmVal: false 64 3
+WebPubSub :->  2022/06/23 01:09:01 grant_token_request.go:199: bmVal: false 4 3
+WebPubSub :->  2022/06/23 01:09:01 grant_token_request.go:199: bmVal: false 32 3
+WebPubSub :->  2022/06/23 01:09:01 grant_token_request.go:220: bmVal ChannelPermissions: 3
+WebPubSub :->  2022/06/23 01:09:01 grant_token_request.go:199: bmVal: true 1 1
+WebPubSub :->  2022/06/23 01:09:01 grant_token_request.go:199: bmVal: false 4 1
+WebPubSub :->  2022/06/23 01:09:01 grant_token_request.go:236: bmVal GroupPermissions: 1
+WebPubSub :->  2022/06/23 01:09:01 grant_token_request.go:199: bmVal: true 1 1
+WebPubSub :->  2022/06/23 01:09:01 grant_token_request.go:199: bmVal: false 4 1
+WebPubSub :->  2022/06/23 01:09:01 grant_token_request.go:236: bmVal GroupPermissions: 1
+WebPubSub :->  2022/06/23 01:09:01 grant_token_request.go:199: bmVal: true 1 1
+WebPubSub :->  2022/06/23 01:09:01 grant_token_request.go:199: bmVal: true 2 3
+WebPubSub :->  2022/06/23 01:09:01 grant_token_request.go:199: bmVal: true 8 11
+WebPubSub :->  2022/06/23 01:09:01 grant_token_request.go:199: bmVal: false 128 11
+WebPubSub :->  2022/06/23 01:09:01 grant_token_request.go:199: bmVal: false 64 11
+WebPubSub :->  2022/06/23 01:09:01 grant_token_request.go:199: bmVal: false 4 11
+WebPubSub :->  2022/06/23 01:09:01 grant_token_request.go:199: bmVal: false 32 11
+WebPubSub :->  2022/06/23 01:09:01 grant_token_request.go:220: bmVal ChannelPermissions: 11
+WebPubSub :->  2022/06/23 01:09:01 grant_token_request.go:199: bmVal: true 1 1
+WebPubSub :->  2022/06/23 01:09:01 grant_token_request.go:199: bmVal: true 4 5
+WebPubSub :->  2022/06/23 01:09:01 grant_token_request.go:236: bmVal GroupPermissions: 5
+WebPubSub :->  2022/06/23 01:09:01 grant_token_request.go:304: permissions:  {{map[ch2:3 my-channel:3] map[cg1:1 cg2:1] map[] map[] map[]} {map[^ch-[0-9a-f]*$:11] map[^:cg-[0-9a-f]*$:5] map[] map[] map[]} map[] }
+WebPubSub :->  2022/06/23 01:09:01 request.go:73: BODY {"ttl":10,"permissions":{"resources":{"channels":{"ch2":3,"my-channel":3},"groups":{"cg1":1,"cg2":1},"uuids":{},"users":{},"spaces":{}},"patterns":{"channels":{"^ch-[0-9a-f]*$":11},"groups":{"^:cg-[0-9a-f]*$":5},"uuids":{},"users":{},"spaces":{}},"meta":{}}}
+WebPubSub :->  2022/06/23 01:09:11 request.go:175: err.Error() Post "https://ps11.pndsn.com/v3/pam/sub-c-e548adb7-3388-4d3a-8134-91d0130312e2/grant?timestamp=1655917741&pnsdk=WebPubSub-Go/7.0.3&uuid=pn-3eeb79c0-a8a8-4dac-a7f2-427230e3a2a6&signature=v2.ZsRKcF2cZmujZnvFiruO2xtfGWjrz1LoocFdFIDut-w": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+WebPubSub :->  2022/06/23 01:09:11 request.go:178: WPSUnknownCategory webpubsub/connection: Failed to execute request: Post "https://ps11.pndsn.com/v3/pam/sub-c-e548adb7-3388-4d3a-8134-91d0130312e2/grant?timestamp=1655917741&pnsdk=WebPubSub-Go/7.0.3&uuid=pn-3eeb79c0-a8a8-4dac-a7f2-427230e3a2a6&signature=v2.ZsRKcF2cZmujZnvFiruO2xtfGWjrz1LoocFdFIDut-w": context deadline exceeded (Client.Timeout exceeded while awaiting headers) https://ps11.pndsn.com/v3/pam/sub-c-e548adb7-3388-4d3a-8134-91d0130312e2/grant?timestamp=1655917741&pnsdk=WebPubSub-Go/7.0.3&uuid=pn-3eeb79c0-a8a8-4dac-a7f2-427230e3a2a6&signature=v2.ZsRKcF2cZmujZnvFiruO2xtfGWjrz1LoocFdFIDut-w
+WebPubSub :->  2022/06/23 01:09:18 webpubsub.go:755: WebPubSub Go v4 SDK: 7.0.3
+pnconf: &{{{0 0} 0 0 0 0} pub-c-deeb6f03-8193-4a34-b253-e89f915dc7b8 sub-c-e548adb7-3388-4d3a-8134-91d0130312e2 sec-c-MTdiNTE1NDgtMWQ1Yy00NTA5LTlhZGUtMThmMzJlOTE0Nzlh  ps11.pndsn.com pn-72a2814d-77cd-470a-9761-6ae96b669152  true 10 10 310 60 0 0 50 60  3 0xc000140820 false false false 100 30 20 true true 5 true}
+go1.18.3
+amd64
+darwin
+WebPubSub :->  2022/06/23 01:09:18 webpubsub.go:778: Init RequestWorkers: workers 20
+WebPubSub :->  2022/06/23 01:09:18 request_workers.go:80: Start: Running with workers  20
+WebPubSub :->  2022/06/23 01:09:18 request_workers.go:83: Start: StartNonSubWorker  0
+WebPubSub :->  2022/06/23 01:09:18 request_workers.go:83: Start: StartNonSubWorker  1
+WebPubSub :->  2022/06/23 01:09:18 request_workers.go:83: Start: StartNonSubWorker  2
+WebPubSub :->  2022/06/23 01:09:18 request_workers.go:83: Start: StartNonSubWorker  3
+WebPubSub :->  2022/06/23 01:09:18 request_workers.go:83: Start: StartNonSubWorker  4
+WebPubSub :->  2022/06/23 01:09:18 request_workers.go:83: Start: StartNonSubWorker  5
+WebPubSub :->  2022/06/23 01:09:18 request_workers.go:83: Start: StartNonSubWorker  6
+WebPubSub :->  2022/06/23 01:09:18 request_workers.go:83: Start: StartNonSubWorker  7
+WebPubSub :->  2022/06/23 01:09:18 request_workers.go:83: Start: StartNonSubWorker  8
+WebPubSub :->  2022/06/23 01:09:18 request_workers.go:83: Start: StartNonSubWorker  9
+WebPubSub :->  2022/06/23 01:09:18 request_workers.go:83: Start: StartNonSubWorker  10
+WebPubSub :->  2022/06/23 01:09:18 request_workers.go:83: Start: StartNonSubWorker  11
+WebPubSub :->  2022/06/23 01:09:18 request_workers.go:83: Start: StartNonSubWorker  12
+WebPubSub :->  2022/06/23 01:09:18 request_workers.go:83: Start: StartNonSubWorker  13
+WebPubSub :->  2022/06/23 01:09:18 request_workers.go:83: Start: StartNonSubWorker  14
+WebPubSub :->  2022/06/23 01:09:18 request_workers.go:83: Start: StartNonSubWorker  15
+WebPubSub :->  2022/06/23 01:09:18 request_workers.go:83: Start: StartNonSubWorker  16
+WebPubSub :->  2022/06/23 01:09:18 request_workers.go:83: Start: StartNonSubWorker  17
+WebPubSub :->  2022/06/23 01:09:18 request_workers.go:83: Start: StartNonSubWorker  18
+WebPubSub :->  2022/06/23 01:09:18 request_workers.go:83: Start: StartNonSubWorker  19
+WebPubSub :->  2022/06/23 01:09:44 grant_token_request.go:199: bmVal: true 1 1
+WebPubSub :->  2022/06/23 01:09:44 grant_token_request.go:199: bmVal: true 2 3
+WebPubSub :->  2022/06/23 01:09:44 grant_token_request.go:199: bmVal: false 8 3
+WebPubSub :->  2022/06/23 01:09:44 grant_token_request.go:199: bmVal: false 128 3
+WebPubSub :->  2022/06/23 01:09:44 grant_token_request.go:199: bmVal: false 64 3
+WebPubSub :->  2022/06/23 01:09:44 grant_token_request.go:199: bmVal: false 4 3
+WebPubSub :->  2022/06/23 01:09:44 grant_token_request.go:199: bmVal: false 32 3
+WebPubSub :->  2022/06/23 01:09:44 grant_token_request.go:220: bmVal ChannelPermissions: 3
+WebPubSub :->  2022/06/23 01:09:44 grant_token_request.go:199: bmVal: true 1 1
+WebPubSub :->  2022/06/23 01:09:44 grant_token_request.go:199: bmVal: true 2 3
+WebPubSub :->  2022/06/23 01:09:44 grant_token_request.go:199: bmVal: false 8 3
+WebPubSub :->  2022/06/23 01:09:44 grant_token_request.go:199: bmVal: false 128 3
+WebPubSub :->  2022/06/23 01:09:44 grant_token_request.go:199: bmVal: false 64 3
+WebPubSub :->  2022/06/23 01:09:44 grant_token_request.go:199: bmVal: false 4 3
+WebPubSub :->  2022/06/23 01:09:44 grant_token_request.go:199: bmVal: false 32 3
+WebPubSub :->  2022/06/23 01:09:44 grant_token_request.go:220: bmVal ChannelPermissions: 3
+WebPubSub :->  2022/06/23 01:09:44 grant_token_request.go:199: bmVal: true 1 1
+WebPubSub :->  2022/06/23 01:09:44 grant_token_request.go:199: bmVal: false 4 1
+WebPubSub :->  2022/06/23 01:09:44 grant_token_request.go:236: bmVal GroupPermissions: 1
+WebPubSub :->  2022/06/23 01:09:44 grant_token_request.go:199: bmVal: true 1 1
+WebPubSub :->  2022/06/23 01:09:44 grant_token_request.go:199: bmVal: false 4 1
+WebPubSub :->  2022/06/23 01:09:44 grant_token_request.go:236: bmVal GroupPermissions: 1
+WebPubSub :->  2022/06/23 01:09:44 grant_token_request.go:199: bmVal: true 1 1
+WebPubSub :->  2022/06/23 01:09:44 grant_token_request.go:199: bmVal: true 2 3
+WebPubSub :->  2022/06/23 01:09:44 grant_token_request.go:199: bmVal: true 8 11
+WebPubSub :->  2022/06/23 01:09:44 grant_token_request.go:199: bmVal: false 128 11
+WebPubSub :->  2022/06/23 01:09:44 grant_token_request.go:199: bmVal: false 64 11
+WebPubSub :->  2022/06/23 01:09:44 grant_token_request.go:199: bmVal: false 4 11
+WebPubSub :->  2022/06/23 01:09:44 grant_token_request.go:199: bmVal: false 32 11
+WebPubSub :->  2022/06/23 01:09:44 grant_token_request.go:220: bmVal ChannelPermissions: 11
+WebPubSub :->  2022/06/23 01:09:44 grant_token_request.go:199: bmVal: true 1 1
+WebPubSub :->  2022/06/23 01:09:44 grant_token_request.go:199: bmVal: true 4 5
+WebPubSub :->  2022/06/23 01:09:44 grant_token_request.go:236: bmVal GroupPermissions: 5
+WebPubSub :->  2022/06/23 01:09:44 grant_token_request.go:304: permissions:  {{map[ch2:3 my-channel:3] map[cg1:1 cg2:1] map[] map[] map[]} {map[^ch-[0-9a-f]*$:11] map[^:cg-[0-9a-f]*$:5] map[] map[] map[]} map[] }
+WebPubSub :->  2022/06/23 01:09:44 endpoints.go:232: signedInputV2: POST
+pub-c-deeb6f03-8193-4a34-b253-e89f915dc7b8
+/v3/pam/sub-c-e548adb7-3388-4d3a-8134-91d0130312e2/grant
+pnsdk=WebPubSub-Go%2F7.0.3&timestamp=1655917784&uuid=pn-72a2814d-77cd-470a-9761-6ae96b669152
+{"ttl":10,"permissions":{"resources":{"channels":{"ch2":3,"my-channel":3},"groups":{"cg1":1,"cg2":1},"uuids":{},"users":{},"spaces":{}},"patterns":{"channels":{"^ch-[0-9a-f]*$":11},"groups":{"^:cg-[0-9a-f]*$":5},"uuids":{},"users":{},"spaces":{}},"meta":{}}}
+WebPubSub :->  2022/06/23 01:09:44 endpoints.go:221: signaturev2: v2.Eo-6_9FcuSus1Z9WWiwtwnTEIXjrEl2DHoENoNS4QHY
+WebPubSub :->  2022/06/23 01:09:44 request.go:97: url:https://ps11.pndsn.com/v3/pam/sub-c-e548adb7-3388-4d3a-8134-91d0130312e2/grant?pnsdk=WebPubSub-Go/7.0.3&uuid=pn-72a2814d-77cd-470a-9761-6ae96b669152&timestamp=1655917784&signature=v2.Eo-6_9FcuSus1Z9WWiwtwnTEIXjrEl2DHoENoNS4QHY
+method:POST
+WebPubSub :->  2022/06/23 01:09:44 grant_token_request.go:199: bmVal: true 1 1
+WebPubSub :->  2022/06/23 01:09:44 grant_token_request.go:199: bmVal: true 2 3
+WebPubSub :->  2022/06/23 01:09:44 grant_token_request.go:199: bmVal: false 8 3
+WebPubSub :->  2022/06/23 01:09:44 grant_token_request.go:199: bmVal: false 128 3
+WebPubSub :->  2022/06/23 01:09:44 grant_token_request.go:199: bmVal: false 64 3
+WebPubSub :->  2022/06/23 01:09:44 grant_token_request.go:199: bmVal: false 4 3
+WebPubSub :->  2022/06/23 01:09:44 grant_token_request.go:199: bmVal: false 32 3
+WebPubSub :->  2022/06/23 01:09:44 grant_token_request.go:220: bmVal ChannelPermissions: 3
+WebPubSub :->  2022/06/23 01:09:44 grant_token_request.go:199: bmVal: true 1 1
+WebPubSub :->  2022/06/23 01:09:44 grant_token_request.go:199: bmVal: true 2 3
+WebPubSub :->  2022/06/23 01:09:44 grant_token_request.go:199: bmVal: false 8 3
+WebPubSub :->  2022/06/23 01:09:44 grant_token_request.go:199: bmVal: false 128 3
+WebPubSub :->  2022/06/23 01:09:44 grant_token_request.go:199: bmVal: false 64 3
+WebPubSub :->  2022/06/23 01:09:44 grant_token_request.go:199: bmVal: false 4 3
+WebPubSub :->  2022/06/23 01:09:44 grant_token_request.go:199: bmVal: false 32 3
+WebPubSub :->  2022/06/23 01:09:44 grant_token_request.go:220: bmVal ChannelPermissions: 3
+WebPubSub :->  2022/06/23 01:09:44 grant_token_request.go:199: bmVal: true 1 1
+WebPubSub :->  2022/06/23 01:09:44 grant_token_request.go:199: bmVal: false 4 1
+WebPubSub :->  2022/06/23 01:09:44 grant_token_request.go:236: bmVal GroupPermissions: 1
+WebPubSub :->  2022/06/23 01:09:44 grant_token_request.go:199: bmVal: true 1 1
+WebPubSub :->  2022/06/23 01:09:44 grant_token_request.go:199: bmVal: false 4 1
+WebPubSub :->  2022/06/23 01:09:44 grant_token_request.go:236: bmVal GroupPermissions: 1
+WebPubSub :->  2022/06/23 01:09:44 grant_token_request.go:199: bmVal: true 1 1
+WebPubSub :->  2022/06/23 01:09:44 grant_token_request.go:199: bmVal: true 2 3
+WebPubSub :->  2022/06/23 01:09:44 grant_token_request.go:199: bmVal: true 8 11
+WebPubSub :->  2022/06/23 01:09:44 grant_token_request.go:199: bmVal: false 128 11
+WebPubSub :->  2022/06/23 01:09:44 grant_token_request.go:199: bmVal: false 64 11
+WebPubSub :->  2022/06/23 01:09:44 grant_token_request.go:199: bmVal: false 4 11
+WebPubSub :->  2022/06/23 01:09:44 grant_token_request.go:199: bmVal: false 32 11
+WebPubSub :->  2022/06/23 01:09:44 grant_token_request.go:220: bmVal ChannelPermissions: 11
+WebPubSub :->  2022/06/23 01:09:44 grant_token_request.go:199: bmVal: true 1 1
+WebPubSub :->  2022/06/23 01:09:44 grant_token_request.go:199: bmVal: true 4 5
+WebPubSub :->  2022/06/23 01:09:44 grant_token_request.go:236: bmVal GroupPermissions: 5
+WebPubSub :->  2022/06/23 01:09:44 grant_token_request.go:304: permissions:  {{map[ch2:3 my-channel:3] map[cg1:1 cg2:1] map[] map[] map[]} {map[^ch-[0-9a-f]*$:11] map[^:cg-[0-9a-f]*$:5] map[] map[] map[]} map[] }
+WebPubSub :->  2022/06/23 01:09:44 request.go:73: BODY {"ttl":10,"permissions":{"resources":{"channels":{"ch2":3,"my-channel":3},"groups":{"cg1":1,"cg2":1},"uuids":{},"users":{},"spaces":{}},"patterns":{"channels":{"^ch-[0-9a-f]*$":11},"groups":{"^:cg-[0-9a-f]*$":5},"uuids":{},"users":{},"spaces":{}},"meta":{}}}
+WebPubSub :->  2022/06/23 01:09:44 request.go:313: 200 OK: resp.StatusCode, resp.Status, resp.Body, resp.Request.URL, string(body) 200 200 OK &{0x11624e0 0xc0001536c0 0x1355640} https://ps11.pndsn.com/v3/pam/sub-c-e548adb7-3388-4d3a-8134-91d0130312e2/grant?pnsdk=WebPubSub-Go/7.0.3&uuid=pn-72a2814d-77cd-470a-9761-6ae96b669152&timestamp=1655917784&signature=v2.Eo-6_9FcuSus1Z9WWiwtwnTEIXjrEl2DHoENoNS4QHY {"data":{"message":"Success","token":"p0F2AkF0GmKzTNhDdHRsCkNyZXOlRGNoYW6iY2NoMgNqbXktY2hhbm5lbANDZ3JwomNjZzEBY2NnMgFDdXNyoENzcGOgRHV1aWSgQ3BhdKVEY2hhbqFuXmNoLVswLTlhLWZdKiQLQ2dycKFvXjpjZy1bMC05YS1mXSokBUN1c3KgQ3NwY6BEdXVpZKBEbWV0YaBDc2lnWCA2MhbYHHXfTdcGWFn9je6AKIOADOR49YYQ2x7aPha7Ww=="},"service":"Access Manager","status":200}
+WebPubSub :->  2022/06/23 01:09:44 request.go:216: WPSUnknownCategory {"data":{"message":"Success","token":"p0F2AkF0GmKzTNhDdHRsCkNyZXOlRGNoYW6iY2NoMgNqbXktY2hhbm5lbANDZ3JwomNjZzEBY2NnMgFDdXNyoENzcGOgRHV1aWSgQ3BhdKVEY2hhbqFuXmNoLVswLTlhLWZdKiQLQ2dycKFvXjpjZy1bMC05YS1mXSokBUN1c3KgQ3NwY6BEdXVpZKBEbWV0YaBDc2lnWCA2MhbYHHXfTdcGWFn9je6AKIOADOR49YYQ2x7aPha7Ww=="},"service":"Access Manager","status":200} {Grant Token 200 true ps11.pndsn.com pn-72a2814d-77cd-470a-9761-6ae96b669152  0xc00014a240}
+WebPubSub :->  2022/06/28 13:52:19 webpubsub.go:755: WebPubSub Go v4 SDK: 7.0.3
+pnconf: &{{{0 0} 0 0 0 0} pub-c-deeb6f03-8193-4a34-b253-e89f915dc7b8 sub-c-e548adb7-3388-4d3a-8134-91d0130312e2 sec-c-MTdiNTE1NDgtMWQ1Yy00NTA5LTlhZGUtMThmMzJlOTE0Nzlh  ps11.pndsn.com pn-d7f39ea1-d302-4def-bb3e-e701162ce29e  true 10 10 310 60 0 0 50 60  3 0xc000088870 false false false 100 30 20 true true 5 true}
+go1.18.3
+amd64
+darwin
+WebPubSub :->  2022/06/28 13:52:19 webpubsub.go:778: Init RequestWorkers: workers 20
+WebPubSub :->  2022/06/28 13:52:19 request_workers.go:80: Start: Running with workers  20
+WebPubSub :->  2022/06/28 13:52:19 request_workers.go:83: Start: StartNonSubWorker  0
+WebPubSub :->  2022/06/28 13:52:19 request_workers.go:83: Start: StartNonSubWorker  1
+WebPubSub :->  2022/06/28 13:52:19 request_workers.go:83: Start: StartNonSubWorker  2
+WebPubSub :->  2022/06/28 13:52:19 request_workers.go:83: Start: StartNonSubWorker  3
+WebPubSub :->  2022/06/28 13:52:19 request_workers.go:83: Start: StartNonSubWorker  4
+WebPubSub :->  2022/06/28 13:52:19 request_workers.go:83: Start: StartNonSubWorker  5
+WebPubSub :->  2022/06/28 13:52:19 request_workers.go:83: Start: StartNonSubWorker  6
+WebPubSub :->  2022/06/28 13:52:19 request_workers.go:83: Start: StartNonSubWorker  7
+WebPubSub :->  2022/06/28 13:52:19 request_workers.go:83: Start: StartNonSubWorker  8
+WebPubSub :->  2022/06/28 13:52:19 request_workers.go:83: Start: StartNonSubWorker  9
+WebPubSub :->  2022/06/28 13:52:19 request_workers.go:83: Start: StartNonSubWorker  10
+WebPubSub :->  2022/06/28 13:52:19 request_workers.go:83: Start: StartNonSubWorker  11
+WebPubSub :->  2022/06/28 13:52:19 request_workers.go:83: Start: StartNonSubWorker  12
+WebPubSub :->  2022/06/28 13:52:19 request_workers.go:83: Start: StartNonSubWorker  13
+WebPubSub :->  2022/06/28 13:52:19 request_workers.go:83: Start: StartNonSubWorker  14
+WebPubSub :->  2022/06/28 13:52:19 request_workers.go:83: Start: StartNonSubWorker  15
+WebPubSub :->  2022/06/28 13:52:19 request_workers.go:83: Start: StartNonSubWorker  16
+WebPubSub :->  2022/06/28 13:52:19 request_workers.go:83: Start: StartNonSubWorker  17
+WebPubSub :->  2022/06/28 13:52:19 request_workers.go:83: Start: StartNonSubWorker  18
+WebPubSub :->  2022/06/28 13:52:19 request_workers.go:83: Start: StartNonSubWorker  19
+WebPubSub :->  2022/06/28 13:52:19 grant_token_request.go:199: bmVal: true 1 1
+WebPubSub :->  2022/06/28 13:52:19 grant_token_request.go:199: bmVal: true 2 3
+WebPubSub :->  2022/06/28 13:52:19 grant_token_request.go:199: bmVal: false 8 3
+WebPubSub :->  2022/06/28 13:52:19 grant_token_request.go:199: bmVal: false 128 3
+WebPubSub :->  2022/06/28 13:52:19 grant_token_request.go:199: bmVal: false 64 3
+WebPubSub :->  2022/06/28 13:52:19 grant_token_request.go:199: bmVal: false 4 3
+WebPubSub :->  2022/06/28 13:52:19 grant_token_request.go:199: bmVal: false 32 3
+WebPubSub :->  2022/06/28 13:52:19 grant_token_request.go:220: bmVal ChannelPermissions: 3
+WebPubSub :->  2022/06/28 13:52:19 grant_token_request.go:304: permissions:  {{map[my-channel:3] map[] map[] map[] map[]} {map[] map[] map[] map[] map[]} map[] }
+WebPubSub :->  2022/06/28 13:52:19 endpoints.go:232: signedInputV2: POST
+pub-c-deeb6f03-8193-4a34-b253-e89f915dc7b8
+/v3/pam/sub-c-e548adb7-3388-4d3a-8134-91d0130312e2/grant
+pnsdk=WebPubSub-Go%2F7.0.3&timestamp=1656395539&uuid=pn-d7f39ea1-d302-4def-bb3e-e701162ce29e
+{"ttl":1000,"permissions":{"resources":{"channels":{"my-channel":3},"groups":{},"uuids":{},"users":{},"spaces":{}},"patterns":{"channels":{},"groups":{},"uuids":{},"users":{},"spaces":{}},"meta":{}}}
+WebPubSub :->  2022/06/28 13:52:19 endpoints.go:221: signaturev2: v2.O0y1yj9efCnQirc3ySuTrLWoVtxDUmI7URyayUr8Fv4
+WebPubSub :->  2022/06/28 13:52:19 request.go:97: url:https://ps11.pndsn.com/v3/pam/sub-c-e548adb7-3388-4d3a-8134-91d0130312e2/grant?pnsdk=WebPubSub-Go/7.0.3&uuid=pn-d7f39ea1-d302-4def-bb3e-e701162ce29e&timestamp=1656395539&signature=v2.O0y1yj9efCnQirc3ySuTrLWoVtxDUmI7URyayUr8Fv4
+method:POST
+WebPubSub :->  2022/06/28 13:52:19 grant_token_request.go:199: bmVal: true 1 1
+WebPubSub :->  2022/06/28 13:52:19 grant_token_request.go:199: bmVal: true 2 3
+WebPubSub :->  2022/06/28 13:52:19 grant_token_request.go:199: bmVal: false 8 3
+WebPubSub :->  2022/06/28 13:52:19 grant_token_request.go:199: bmVal: false 128 3
+WebPubSub :->  2022/06/28 13:52:19 grant_token_request.go:199: bmVal: false 64 3
+WebPubSub :->  2022/06/28 13:52:19 grant_token_request.go:199: bmVal: false 4 3
+WebPubSub :->  2022/06/28 13:52:19 grant_token_request.go:199: bmVal: false 32 3
+WebPubSub :->  2022/06/28 13:52:19 grant_token_request.go:220: bmVal ChannelPermissions: 3
+WebPubSub :->  2022/06/28 13:52:19 grant_token_request.go:304: permissions:  {{map[my-channel:3] map[] map[] map[] map[]} {map[] map[] map[] map[] map[]} map[] }
+WebPubSub :->  2022/06/28 13:52:19 request.go:73: BODY {"ttl":1000,"permissions":{"resources":{"channels":{"my-channel":3},"groups":{},"uuids":{},"users":{},"spaces":{}},"patterns":{"channels":{},"groups":{},"uuids":{},"users":{},"spaces":{}},"meta":{}}}
+WebPubSub :->  2022/06/28 13:52:19 request.go:313: 200 OK: resp.StatusCode, resp.Status, resp.Body, resp.Request.URL, string(body) 200 200 OK &{0x11624e0 0xc00029a040 0x1355640} https://ps11.pndsn.com/v3/pam/sub-c-e548adb7-3388-4d3a-8134-91d0130312e2/grant?pnsdk=WebPubSub-Go/7.0.3&uuid=pn-d7f39ea1-d302-4def-bb3e-e701162ce29e&timestamp=1656395539&signature=v2.O0y1yj9efCnQirc3ySuTrLWoVtxDUmI7URyayUr8Fv4 {"data":{"message":"Success","token":"p0F2AkF0GmK6lxNDdHRsGQPoQ3Jlc6VEY2hhbqFqbXktY2hhbm5lbANDZ3JwoEN1c3KgQ3NwY6BEdXVpZKBDcGF0pURjaGFuoENncnCgQ3VzcqBDc3BjoER1dWlkoERtZXRhoENzaWdYINTvhVMorHBH7KjYLugZ7cQI18MSdbCDnnrLsUiXNtY8"},"service":"Access Manager","status":200}
+WebPubSub :->  2022/06/28 13:52:19 request.go:216: WPSUnknownCategory {"data":{"message":"Success","token":"p0F2AkF0GmK6lxNDdHRsGQPoQ3Jlc6VEY2hhbqFqbXktY2hhbm5lbANDZ3JwoEN1c3KgQ3NwY6BEdXVpZKBDcGF0pURjaGFuoENncnCgQ3VzcqBDc3BjoER1dWlkoERtZXRhoENzaWdYINTvhVMorHBH7KjYLugZ7cQI18MSdbCDnnrLsUiXNtY8"},"service":"Access Manager","status":200} {Grant Token 200 true ps11.pndsn.com pn-d7f39ea1-d302-4def-bb3e-e701162ce29e  0xc000290000}
+WebPubSub :->  2022/06/28 15:06:38 webpubsub.go:755: WebPubSub Go v4 SDK: 7.0.3
+pnconf: &{{{0 0} 0 0 0 0} pub-c-deeb6f03-8193-4a34-b253-e89f915dc7b8 sub-c-e548adb7-3388-4d3a-8134-91d0130312e2 sec-c-MTdiNTE1NDgtMWQ1Yy00NTA5LTlhZGUtMThmMzJlOTE0Nzlh  localhost:11443 pn-8317e6c3-a54f-4c15-a026-c59897cada1e  false 10 10 310 60 0 0 50 60  3 0xc000180870 false false false 100 30 20 true true 5 true}
+go1.18.3
+amd64
+darwin
+WebPubSub :->  2022/06/28 15:06:38 webpubsub.go:778: Init RequestWorkers: workers 20
+WebPubSub :->  2022/06/28 15:06:38 request_workers.go:80: Start: Running with workers  20
+WebPubSub :->  2022/06/28 15:06:38 request_workers.go:83: Start: StartNonSubWorker  0
+WebPubSub :->  2022/06/28 15:06:38 request_workers.go:83: Start: StartNonSubWorker  1
+WebPubSub :->  2022/06/28 15:06:38 request_workers.go:83: Start: StartNonSubWorker  2
+WebPubSub :->  2022/06/28 15:06:38 request_workers.go:83: Start: StartNonSubWorker  3
+WebPubSub :->  2022/06/28 15:06:38 request_workers.go:83: Start: StartNonSubWorker  4
+WebPubSub :->  2022/06/28 15:06:38 request_workers.go:83: Start: StartNonSubWorker  5
+WebPubSub :->  2022/06/28 15:06:38 request_workers.go:83: Start: StartNonSubWorker  6
+WebPubSub :->  2022/06/28 15:06:38 request_workers.go:83: Start: StartNonSubWorker  7
+WebPubSub :->  2022/06/28 15:06:38 request_workers.go:83: Start: StartNonSubWorker  8
+WebPubSub :->  2022/06/28 15:06:38 request_workers.go:83: Start: StartNonSubWorker  9
+WebPubSub :->  2022/06/28 15:06:38 request_workers.go:83: Start: StartNonSubWorker  10
+WebPubSub :->  2022/06/28 15:06:38 request_workers.go:83: Start: StartNonSubWorker  11
+WebPubSub :->  2022/06/28 15:06:38 request_workers.go:83: Start: StartNonSubWorker  12
+WebPubSub :->  2022/06/28 15:06:38 request_workers.go:83: Start: StartNonSubWorker  13
+WebPubSub :->  2022/06/28 15:06:38 request_workers.go:83: Start: StartNonSubWorker  14
+WebPubSub :->  2022/06/28 15:06:38 request_workers.go:83: Start: StartNonSubWorker  15
+WebPubSub :->  2022/06/28 15:06:38 request_workers.go:83: Start: StartNonSubWorker  16
+WebPubSub :->  2022/06/28 15:06:38 request_workers.go:83: Start: StartNonSubWorker  17
+WebPubSub :->  2022/06/28 15:06:38 request_workers.go:83: Start: StartNonSubWorker  18
+WebPubSub :->  2022/06/28 15:06:38 request_workers.go:83: Start: StartNonSubWorker  19
+WebPubSub :->  2022/06/28 15:06:38 grant_token_request.go:199: bmVal: true 1 1
+WebPubSub :->  2022/06/28 15:06:38 grant_token_request.go:199: bmVal: true 2 3
+WebPubSub :->  2022/06/28 15:06:38 grant_token_request.go:199: bmVal: false 8 3
+WebPubSub :->  2022/06/28 15:06:38 grant_token_request.go:199: bmVal: false 128 3
+WebPubSub :->  2022/06/28 15:06:38 grant_token_request.go:199: bmVal: false 64 3
+WebPubSub :->  2022/06/28 15:06:38 grant_token_request.go:199: bmVal: false 4 3
+WebPubSub :->  2022/06/28 15:06:38 grant_token_request.go:199: bmVal: false 32 3
+WebPubSub :->  2022/06/28 15:06:38 grant_token_request.go:220: bmVal ChannelPermissions: 3
+WebPubSub :->  2022/06/28 15:06:38 grant_token_request.go:304: permissions:  {{map[my-channel:3] map[] map[] map[] map[]} {map[] map[] map[] map[] map[]} map[] }
+WebPubSub :->  2022/06/28 15:06:38 endpoints.go:232: signedInputV2: POST
+pub-c-deeb6f03-8193-4a34-b253-e89f915dc7b8
+/v3/pam/sub-c-e548adb7-3388-4d3a-8134-91d0130312e2/grant
+pnsdk=WebPubSub-Go%2F7.0.3&timestamp=1656399998&uuid=pn-8317e6c3-a54f-4c15-a026-c59897cada1e
+{"ttl":1000,"permissions":{"resources":{"channels":{"my-channel":3},"groups":{},"uuids":{},"users":{},"spaces":{}},"patterns":{"channels":{},"groups":{},"uuids":{},"users":{},"spaces":{}},"meta":{}}}
+WebPubSub :->  2022/06/28 15:06:38 endpoints.go:221: signaturev2: v2.rMRbRk1xFAdcjLp5hTNiQpWax_cCGJ9eIkePdyoagbE
+WebPubSub :->  2022/06/28 15:06:38 request.go:97: url:http://localhost:11443/v3/pam/sub-c-e548adb7-3388-4d3a-8134-91d0130312e2/grant?pnsdk=WebPubSub-Go/7.0.3&uuid=pn-8317e6c3-a54f-4c15-a026-c59897cada1e&timestamp=1656399998&signature=v2.rMRbRk1xFAdcjLp5hTNiQpWax_cCGJ9eIkePdyoagbE
+method:POST
+WebPubSub :->  2022/06/28 15:06:38 grant_token_request.go:199: bmVal: true 1 1
+WebPubSub :->  2022/06/28 15:06:38 grant_token_request.go:199: bmVal: true 2 3
+WebPubSub :->  2022/06/28 15:06:38 grant_token_request.go:199: bmVal: false 8 3
+WebPubSub :->  2022/06/28 15:06:38 grant_token_request.go:199: bmVal: false 128 3
+WebPubSub :->  2022/06/28 15:06:38 grant_token_request.go:199: bmVal: false 64 3
+WebPubSub :->  2022/06/28 15:06:38 grant_token_request.go:199: bmVal: false 4 3
+WebPubSub :->  2022/06/28 15:06:38 grant_token_request.go:199: bmVal: false 32 3
+WebPubSub :->  2022/06/28 15:06:38 grant_token_request.go:220: bmVal ChannelPermissions: 3
+WebPubSub :->  2022/06/28 15:06:38 grant_token_request.go:304: permissions:  {{map[my-channel:3] map[] map[] map[] map[]} {map[] map[] map[] map[] map[]} map[] }
+WebPubSub :->  2022/06/28 15:06:38 request.go:73: BODY {"ttl":1000,"permissions":{"resources":{"channels":{"my-channel":3},"groups":{},"uuids":{},"users":{},"spaces":{}},"patterns":{"channels":{},"groups":{},"uuids":{},"users":{},"spaces":{}},"meta":{}}}
+WebPubSub :->  2022/06/28 15:06:38 request.go:313: 200 OK: resp.StatusCode, resp.Status, resp.Body, resp.Request.URL, string(body) 200 200 OK &{0x11624e0 0xc0001101c0 0x1355640} http://localhost:11443/v3/pam/sub-c-e548adb7-3388-4d3a-8134-91d0130312e2/grant?pnsdk=WebPubSub-Go/7.0.3&uuid=pn-8317e6c3-a54f-4c15-a026-c59897cada1e&timestamp=1656399998&signature=v2.rMRbRk1xFAdcjLp5hTNiQpWax_cCGJ9eIkePdyoagbE {"status":0,"data":{"message":"Success","token":"qGF2AmF0GmK6qH5jdHRsGQPoY3Jlc6VkY2hhbqFqbXktY2hhbm5lbANjZ3JwoGN1c3KgY3NwY6BkdXVpZKBjcGF0pWRjaGFuoGNncnCgY3VzcqBjc3BjoGR1dWlkoGRtZXRhoGNzaWdYIHf9yfqKgnlTVoHW2_bSyZjCBkF1Lm17uX5e5_PHbVQlZHV1aWRg"},"service":""}
+WebPubSub :->  2022/06/28 15:06:38 request.go:216: WPSUnknownCategory {"status":0,"data":{"message":"Success","token":"qGF2AmF0GmK6qH5jdHRsGQPoY3Jlc6VkY2hhbqFqbXktY2hhbm5lbANjZ3JwoGN1c3KgY3NwY6BkdXVpZKBjcGF0pWRjaGFuoGNncnCgY3VzcqBjc3BjoGR1dWlkoGRtZXRhoGNzaWdYIHf9yfqKgnlTVoHW2_bSyZjCBkF1Lm17uX5e5_PHbVQlZHV1aWRg"},"service":""} {Grant Token 200 false localhost:11443 pn-8317e6c3-a54f-4c15-a026-c59897cada1e  0xc000130000}
+WebPubSub :->  2022/06/28 15:06:38 publish_request.go:298: len(jsonEncBytes) 41
+WebPubSub :->  2022/06/28 15:06:38 publish_request.go:344: seqn: 1
+WebPubSub :->  2022/06/28 15:06:38 publish_request.go:352: &map[l_pamv3:[0.008654197] meta:[{"m1":"n1","m2":"n2"}] pnsdk:[WebPubSub-Go/7.0.3] q1:[v1] q2:[v2] seqn:[1] store:[1] uuid:[pn-8317e6c3-a54f-4c15-a026-c59897cada1e]]
+WebPubSub :->  2022/06/28 15:06:38 endpoints.go:232: signedInputV2: GET
+pub-c-deeb6f03-8193-4a34-b253-e89f915dc7b8
+/publish/pub-c-deeb6f03-8193-4a34-b253-e89f915dc7b8/sub-c-e548adb7-3388-4d3a-8134-91d0130312e2/0/my-channel/0/%22Text%20with%20%F0%9F%98%9C%20emoji%20%F0%9F%8E%89%5C%22my-message%5C%22%22
+auth=qGF2AmF0GmK6qH5jdHRsGQPoY3Jlc6VkY2hhbqFqbXktY2hhbm5lbANjZ3JwoGN1c3KgY3NwY6BkdXVpZKBjcGF0pWRjaGFuoGNncnCgY3VzcqBjc3BjoGR1dWlkoGRtZXRhoGNzaWdYIHf9yfqKgnlTVoHW2_bSyZjCBkF1Lm17uX5e5_PHbVQlZHV1aWRg&l_pamv3=0.008654197&meta=%7B%22m1%22%3A%22n1%22%2C%22m2%22%3A%22n2%22%7D&pnsdk=WebPubSub-Go%2F7.0.3&q1=v1&q2=v2&seqn=1&store=1&timestamp=1656399998&uuid=pn-8317e6c3-a54f-4c15-a026-c59897cada1e
+
+WebPubSub :->  2022/06/28 15:06:38 endpoints.go:221: signaturev2: v2.52aI2MVFQl5ppHKubZeH0_fPmBJSJDntorTobFAV0Lk
+WebPubSub :->  2022/06/28 15:06:38 request.go:97: url:http://localhost:11443/publish/pub-c-deeb6f03-8193-4a34-b253-e89f915dc7b8/sub-c-e548adb7-3388-4d3a-8134-91d0130312e2/0/my-channel/0/%22Text%20with%20%F0%9F%98%9C%20emoji%20%F0%9F%8E%89%5C%22my-message%5C%22%22?meta=%7B%22m1%22%3A%22n1%22%2C%22m2%22%3A%22n2%22%7D&q1=v1&timestamp=1656399998&uuid=pn-8317e6c3-a54f-4c15-a026-c59897cada1e&l_pamv3=0.008654197&store=1&seqn=1&q2=v2&auth=qGF2AmF0GmK6qH5jdHRsGQPoY3Jlc6VkY2hhbqFqbXktY2hhbm5lbANjZ3JwoGN1c3KgY3NwY6BkdXVpZKBjcGF0pWRjaGFuoGNncnCgY3VzcqBjc3BjoGR1dWlkoGRtZXRhoGNzaWdYIHf9yfqKgnlTVoHW2_bSyZjCBkF1Lm17uX5e5_PHbVQlZHV1aWRg&pnsdk=WebPubSub-Go/7.0.3&signature=v2.52aI2MVFQl5ppHKubZeH0_fPmBJSJDntorTobFAV0Lk
+method:GET
+WebPubSub :->  2022/06/28 15:06:38 request_workers.go:94: ReadQueue: Got job for channel  &{GET http://localhost:11443/publish/pub-c-deeb6f03-8193-4a34-b253-e89f915dc7b8/sub-c-e548adb7-3388-4d3a-8134-91d0130312e2/0/my-channel/0/%22Text%20with%20%F0%9F%98%9C%20emoji%20%F0%9F%8E%89%5C%22my-message%5C%22%22?meta=%7B%22m1%22%3A%22n1%22%2C%22m2%22%3A%22n2%22%7D&q1=v1&timestamp=1656399998&uuid=pn-8317e6c3-a54f-4c15-a026-c59897cada1e&l_pamv3=0.008654197&store=1&seqn=1&q2=v2&auth=qGF2AmF0GmK6qH5jdHRsGQPoY3Jlc6VkY2hhbqFqbXktY2hhbm5lbANjZ3JwoGN1c3KgY3NwY6BkdXVpZKBjcGF0pWRjaGFuoGNncnCgY3VzcqBjc3BjoGR1dWlkoGRtZXRhoGNzaWdYIHf9yfqKgnlTVoHW2_bSyZjCBkF1Lm17uX5e5_PHbVQlZHV1aWRg&pnsdk=WebPubSub-Go/7.0.3&signature=v2.52aI2MVFQl5ppHKubZeH0_fPmBJSJDntorTobFAV0Lk HTTP/1.1 1 1 map[] <nil> <nil> 0 [] false localhost:11443 map[] map[] <nil> map[]   <nil> <nil> <nil> <nil>}
+WebPubSub :->  2022/06/28 15:06:38 request_workers.go:65: Request sent using worker id  0
+WebPubSub :->  2022/06/28 15:06:38 request.go:284: webpubsub/server: Server respond with error code 401: {"error":"request signature not matched"}
+WebPubSub :->  2022/06/28 15:06:38 request.go:299: WPSUnknownCategory: resp.StatusCode, resp.Body, resp.Request.URL 401 &{0x11624e0 0xc0001cb700 0x1355640} http://localhost:11443/publish/pub-c-deeb6f03-8193-4a34-b253-e89f915dc7b8/sub-c-e548adb7-3388-4d3a-8134-91d0130312e2/0/my-channel/0/%22Text%20with%20%F0%9F%98%9C%20emoji%20%F0%9F%8E%89%5C%22my-message%5C%22%22?meta=%7B%22m1%22%3A%22n1%22%2C%22m2%22%3A%22n2%22%7D&q1=v1&timestamp=1656399998&uuid=pn-8317e6c3-a54f-4c15-a026-c59897cada1e&l_pamv3=0.008654197&store=1&seqn=1&q2=v2&auth=qGF2AmF0GmK6qH5jdHRsGQPoY3Jlc6VkY2hhbqFqbXktY2hhbm5lbANjZ3JwoGN1c3KgY3NwY6BkdXVpZKBjcGF0pWRjaGFuoGNncnCgY3VzcqBjc3BjoGR1dWlkoGRtZXRhoGNzaWdYIHf9yfqKgnlTVoHW2_bSyZjCBkF1Lm17uX5e5_PHbVQlZHV1aWRg&pnsdk=WebPubSub-Go/7.0.3&signature=v2.52aI2MVFQl5ppHKubZeH0_fPmBJSJDntorTobFAV0Lk
+WebPubSub :->  2022/06/28 15:06:38 request.go:187: res.StatusCode, status, err.Error() 401 {webpubsub/server: Server respond with error code 401: {"error":"request signature not matched"} Unknown Publish 401 false      [] [] <nil>} webpubsub/server: Server respond with error code 401: {"error":"request signature not matched"}
+WebPubSub :->  2022/06/28 15:06:57 webpubsub.go:755: WebPubSub Go v4 SDK: 7.0.3
+pnconf: &{{{0 0} 0 0 0 0} pub-c-deeb6f03-8193-4a34-b253-e89f915dc7b8 sub-c-e548adb7-3388-4d3a-8134-91d0130312e2 sec-c-MTdiNTE1NDgtMWQ1Yy00NTA5LTlhZGUtMThmMzJlOTE0Nzlh  localhost:11443 pn-bfe4a96b-73e1-46f8-be8a-59bb2b48a6b2  false 10 10 310 60 0 0 50 60  3 0xc000116870 false false false 100 30 20 true true 5 true}
+go1.18.3
+amd64
+darwin
+WebPubSub :->  2022/06/28 15:06:57 webpubsub.go:778: Init RequestWorkers: workers 20
+WebPubSub :->  2022/06/28 15:06:57 request_workers.go:80: Start: Running with workers  20
+WebPubSub :->  2022/06/28 15:06:57 request_workers.go:83: Start: StartNonSubWorker  0
+WebPubSub :->  2022/06/28 15:06:57 request_workers.go:83: Start: StartNonSubWorker  1
+WebPubSub :->  2022/06/28 15:06:57 request_workers.go:83: Start: StartNonSubWorker  2
+WebPubSub :->  2022/06/28 15:06:57 request_workers.go:83: Start: StartNonSubWorker  3
+WebPubSub :->  2022/06/28 15:06:57 request_workers.go:83: Start: StartNonSubWorker  4
+WebPubSub :->  2022/06/28 15:06:57 request_workers.go:83: Start: StartNonSubWorker  5
+WebPubSub :->  2022/06/28 15:06:57 request_workers.go:83: Start: StartNonSubWorker  6
+WebPubSub :->  2022/06/28 15:06:57 request_workers.go:83: Start: StartNonSubWorker  7
+WebPubSub :->  2022/06/28 15:06:57 request_workers.go:83: Start: StartNonSubWorker  8
+WebPubSub :->  2022/06/28 15:06:57 request_workers.go:83: Start: StartNonSubWorker  9
+WebPubSub :->  2022/06/28 15:06:57 request_workers.go:83: Start: StartNonSubWorker  10
+WebPubSub :->  2022/06/28 15:06:57 request_workers.go:83: Start: StartNonSubWorker  11
+WebPubSub :->  2022/06/28 15:06:57 request_workers.go:83: Start: StartNonSubWorker  12
+WebPubSub :->  2022/06/28 15:06:57 request_workers.go:83: Start: StartNonSubWorker  13
+WebPubSub :->  2022/06/28 15:06:57 request_workers.go:83: Start: StartNonSubWorker  14
+WebPubSub :->  2022/06/28 15:06:57 request_workers.go:83: Start: StartNonSubWorker  15
+WebPubSub :->  2022/06/28 15:06:57 request_workers.go:83: Start: StartNonSubWorker  16
+WebPubSub :->  2022/06/28 15:06:57 request_workers.go:83: Start: StartNonSubWorker  17
+WebPubSub :->  2022/06/28 15:06:57 request_workers.go:83: Start: StartNonSubWorker  18
+WebPubSub :->  2022/06/28 15:06:57 request_workers.go:83: Start: StartNonSubWorker  19
+WebPubSub :->  2022/06/28 15:06:57 grant_token_request.go:199: bmVal: true 1 1
+WebPubSub :->  2022/06/28 15:06:57 grant_token_request.go:199: bmVal: true 2 3
+WebPubSub :->  2022/06/28 15:06:57 grant_token_request.go:199: bmVal: false 8 3
+WebPubSub :->  2022/06/28 15:06:57 grant_token_request.go:199: bmVal: false 128 3
+WebPubSub :->  2022/06/28 15:06:57 grant_token_request.go:199: bmVal: false 64 3
+WebPubSub :->  2022/06/28 15:06:57 grant_token_request.go:199: bmVal: false 4 3
+WebPubSub :->  2022/06/28 15:06:57 grant_token_request.go:199: bmVal: false 32 3
+WebPubSub :->  2022/06/28 15:06:57 grant_token_request.go:220: bmVal ChannelPermissions: 3
+WebPubSub :->  2022/06/28 15:06:57 grant_token_request.go:304: permissions:  {{map[my-channel:3] map[] map[] map[] map[]} {map[] map[] map[] map[] map[]} map[] }
+WebPubSub :->  2022/06/28 15:06:57 endpoints.go:232: signedInputV2: POST
+pub-c-deeb6f03-8193-4a34-b253-e89f915dc7b8
+/v3/pam/sub-c-e548adb7-3388-4d3a-8134-91d0130312e2/grant
+pnsdk=WebPubSub-Go%2F7.0.3&timestamp=1656400017&uuid=pn-bfe4a96b-73e1-46f8-be8a-59bb2b48a6b2
+{"ttl":1000,"permissions":{"resources":{"channels":{"my-channel":3},"groups":{},"uuids":{},"users":{},"spaces":{}},"patterns":{"channels":{},"groups":{},"uuids":{},"users":{},"spaces":{}},"meta":{}}}
+WebPubSub :->  2022/06/28 15:06:57 endpoints.go:221: signaturev2: v2.-Nq0jx05k-v5AAgnZzCxx4_LFVCLLl2wyOt5HanppGw
+WebPubSub :->  2022/06/28 15:06:57 request.go:97: url:http://localhost:11443/v3/pam/sub-c-e548adb7-3388-4d3a-8134-91d0130312e2/grant?pnsdk=WebPubSub-Go/7.0.3&uuid=pn-bfe4a96b-73e1-46f8-be8a-59bb2b48a6b2&timestamp=1656400017&signature=v2.-Nq0jx05k-v5AAgnZzCxx4_LFVCLLl2wyOt5HanppGw
+method:POST
+WebPubSub :->  2022/06/28 15:06:57 grant_token_request.go:199: bmVal: true 1 1
+WebPubSub :->  2022/06/28 15:06:57 grant_token_request.go:199: bmVal: true 2 3
+WebPubSub :->  2022/06/28 15:06:57 grant_token_request.go:199: bmVal: false 8 3
+WebPubSub :->  2022/06/28 15:06:57 grant_token_request.go:199: bmVal: false 128 3
+WebPubSub :->  2022/06/28 15:06:57 grant_token_request.go:199: bmVal: false 64 3
+WebPubSub :->  2022/06/28 15:06:57 grant_token_request.go:199: bmVal: false 4 3
+WebPubSub :->  2022/06/28 15:06:57 grant_token_request.go:199: bmVal: false 32 3
+WebPubSub :->  2022/06/28 15:06:57 grant_token_request.go:220: bmVal ChannelPermissions: 3
+WebPubSub :->  2022/06/28 15:06:57 grant_token_request.go:304: permissions:  {{map[my-channel:3] map[] map[] map[] map[]} {map[] map[] map[] map[] map[]} map[] }
+WebPubSub :->  2022/06/28 15:06:57 request.go:73: BODY {"ttl":1000,"permissions":{"resources":{"channels":{"my-channel":3},"groups":{},"uuids":{},"users":{},"spaces":{}},"patterns":{"channels":{},"groups":{},"uuids":{},"users":{},"spaces":{}},"meta":{}}}
+WebPubSub :->  2022/06/28 15:06:57 request.go:313: 200 OK: resp.StatusCode, resp.Status, resp.Body, resp.Request.URL, string(body) 200 200 OK &{0x11624e0 0xc00031a080 0x1355640} http://localhost:11443/v3/pam/sub-c-e548adb7-3388-4d3a-8134-91d0130312e2/grant?pnsdk=WebPubSub-Go/7.0.3&uuid=pn-bfe4a96b-73e1-46f8-be8a-59bb2b48a6b2&timestamp=1656400017&signature=v2.-Nq0jx05k-v5AAgnZzCxx4_LFVCLLl2wyOt5HanppGw {"status":0,"data":{"message":"Success","token":"qGF2AmF0GmK6qJFjdHRsGQPoY3Jlc6VkY2hhbqFqbXktY2hhbm5lbANjZ3JwoGN1c3KgY3NwY6BkdXVpZKBjcGF0pWRjaGFuoGNncnCgY3VzcqBjc3BjoGR1dWlkoGRtZXRhoGNzaWdYICjY6GuL6jv4R_Cb_YwC9HZpI3zONzrDJzNUmcrjebxWZHV1aWRg"},"service":""}
+WebPubSub :->  2022/06/28 15:06:57 request.go:216: WPSUnknownCategory {"status":0,"data":{"message":"Success","token":"qGF2AmF0GmK6qJFjdHRsGQPoY3Jlc6VkY2hhbqFqbXktY2hhbm5lbANjZ3JwoGN1c3KgY3NwY6BkdXVpZKBjcGF0pWRjaGFuoGNncnCgY3VzcqBjc3BjoGR1dWlkoGRtZXRhoGNzaWdYICjY6GuL6jv4R_Cb_YwC9HZpI3zONzrDJzNUmcrjebxWZHV1aWRg"},"service":""} {Grant Token 200 false localhost:11443 pn-bfe4a96b-73e1-46f8-be8a-59bb2b48a6b2  0xc000316000}
+WebPubSub :->  2022/06/28 15:07:50 publish_request.go:298: len(jsonEncBytes) 41
+WebPubSub :->  2022/06/28 15:08:55 publish_request.go:344: seqn: 1
+WebPubSub :->  2022/06/28 15:08:55 publish_request.go:352: &map[meta:[{"m1":"n1","m2":"n2"}] pnsdk:[WebPubSub-Go/7.0.3] q1:[v1] q2:[v2] seqn:[1] store:[1] uuid:[pn-bfe4a96b-73e1-46f8-be8a-59bb2b48a6b2]]
+WebPubSub :->  2022/06/28 15:11:26 endpoints.go:232: signedInputV2: GET
+pub-c-deeb6f03-8193-4a34-b253-e89f915dc7b8
+/publish/pub-c-deeb6f03-8193-4a34-b253-e89f915dc7b8/sub-c-e548adb7-3388-4d3a-8134-91d0130312e2/0/my-channel/0/%22Text%20with%20%F0%9F%98%9C%20emoji%20%F0%9F%8E%89%5C%22my-message%5C%22%22
+auth=qGF2AmF0GmK6qJFjdHRsGQPoY3Jlc6VkY2hhbqFqbXktY2hhbm5lbANjZ3JwoGN1c3KgY3NwY6BkdXVpZKBjcGF0pWRjaGFuoGNncnCgY3VzcqBjc3BjoGR1dWlkoGRtZXRhoGNzaWdYICjY6GuL6jv4R_Cb_YwC9HZpI3zONzrDJzNUmcrjebxWZHV1aWRg&meta=%7B%22m1%22%3A%22n1%22%2C%22m2%22%3A%22n2%22%7D&pnsdk=WebPubSub-Go%2F7.0.3&q1=v1&q2=v2&seqn=1&store=1&timestamp=1656400190&uuid=pn-bfe4a96b-73e1-46f8-be8a-59bb2b48a6b2
+
+WebPubSub :->  2022/06/28 15:11:28 endpoints.go:221: signaturev2: v2.Gt-DkfhInoGHkvmozYfF0hZkeN925P56yZ5KAba9u6I
+WebPubSub :->  2022/06/28 15:11:28 request.go:97: url:http://localhost:11443/publish/pub-c-deeb6f03-8193-4a34-b253-e89f915dc7b8/sub-c-e548adb7-3388-4d3a-8134-91d0130312e2/0/my-channel/0/%22Text%20with%20%F0%9F%98%9C%20emoji%20%F0%9F%8E%89%5C%22my-message%5C%22%22?pnsdk=WebPubSub-Go/7.0.3&q2=v2&q1=v1&auth=qGF2AmF0GmK6qJFjdHRsGQPoY3Jlc6VkY2hhbqFqbXktY2hhbm5lbANjZ3JwoGN1c3KgY3NwY6BkdXVpZKBjcGF0pWRjaGFuoGNncnCgY3VzcqBjc3BjoGR1dWlkoGRtZXRhoGNzaWdYICjY6GuL6jv4R_Cb_YwC9HZpI3zONzrDJzNUmcrjebxWZHV1aWRg&timestamp=1656400190&uuid=pn-bfe4a96b-73e1-46f8-be8a-59bb2b48a6b2&meta=%7B%22m1%22%3A%22n1%22%2C%22m2%22%3A%22n2%22%7D&store=1&seqn=1&signature=v2.Gt-DkfhInoGHkvmozYfF0hZkeN925P56yZ5KAba9u6I
+method:GET
+WebPubSub :->  2022/06/28 15:11:28 request_workers.go:94: ReadQueue: Got job for channel  &{GET http://localhost:11443/publish/pub-c-deeb6f03-8193-4a34-b253-e89f915dc7b8/sub-c-e548adb7-3388-4d3a-8134-91d0130312e2/0/my-channel/0/%22Text%20with%20%F0%9F%98%9C%20emoji%20%F0%9F%8E%89%5C%22my-message%5C%22%22?pnsdk=WebPubSub-Go/7.0.3&q2=v2&q1=v1&auth=qGF2AmF0GmK6qJFjdHRsGQPoY3Jlc6VkY2hhbqFqbXktY2hhbm5lbANjZ3JwoGN1c3KgY3NwY6BkdXVpZKBjcGF0pWRjaGFuoGNncnCgY3VzcqBjc3BjoGR1dWlkoGRtZXRhoGNzaWdYICjY6GuL6jv4R_Cb_YwC9HZpI3zONzrDJzNUmcrjebxWZHV1aWRg&timestamp=1656400190&uuid=pn-bfe4a96b-73e1-46f8-be8a-59bb2b48a6b2&meta=%7B%22m1%22%3A%22n1%22%2C%22m2%22%3A%22n2%22%7D&store=1&seqn=1&signature=v2.Gt-DkfhInoGHkvmozYfF0hZkeN925P56yZ5KAba9u6I HTTP/1.1 1 1 map[] <nil> <nil> 0 [] false localhost:11443 map[] map[] <nil> map[]   <nil> <nil> <nil> <nil>}
+WebPubSub :->  2022/06/28 15:11:28 request_workers.go:65: Request sent using worker id  0
+WebPubSub :->  2022/06/28 15:11:28 request.go:284: webpubsub/server: Server respond with error code 401: {"error":"request signature not matched"}
+WebPubSub :->  2022/06/28 15:11:28 request.go:299: WPSUnknownCategory: resp.StatusCode, resp.Body, resp.Request.URL 401 &{0x11624e0 0xc000036180 0x1355640} http://localhost:11443/publish/pub-c-deeb6f03-8193-4a34-b253-e89f915dc7b8/sub-c-e548adb7-3388-4d3a-8134-91d0130312e2/0/my-channel/0/%22Text%20with%20%F0%9F%98%9C%20emoji%20%F0%9F%8E%89%5C%22my-message%5C%22%22?pnsdk=WebPubSub-Go/7.0.3&q2=v2&q1=v1&auth=qGF2AmF0GmK6qJFjdHRsGQPoY3Jlc6VkY2hhbqFqbXktY2hhbm5lbANjZ3JwoGN1c3KgY3NwY6BkdXVpZKBjcGF0pWRjaGFuoGNncnCgY3VzcqBjc3BjoGR1dWlkoGRtZXRhoGNzaWdYICjY6GuL6jv4R_Cb_YwC9HZpI3zONzrDJzNUmcrjebxWZHV1aWRg&timestamp=1656400190&uuid=pn-bfe4a96b-73e1-46f8-be8a-59bb2b48a6b2&meta=%7B%22m1%22%3A%22n1%22%2C%22m2%22%3A%22n2%22%7D&store=1&seqn=1&signature=v2.Gt-DkfhInoGHkvmozYfF0hZkeN925P56yZ5KAba9u6I
+WebPubSub :->  2022/06/28 15:11:28 request.go:187: res.StatusCode, status, err.Error() 401 {webpubsub/server: Server respond with error code 401: {"error":"request signature not matched"} Unknown Publish 401 false      [] [] <nil>} webpubsub/server: Server respond with error code 401: {"error":"request signature not matched"}
+WebPubSub :->  2022/06/28 15:13:11 webpubsub.go:755: WebPubSub Go v4 SDK: 7.0.3
+pnconf: &{{{0 0} 0 0 0 0} pub-c-deeb6f03-8193-4a34-b253-e89f915dc7b8 sub-c-e548adb7-3388-4d3a-8134-91d0130312e2 sec-c-MTdiNTE1NDgtMWQ1Yy00NTA5LTlhZGUtMThmMzJlOTE0Nzlh  localhost:11443 pn-610ce27b-443b-4fe3-9cc6-30820bdf426c  false 10 10 310 60 0 0 50 60  3 0xc000140820 false false false 100 30 20 true true 5 true}
+go1.18.3
+amd64
+darwin
+WebPubSub :->  2022/06/28 15:13:11 webpubsub.go:778: Init RequestWorkers: workers 20
+WebPubSub :->  2022/06/28 15:13:11 request_workers.go:80: Start: Running with workers  20
+WebPubSub :->  2022/06/28 15:13:11 request_workers.go:83: Start: StartNonSubWorker  0
+WebPubSub :->  2022/06/28 15:13:11 request_workers.go:83: Start: StartNonSubWorker  1
+WebPubSub :->  2022/06/28 15:13:11 request_workers.go:83: Start: StartNonSubWorker  2
+WebPubSub :->  2022/06/28 15:13:11 request_workers.go:83: Start: StartNonSubWorker  3
+WebPubSub :->  2022/06/28 15:13:11 request_workers.go:83: Start: StartNonSubWorker  4
+WebPubSub :->  2022/06/28 15:13:11 request_workers.go:83: Start: StartNonSubWorker  5
+WebPubSub :->  2022/06/28 15:13:11 request_workers.go:83: Start: StartNonSubWorker  6
+WebPubSub :->  2022/06/28 15:13:11 request_workers.go:83: Start: StartNonSubWorker  7
+WebPubSub :->  2022/06/28 15:13:11 request_workers.go:83: Start: StartNonSubWorker  8
+WebPubSub :->  2022/06/28 15:13:11 request_workers.go:83: Start: StartNonSubWorker  9
+WebPubSub :->  2022/06/28 15:13:11 request_workers.go:83: Start: StartNonSubWorker  10
+WebPubSub :->  2022/06/28 15:13:11 request_workers.go:83: Start: StartNonSubWorker  11
+WebPubSub :->  2022/06/28 15:13:11 request_workers.go:83: Start: StartNonSubWorker  12
+WebPubSub :->  2022/06/28 15:13:11 request_workers.go:83: Start: StartNonSubWorker  13
+WebPubSub :->  2022/06/28 15:13:11 request_workers.go:83: Start: StartNonSubWorker  14
+WebPubSub :->  2022/06/28 15:13:11 request_workers.go:83: Start: StartNonSubWorker  15
+WebPubSub :->  2022/06/28 15:13:11 request_workers.go:83: Start: StartNonSubWorker  16
+WebPubSub :->  2022/06/28 15:13:11 request_workers.go:83: Start: StartNonSubWorker  17
+WebPubSub :->  2022/06/28 15:13:11 request_workers.go:83: Start: StartNonSubWorker  18
+WebPubSub :->  2022/06/28 15:13:11 request_workers.go:83: Start: StartNonSubWorker  19
+WebPubSub :->  2022/06/28 15:13:11 grant_token_request.go:199: bmVal: true 1 1
+WebPubSub :->  2022/06/28 15:13:11 grant_token_request.go:199: bmVal: true 2 3
+WebPubSub :->  2022/06/28 15:13:11 grant_token_request.go:199: bmVal: false 8 3
+WebPubSub :->  2022/06/28 15:13:11 grant_token_request.go:199: bmVal: false 128 3
+WebPubSub :->  2022/06/28 15:13:11 grant_token_request.go:199: bmVal: false 64 3
+WebPubSub :->  2022/06/28 15:13:11 grant_token_request.go:199: bmVal: false 4 3
+WebPubSub :->  2022/06/28 15:13:11 grant_token_request.go:199: bmVal: false 32 3
+WebPubSub :->  2022/06/28 15:13:11 grant_token_request.go:220: bmVal ChannelPermissions: 3
+WebPubSub :->  2022/06/28 15:13:11 grant_token_request.go:304: permissions:  {{map[my-channel:3] map[] map[] map[] map[]} {map[] map[] map[] map[] map[]} map[] }
+WebPubSub :->  2022/06/28 15:13:11 endpoints.go:232: signedInputV2: POST
+pub-c-deeb6f03-8193-4a34-b253-e89f915dc7b8
+/v3/pam/sub-c-e548adb7-3388-4d3a-8134-91d0130312e2/grant
+pnsdk=WebPubSub-Go%2F7.0.3&timestamp=1656400391&uuid=pn-610ce27b-443b-4fe3-9cc6-30820bdf426c
+{"ttl":1000,"permissions":{"resources":{"channels":{"my-channel":3},"groups":{},"uuids":{},"users":{},"spaces":{}},"patterns":{"channels":{},"groups":{},"uuids":{},"users":{},"spaces":{}},"meta":{}}}
+WebPubSub :->  2022/06/28 15:13:11 endpoints.go:221: signaturev2: v2.t5egdrp59OY2mUIcwnJk7FvtJ46BWyOrwAqEUjod1oc
+WebPubSub :->  2022/06/28 15:13:11 request.go:97: url:http://localhost:11443/v3/pam/sub-c-e548adb7-3388-4d3a-8134-91d0130312e2/grant?pnsdk=WebPubSub-Go/7.0.3&uuid=pn-610ce27b-443b-4fe3-9cc6-30820bdf426c&timestamp=1656400391&signature=v2.t5egdrp59OY2mUIcwnJk7FvtJ46BWyOrwAqEUjod1oc
+method:POST
+WebPubSub :->  2022/06/28 15:13:11 grant_token_request.go:199: bmVal: true 1 1
+WebPubSub :->  2022/06/28 15:13:11 grant_token_request.go:199: bmVal: true 2 3
+WebPubSub :->  2022/06/28 15:13:11 grant_token_request.go:199: bmVal: false 8 3
+WebPubSub :->  2022/06/28 15:13:11 grant_token_request.go:199: bmVal: false 128 3
+WebPubSub :->  2022/06/28 15:13:11 grant_token_request.go:199: bmVal: false 64 3
+WebPubSub :->  2022/06/28 15:13:11 grant_token_request.go:199: bmVal: false 4 3
+WebPubSub :->  2022/06/28 15:13:11 grant_token_request.go:199: bmVal: false 32 3
+WebPubSub :->  2022/06/28 15:13:11 grant_token_request.go:220: bmVal ChannelPermissions: 3
+WebPubSub :->  2022/06/28 15:13:11 grant_token_request.go:304: permissions:  {{map[my-channel:3] map[] map[] map[] map[]} {map[] map[] map[] map[] map[]} map[] }
+WebPubSub :->  2022/06/28 15:13:11 request.go:73: BODY {"ttl":1000,"permissions":{"resources":{"channels":{"my-channel":3},"groups":{},"uuids":{},"users":{},"spaces":{}},"patterns":{"channels":{},"groups":{},"uuids":{},"users":{},"spaces":{}},"meta":{}}}
+WebPubSub :->  2022/06/28 15:13:11 request.go:313: 200 OK: resp.StatusCode, resp.Status, resp.Body, resp.Request.URL, string(body) 200 200 OK &{0x11624e0 0xc0002c6080 0x1355640} http://localhost:11443/v3/pam/sub-c-e548adb7-3388-4d3a-8134-91d0130312e2/grant?pnsdk=WebPubSub-Go/7.0.3&uuid=pn-610ce27b-443b-4fe3-9cc6-30820bdf426c&timestamp=1656400391&signature=v2.t5egdrp59OY2mUIcwnJk7FvtJ46BWyOrwAqEUjod1oc {"status":0,"data":{"message":"Success","token":"qGF2AmF0GmK6qgdjdHRsGQPoY3Jlc6VkY2hhbqFqbXktY2hhbm5lbANjZ3JwoGN1c3KgY3NwY6BkdXVpZKBjcGF0pWRjaGFuoGNncnCgY3VzcqBjc3BjoGR1dWlkoGRtZXRhoGNzaWdYIMkMZTh02VqvdUxn8RjmHWdfF2kiYMq7KlvCsz0XTTk0ZHV1aWRg"},"service":""}
+WebPubSub :->  2022/06/28 15:13:11 request.go:216: WPSUnknownCategory {"status":0,"data":{"message":"Success","token":"qGF2AmF0GmK6qgdjdHRsGQPoY3Jlc6VkY2hhbqFqbXktY2hhbm5lbANjZ3JwoGN1c3KgY3NwY6BkdXVpZKBjcGF0pWRjaGFuoGNncnCgY3VzcqBjc3BjoGR1dWlkoGRtZXRhoGNzaWdYIMkMZTh02VqvdUxn8RjmHWdfF2kiYMq7KlvCsz0XTTk0ZHV1aWRg"},"service":""} {Grant Token 200 false localhost:11443 pn-610ce27b-443b-4fe3-9cc6-30820bdf426c  0xc0002c2000}
+WebPubSub :->  2022/06/28 15:13:22 webpubsub.go:755: WebPubSub Go v4 SDK: 7.0.3
+pnconf: &{{{0 0} 0 0 0 0} pub-c-deeb6f03-8193-4a34-b253-e89f915dc7b8 sub-c-e548adb7-3388-4d3a-8134-91d0130312e2 sec-c-MTdiNTE1NDgtMWQ1Yy00NTA5LTlhZGUtMThmMzJlOTE0Nzlh  localhost:11443 pn-1be4b37f-2c2d-49d3-ab76-98ba4823a97a  false 10 10 310 60 0 0 50 60  3 0xc000116870 false false false 100 30 20 true true 5 true}
+go1.18.3
+amd64
+darwin
+WebPubSub :->  2022/06/28 15:13:22 webpubsub.go:778: Init RequestWorkers: workers 20
+WebPubSub :->  2022/06/28 15:13:22 request_workers.go:80: Start: Running with workers  20
+WebPubSub :->  2022/06/28 15:13:22 request_workers.go:83: Start: StartNonSubWorker  0
+WebPubSub :->  2022/06/28 15:13:22 request_workers.go:83: Start: StartNonSubWorker  1
+WebPubSub :->  2022/06/28 15:13:22 request_workers.go:83: Start: StartNonSubWorker  2
+WebPubSub :->  2022/06/28 15:13:22 request_workers.go:83: Start: StartNonSubWorker  3
+WebPubSub :->  2022/06/28 15:13:22 request_workers.go:83: Start: StartNonSubWorker  4
+WebPubSub :->  2022/06/28 15:13:22 request_workers.go:83: Start: StartNonSubWorker  5
+WebPubSub :->  2022/06/28 15:13:22 request_workers.go:83: Start: StartNonSubWorker  6
+WebPubSub :->  2022/06/28 15:13:22 request_workers.go:83: Start: StartNonSubWorker  7
+WebPubSub :->  2022/06/28 15:13:22 request_workers.go:83: Start: StartNonSubWorker  8
+WebPubSub :->  2022/06/28 15:13:22 request_workers.go:83: Start: StartNonSubWorker  9
+WebPubSub :->  2022/06/28 15:13:22 request_workers.go:83: Start: StartNonSubWorker  10
+WebPubSub :->  2022/06/28 15:13:22 request_workers.go:83: Start: StartNonSubWorker  11
+WebPubSub :->  2022/06/28 15:13:22 request_workers.go:83: Start: StartNonSubWorker  12
+WebPubSub :->  2022/06/28 15:13:22 request_workers.go:83: Start: StartNonSubWorker  13
+WebPubSub :->  2022/06/28 15:13:22 request_workers.go:83: Start: StartNonSubWorker  14
+WebPubSub :->  2022/06/28 15:13:22 request_workers.go:83: Start: StartNonSubWorker  15
+WebPubSub :->  2022/06/28 15:13:22 request_workers.go:83: Start: StartNonSubWorker  16
+WebPubSub :->  2022/06/28 15:13:22 request_workers.go:83: Start: StartNonSubWorker  17
+WebPubSub :->  2022/06/28 15:13:22 request_workers.go:83: Start: StartNonSubWorker  18
+WebPubSub :->  2022/06/28 15:13:22 request_workers.go:83: Start: StartNonSubWorker  19
+WebPubSub :->  2022/06/28 15:13:22 grant_token_request.go:199: bmVal: true 1 1
+WebPubSub :->  2022/06/28 15:13:22 grant_token_request.go:199: bmVal: true 2 3
+WebPubSub :->  2022/06/28 15:13:22 grant_token_request.go:199: bmVal: false 8 3
+WebPubSub :->  2022/06/28 15:13:22 grant_token_request.go:199: bmVal: false 128 3
+WebPubSub :->  2022/06/28 15:13:22 grant_token_request.go:199: bmVal: false 64 3
+WebPubSub :->  2022/06/28 15:13:22 grant_token_request.go:199: bmVal: false 4 3
+WebPubSub :->  2022/06/28 15:13:22 grant_token_request.go:199: bmVal: false 32 3
+WebPubSub :->  2022/06/28 15:13:22 grant_token_request.go:220: bmVal ChannelPermissions: 3
+WebPubSub :->  2022/06/28 15:13:22 grant_token_request.go:304: permissions:  {{map[my-channel:3] map[] map[] map[] map[]} {map[] map[] map[] map[] map[]} map[] }
+WebPubSub :->  2022/06/28 15:13:22 endpoints.go:232: signedInputV2: POST
+pub-c-deeb6f03-8193-4a34-b253-e89f915dc7b8
+/v3/pam/sub-c-e548adb7-3388-4d3a-8134-91d0130312e2/grant
+pnsdk=WebPubSub-Go%2F7.0.3&timestamp=1656400402&uuid=pn-1be4b37f-2c2d-49d3-ab76-98ba4823a97a
+{"ttl":1000,"permissions":{"resources":{"channels":{"my-channel":3},"groups":{},"uuids":{},"users":{},"spaces":{}},"patterns":{"channels":{},"groups":{},"uuids":{},"users":{},"spaces":{}},"meta":{}}}
+WebPubSub :->  2022/06/28 15:13:22 endpoints.go:221: signaturev2: v2.mnMWRVr4qPGKhcZm_LT906mjcAbaE09GPohnB43p818
+WebPubSub :->  2022/06/28 15:13:22 request.go:97: url:http://localhost:11443/v3/pam/sub-c-e548adb7-3388-4d3a-8134-91d0130312e2/grant?pnsdk=WebPubSub-Go/7.0.3&uuid=pn-1be4b37f-2c2d-49d3-ab76-98ba4823a97a&timestamp=1656400402&signature=v2.mnMWRVr4qPGKhcZm_LT906mjcAbaE09GPohnB43p818
+method:POST
+WebPubSub :->  2022/06/28 15:13:22 grant_token_request.go:199: bmVal: true 1 1
+WebPubSub :->  2022/06/28 15:13:22 grant_token_request.go:199: bmVal: true 2 3
+WebPubSub :->  2022/06/28 15:13:22 grant_token_request.go:199: bmVal: false 8 3
+WebPubSub :->  2022/06/28 15:13:22 grant_token_request.go:199: bmVal: false 128 3
+WebPubSub :->  2022/06/28 15:13:22 grant_token_request.go:199: bmVal: false 64 3
+WebPubSub :->  2022/06/28 15:13:22 grant_token_request.go:199: bmVal: false 4 3
+WebPubSub :->  2022/06/28 15:13:22 grant_token_request.go:199: bmVal: false 32 3
+WebPubSub :->  2022/06/28 15:13:22 grant_token_request.go:220: bmVal ChannelPermissions: 3
+WebPubSub :->  2022/06/28 15:13:22 grant_token_request.go:304: permissions:  {{map[my-channel:3] map[] map[] map[] map[]} {map[] map[] map[] map[] map[]} map[] }
+WebPubSub :->  2022/06/28 15:13:22 request.go:73: BODY {"ttl":1000,"permissions":{"resources":{"channels":{"my-channel":3},"groups":{},"uuids":{},"users":{},"spaces":{}},"patterns":{"channels":{},"groups":{},"uuids":{},"users":{},"spaces":{}},"meta":{}}}
+WebPubSub :->  2022/06/28 15:13:22 request.go:313: 200 OK: resp.StatusCode, resp.Status, resp.Body, resp.Request.URL, string(body) 200 200 OK &{0x11624e0 0xc000113740 0x1355640} http://localhost:11443/v3/pam/sub-c-e548adb7-3388-4d3a-8134-91d0130312e2/grant?pnsdk=WebPubSub-Go/7.0.3&uuid=pn-1be4b37f-2c2d-49d3-ab76-98ba4823a97a&timestamp=1656400402&signature=v2.mnMWRVr4qPGKhcZm_LT906mjcAbaE09GPohnB43p818 {"status":0,"data":{"message":"Success","token":"qGF2AmF0GmK6qhJjdHRsGQPoY3Jlc6VkY2hhbqFqbXktY2hhbm5lbANjZ3JwoGN1c3KgY3NwY6BkdXVpZKBjcGF0pWRjaGFuoGNncnCgY3VzcqBjc3BjoGR1dWlkoGRtZXRhoGNzaWdYINzGWtODDQI2d1A_8zvemtBSrD7DGyZ8OeqzwY8WAnijZHV1aWRg"},"service":""}
+WebPubSub :->  2022/06/28 15:13:22 request.go:216: WPSUnknownCategory {"status":0,"data":{"message":"Success","token":"qGF2AmF0GmK6qhJjdHRsGQPoY3Jlc6VkY2hhbqFqbXktY2hhbm5lbANjZ3JwoGN1c3KgY3NwY6BkdXVpZKBjcGF0pWRjaGFuoGNncnCgY3VzcqBjc3BjoGR1dWlkoGRtZXRhoGNzaWdYINzGWtODDQI2d1A_8zvemtBSrD7DGyZ8OeqzwY8WAnijZHV1aWRg"},"service":""} {Grant Token 200 false localhost:11443 pn-1be4b37f-2c2d-49d3-ab76-98ba4823a97a  0xc00014e750}
+WebPubSub :->  2022/06/28 15:13:28 publish_request.go:298: len(jsonEncBytes) 41
+WebPubSub :->  2022/06/28 15:13:28 publish_request.go:344: seqn: 1
+WebPubSub :->  2022/06/28 15:13:28 publish_request.go:352: &map[l_pamv3:[0.004911151] meta:[{"m1":"n1","m2":"n2"}] pnsdk:[WebPubSub-Go/7.0.3] q1:[v1] q2:[v2] seqn:[1] store:[1] uuid:[pn-1be4b37f-2c2d-49d3-ab76-98ba4823a97a]]
+WebPubSub :->  2022/06/28 15:13:28 endpoints.go:232: signedInputV2: GET
+pub-c-deeb6f03-8193-4a34-b253-e89f915dc7b8
+/publish/pub-c-deeb6f03-8193-4a34-b253-e89f915dc7b8/sub-c-e548adb7-3388-4d3a-8134-91d0130312e2/0/my-channel/0/%22Text%20with%20%F0%9F%98%9C%20emoji%20%F0%9F%8E%89%5C%22my-message%5C%22%22
+auth=qGF2AmF0GmK6qhJjdHRsGQPoY3Jlc6VkY2hhbqFqbXktY2hhbm5lbANjZ3JwoGN1c3KgY3NwY6BkdXVpZKBjcGF0pWRjaGFuoGNncnCgY3VzcqBjc3BjoGR1dWlkoGRtZXRhoGNzaWdYINzGWtODDQI2d1A_8zvemtBSrD7DGyZ8OeqzwY8WAnijZHV1aWRg&l_pamv3=0.004911151&meta=%7B%22m1%22%3A%22n1%22%2C%22m2%22%3A%22n2%22%7D&pnsdk=WebPubSub-Go%2F7.0.3&q1=v1&q2=v2&seqn=1&store=1&timestamp=1656400408&uuid=pn-1be4b37f-2c2d-49d3-ab76-98ba4823a97a
+
+WebPubSub :->  2022/06/28 15:13:28 endpoints.go:221: signaturev2: v2.wWIjCxtNFJHrGF6EfAOrJupbzClJooBRLs_oJxBf2yg
+WebPubSub :->  2022/06/28 15:13:28 request.go:97: url:http://localhost:11443/publish/pub-c-deeb6f03-8193-4a34-b253-e89f915dc7b8/sub-c-e548adb7-3388-4d3a-8134-91d0130312e2/0/my-channel/0/%22Text%20with%20%F0%9F%98%9C%20emoji%20%F0%9F%8E%89%5C%22my-message%5C%22%22?pnsdk=WebPubSub-Go/7.0.3&meta=%7B%22m1%22%3A%22n1%22%2C%22m2%22%3A%22n2%22%7D&seqn=1&auth=qGF2AmF0GmK6qhJjdHRsGQPoY3Jlc6VkY2hhbqFqbXktY2hhbm5lbANjZ3JwoGN1c3KgY3NwY6BkdXVpZKBjcGF0pWRjaGFuoGNncnCgY3VzcqBjc3BjoGR1dWlkoGRtZXRhoGNzaWdYINzGWtODDQI2d1A_8zvemtBSrD7DGyZ8OeqzwY8WAnijZHV1aWRg&uuid=pn-1be4b37f-2c2d-49d3-ab76-98ba4823a97a&l_pamv3=0.004911151&store=1&q1=v1&q2=v2&timestamp=1656400408&signature=v2.wWIjCxtNFJHrGF6EfAOrJupbzClJooBRLs_oJxBf2yg
+method:GET
+WebPubSub :->  2022/06/28 15:13:28 request_workers.go:94: ReadQueue: Got job for channel  &{GET http://localhost:11443/publish/pub-c-deeb6f03-8193-4a34-b253-e89f915dc7b8/sub-c-e548adb7-3388-4d3a-8134-91d0130312e2/0/my-channel/0/%22Text%20with%20%F0%9F%98%9C%20emoji%20%F0%9F%8E%89%5C%22my-message%5C%22%22?pnsdk=WebPubSub-Go/7.0.3&meta=%7B%22m1%22%3A%22n1%22%2C%22m2%22%3A%22n2%22%7D&seqn=1&auth=qGF2AmF0GmK6qhJjdHRsGQPoY3Jlc6VkY2hhbqFqbXktY2hhbm5lbANjZ3JwoGN1c3KgY3NwY6BkdXVpZKBjcGF0pWRjaGFuoGNncnCgY3VzcqBjc3BjoGR1dWlkoGRtZXRhoGNzaWdYINzGWtODDQI2d1A_8zvemtBSrD7DGyZ8OeqzwY8WAnijZHV1aWRg&uuid=pn-1be4b37f-2c2d-49d3-ab76-98ba4823a97a&l_pamv3=0.004911151&store=1&q1=v1&q2=v2&timestamp=1656400408&signature=v2.wWIjCxtNFJHrGF6EfAOrJupbzClJooBRLs_oJxBf2yg HTTP/1.1 1 1 map[] <nil> <nil> 0 [] false localhost:11443 map[] map[] <nil> map[]   <nil> <nil> <nil> <nil>}
+WebPubSub :->  2022/06/28 15:13:28 request_workers.go:65: Request sent using worker id  1
+WebPubSub :->  2022/06/28 15:13:28 request.go:284: webpubsub/server: Server respond with error code 401: {"error":"request signature not matched"}
+WebPubSub :->  2022/06/28 15:13:28 request.go:299: WPSUnknownCategory: resp.StatusCode, resp.Body, resp.Request.URL 401 &{0x11624e0 0xc00020e140 0x1355640} http://localhost:11443/publish/pub-c-deeb6f03-8193-4a34-b253-e89f915dc7b8/sub-c-e548adb7-3388-4d3a-8134-91d0130312e2/0/my-channel/0/%22Text%20with%20%F0%9F%98%9C%20emoji%20%F0%9F%8E%89%5C%22my-message%5C%22%22?pnsdk=WebPubSub-Go/7.0.3&meta=%7B%22m1%22%3A%22n1%22%2C%22m2%22%3A%22n2%22%7D&seqn=1&auth=qGF2AmF0GmK6qhJjdHRsGQPoY3Jlc6VkY2hhbqFqbXktY2hhbm5lbANjZ3JwoGN1c3KgY3NwY6BkdXVpZKBjcGF0pWRjaGFuoGNncnCgY3VzcqBjc3BjoGR1dWlkoGRtZXRhoGNzaWdYINzGWtODDQI2d1A_8zvemtBSrD7DGyZ8OeqzwY8WAnijZHV1aWRg&uuid=pn-1be4b37f-2c2d-49d3-ab76-98ba4823a97a&l_pamv3=0.004911151&store=1&q1=v1&q2=v2&timestamp=1656400408&signature=v2.wWIjCxtNFJHrGF6EfAOrJupbzClJooBRLs_oJxBf2yg
+WebPubSub :->  2022/06/28 15:13:28 request.go:187: res.StatusCode, status, err.Error() 401 {webpubsub/server: Server respond with error code 401: {"error":"request signature not matched"} Unknown Publish 401 false      [] [] <nil>} webpubsub/server: Server respond with error code 401: {"error":"request signature not matched"}
+WebPubSub :->  2022/06/28 15:13:46 webpubsub.go:755: WebPubSub Go v4 SDK: 7.0.3
+pnconf: &{{{0 0} 0 0 0 0} pub-c-deeb6f03-8193-4a34-b253-e89f915dc7b8 sub-c-e548adb7-3388-4d3a-8134-91d0130312e2 sec-c-MTdiNTE1NDgtMWQ1Yy00NTA5LTlhZGUtMThmMzJlOTE0Nzlh  localhost:11443 pn-d6aa98c2-fc8d-4d32-9d0b-864d0ef71065  false 10 10 310 60 0 0 50 60  3 0xc00008c870 false false false 100 30 20 true true 5 true}
+go1.18.3
+amd64
+darwin
+WebPubSub :->  2022/06/28 15:13:46 webpubsub.go:778: Init RequestWorkers: workers 20
+WebPubSub :->  2022/06/28 15:13:46 request_workers.go:80: Start: Running with workers  20
+WebPubSub :->  2022/06/28 15:13:46 request_workers.go:83: Start: StartNonSubWorker  0
+WebPubSub :->  2022/06/28 15:13:46 request_workers.go:83: Start: StartNonSubWorker  1
+WebPubSub :->  2022/06/28 15:13:46 request_workers.go:83: Start: StartNonSubWorker  2
+WebPubSub :->  2022/06/28 15:13:46 request_workers.go:83: Start: StartNonSubWorker  3
+WebPubSub :->  2022/06/28 15:13:46 request_workers.go:83: Start: StartNonSubWorker  4
+WebPubSub :->  2022/06/28 15:13:46 request_workers.go:83: Start: StartNonSubWorker  5
+WebPubSub :->  2022/06/28 15:13:46 request_workers.go:83: Start: StartNonSubWorker  6
+WebPubSub :->  2022/06/28 15:13:46 request_workers.go:83: Start: StartNonSubWorker  7
+WebPubSub :->  2022/06/28 15:13:46 request_workers.go:83: Start: StartNonSubWorker  8
+WebPubSub :->  2022/06/28 15:13:46 request_workers.go:83: Start: StartNonSubWorker  9
+WebPubSub :->  2022/06/28 15:13:46 request_workers.go:83: Start: StartNonSubWorker  10
+WebPubSub :->  2022/06/28 15:13:46 request_workers.go:83: Start: StartNonSubWorker  11
+WebPubSub :->  2022/06/28 15:13:46 request_workers.go:83: Start: StartNonSubWorker  12
+WebPubSub :->  2022/06/28 15:13:46 request_workers.go:83: Start: StartNonSubWorker  13
+WebPubSub :->  2022/06/28 15:13:46 request_workers.go:83: Start: StartNonSubWorker  14
+WebPubSub :->  2022/06/28 15:13:46 request_workers.go:83: Start: StartNonSubWorker  15
+WebPubSub :->  2022/06/28 15:13:46 request_workers.go:83: Start: StartNonSubWorker  16
+WebPubSub :->  2022/06/28 15:13:46 request_workers.go:83: Start: StartNonSubWorker  17
+WebPubSub :->  2022/06/28 15:13:46 request_workers.go:83: Start: StartNonSubWorker  18
+WebPubSub :->  2022/06/28 15:13:46 request_workers.go:83: Start: StartNonSubWorker  19
+WebPubSub :->  2022/06/28 15:13:46 grant_token_request.go:199: bmVal: true 1 1
+WebPubSub :->  2022/06/28 15:13:46 grant_token_request.go:199: bmVal: true 2 3
+WebPubSub :->  2022/06/28 15:13:46 grant_token_request.go:199: bmVal: false 8 3
+WebPubSub :->  2022/06/28 15:13:46 grant_token_request.go:199: bmVal: false 128 3
+WebPubSub :->  2022/06/28 15:13:46 grant_token_request.go:199: bmVal: false 64 3
+WebPubSub :->  2022/06/28 15:13:46 grant_token_request.go:199: bmVal: false 4 3
+WebPubSub :->  2022/06/28 15:13:46 grant_token_request.go:199: bmVal: false 32 3
+WebPubSub :->  2022/06/28 15:13:46 grant_token_request.go:220: bmVal ChannelPermissions: 3
+WebPubSub :->  2022/06/28 15:13:46 grant_token_request.go:304: permissions:  {{map[my-channel:3] map[] map[] map[] map[]} {map[] map[] map[] map[] map[]} map[] }
+WebPubSub :->  2022/06/28 15:13:46 endpoints.go:232: signedInputV2: POST
+pub-c-deeb6f03-8193-4a34-b253-e89f915dc7b8
+/v3/pam/sub-c-e548adb7-3388-4d3a-8134-91d0130312e2/grant
+pnsdk=WebPubSub-Go%2F7.0.3&timestamp=1656400426&uuid=pn-d6aa98c2-fc8d-4d32-9d0b-864d0ef71065
+{"ttl":1000,"permissions":{"resources":{"channels":{"my-channel":3},"groups":{},"uuids":{},"users":{},"spaces":{}},"patterns":{"channels":{},"groups":{},"uuids":{},"users":{},"spaces":{}},"meta":{}}}
+WebPubSub :->  2022/06/28 15:13:46 endpoints.go:221: signaturev2: v2.fXFgLt99gkRiKCHgSyGWn-gOfHhipsSGrpujOlVQVSM
+WebPubSub :->  2022/06/28 15:13:46 request.go:97: url:http://localhost:11443/v3/pam/sub-c-e548adb7-3388-4d3a-8134-91d0130312e2/grant?uuid=pn-d6aa98c2-fc8d-4d32-9d0b-864d0ef71065&timestamp=1656400426&pnsdk=WebPubSub-Go/7.0.3&signature=v2.fXFgLt99gkRiKCHgSyGWn-gOfHhipsSGrpujOlVQVSM
+method:POST
+WebPubSub :->  2022/06/28 15:13:46 grant_token_request.go:199: bmVal: true 1 1
+WebPubSub :->  2022/06/28 15:13:46 grant_token_request.go:199: bmVal: true 2 3
+WebPubSub :->  2022/06/28 15:13:46 grant_token_request.go:199: bmVal: false 8 3
+WebPubSub :->  2022/06/28 15:13:46 grant_token_request.go:199: bmVal: false 128 3
+WebPubSub :->  2022/06/28 15:13:46 grant_token_request.go:199: bmVal: false 64 3
+WebPubSub :->  2022/06/28 15:13:46 grant_token_request.go:199: bmVal: false 4 3
+WebPubSub :->  2022/06/28 15:13:46 grant_token_request.go:199: bmVal: false 32 3
+WebPubSub :->  2022/06/28 15:13:46 grant_token_request.go:220: bmVal ChannelPermissions: 3
+WebPubSub :->  2022/06/28 15:13:46 grant_token_request.go:304: permissions:  {{map[my-channel:3] map[] map[] map[] map[]} {map[] map[] map[] map[] map[]} map[] }
+WebPubSub :->  2022/06/28 15:13:46 request.go:73: BODY {"ttl":1000,"permissions":{"resources":{"channels":{"my-channel":3},"groups":{},"uuids":{},"users":{},"spaces":{}},"patterns":{"channels":{},"groups":{},"uuids":{},"users":{},"spaces":{}},"meta":{}}}
+WebPubSub :->  2022/06/28 15:13:46 request.go:313: 200 OK: resp.StatusCode, resp.Status, resp.Body, resp.Request.URL, string(body) 200 200 OK &{0x11624e0 0xc000037780 0x1355640} http://localhost:11443/v3/pam/sub-c-e548adb7-3388-4d3a-8134-91d0130312e2/grant?uuid=pn-d6aa98c2-fc8d-4d32-9d0b-864d0ef71065&timestamp=1656400426&pnsdk=WebPubSub-Go/7.0.3&signature=v2.fXFgLt99gkRiKCHgSyGWn-gOfHhipsSGrpujOlVQVSM {"status":0,"data":{"message":"Success","token":"qGF2AmF0GmK6qipjdHRsGQPoY3Jlc6VkY2hhbqFqbXktY2hhbm5lbANjZ3JwoGN1c3KgY3NwY6BkdXVpZKBjcGF0pWRjaGFuoGNncnCgY3VzcqBjc3BjoGR1dWlkoGRtZXRhoGNzaWdYIPcVPjIDnCxMO8DG-IuxmBdy6_28c6nqbplxjNVL9qQdZHV1aWRg"},"service":""}
+WebPubSub :->  2022/06/28 15:13:46 request.go:216: WPSUnknownCategory {"status":0,"data":{"message":"Success","token":"qGF2AmF0GmK6qipjdHRsGQPoY3Jlc6VkY2hhbqFqbXktY2hhbm5lbANjZ3JwoGN1c3KgY3NwY6BkdXVpZKBjcGF0pWRjaGFuoGNncnCgY3VzcqBjc3BjoGR1dWlkoGRtZXRhoGNzaWdYIPcVPjIDnCxMO8DG-IuxmBdy6_28c6nqbplxjNVL9qQdZHV1aWRg"},"service":""} {Grant Token 200 false localhost:11443 pn-d6aa98c2-fc8d-4d32-9d0b-864d0ef71065  0xc0000ba750}
+WebPubSub :->  2022/06/28 15:13:57 publish_request.go:298: len(jsonEncBytes) 41
+WebPubSub :->  2022/06/28 15:13:57 publish_request.go:344: seqn: 1
+WebPubSub :->  2022/06/28 15:13:57 publish_request.go:352: &map[l_pamv3:[0.009198716] meta:[{"m1":"n1","m2":"n2"}] pnsdk:[WebPubSub-Go/7.0.3] q1:[v1] q2:[v2] seqn:[1] store:[1] uuid:[pn-d6aa98c2-fc8d-4d32-9d0b-864d0ef71065]]
+WebPubSub :->  2022/06/28 15:13:57 endpoints.go:232: signedInputV2: GET
+pub-c-deeb6f03-8193-4a34-b253-e89f915dc7b8
+/publish/pub-c-deeb6f03-8193-4a34-b253-e89f915dc7b8/sub-c-e548adb7-3388-4d3a-8134-91d0130312e2/0/my-channel/0/%22Text%20with%20%F0%9F%98%9C%20emoji%20%F0%9F%8E%89%5C%22my-message%5C%22%22
+auth=qGF2AmF0GmK6qipjdHRsGQPoY3Jlc6VkY2hhbqFqbXktY2hhbm5lbANjZ3JwoGN1c3KgY3NwY6BkdXVpZKBjcGF0pWRjaGFuoGNncnCgY3VzcqBjc3BjoGR1dWlkoGRtZXRhoGNzaWdYIPcVPjIDnCxMO8DG-IuxmBdy6_28c6nqbplxjNVL9qQdZHV1aWRg&l_pamv3=0.009198716&meta=%7B%22m1%22%3A%22n1%22%2C%22m2%22%3A%22n2%22%7D&pnsdk=WebPubSub-Go%2F7.0.3&q1=v1&q2=v2&seqn=1&store=1&timestamp=1656400437&uuid=pn-d6aa98c2-fc8d-4d32-9d0b-864d0ef71065
+
+WebPubSub :->  2022/06/28 15:13:57 endpoints.go:221: signaturev2: v2.ik8IZ6HJD6MrbybDGzQ_1xA7X-rvCq4MrK71n7nPXsc
+WebPubSub :->  2022/06/28 15:14:08 webpubsub.go:755: WebPubSub Go v4 SDK: 7.0.3
+pnconf: &{{{0 0} 0 0 0 0} pub-c-deeb6f03-8193-4a34-b253-e89f915dc7b8 sub-c-e548adb7-3388-4d3a-8134-91d0130312e2 sec-c-MTdiNTE1NDgtMWQ1Yy00NTA5LTlhZGUtMThmMzJlOTE0Nzlh  localhost:11443 pn-6db3afdb-6563-4034-9376-1b583052f645  false 10 10 310 60 0 0 50 60  3 0xc000140820 false false false 100 30 20 true true 5 true}
+go1.18.3
+amd64
+darwin
+WebPubSub :->  2022/06/28 15:14:08 webpubsub.go:778: Init RequestWorkers: workers 20
+WebPubSub :->  2022/06/28 15:14:08 request_workers.go:80: Start: Running with workers  20
+WebPubSub :->  2022/06/28 15:14:08 request_workers.go:83: Start: StartNonSubWorker  0
+WebPubSub :->  2022/06/28 15:14:08 request_workers.go:83: Start: StartNonSubWorker  1
+WebPubSub :->  2022/06/28 15:14:08 request_workers.go:83: Start: StartNonSubWorker  2
+WebPubSub :->  2022/06/28 15:14:08 request_workers.go:83: Start: StartNonSubWorker  3
+WebPubSub :->  2022/06/28 15:14:08 request_workers.go:83: Start: StartNonSubWorker  4
+WebPubSub :->  2022/06/28 15:14:08 request_workers.go:83: Start: StartNonSubWorker  5
+WebPubSub :->  2022/06/28 15:14:08 request_workers.go:83: Start: StartNonSubWorker  6
+WebPubSub :->  2022/06/28 15:14:08 request_workers.go:83: Start: StartNonSubWorker  7
+WebPubSub :->  2022/06/28 15:14:08 request_workers.go:83: Start: StartNonSubWorker  8
+WebPubSub :->  2022/06/28 15:14:08 request_workers.go:83: Start: StartNonSubWorker  9
+WebPubSub :->  2022/06/28 15:14:08 request_workers.go:83: Start: StartNonSubWorker  10
+WebPubSub :->  2022/06/28 15:14:08 request_workers.go:83: Start: StartNonSubWorker  11
+WebPubSub :->  2022/06/28 15:14:08 request_workers.go:83: Start: StartNonSubWorker  12
+WebPubSub :->  2022/06/28 15:14:08 request_workers.go:83: Start: StartNonSubWorker  13
+WebPubSub :->  2022/06/28 15:14:08 request_workers.go:83: Start: StartNonSubWorker  14
+WebPubSub :->  2022/06/28 15:14:08 request_workers.go:83: Start: StartNonSubWorker  15
+WebPubSub :->  2022/06/28 15:14:08 request_workers.go:83: Start: StartNonSubWorker  16
+WebPubSub :->  2022/06/28 15:14:08 request_workers.go:83: Start: StartNonSubWorker  17
+WebPubSub :->  2022/06/28 15:14:08 request_workers.go:83: Start: StartNonSubWorker  18
+WebPubSub :->  2022/06/28 15:14:08 request_workers.go:83: Start: StartNonSubWorker  19
+WebPubSub :->  2022/06/28 15:14:16 grant_token_request.go:199: bmVal: true 1 1
+WebPubSub :->  2022/06/28 15:14:16 grant_token_request.go:199: bmVal: true 2 3
+WebPubSub :->  2022/06/28 15:14:16 grant_token_request.go:199: bmVal: false 8 3
+WebPubSub :->  2022/06/28 15:14:16 grant_token_request.go:199: bmVal: false 128 3
+WebPubSub :->  2022/06/28 15:14:16 grant_token_request.go:199: bmVal: false 64 3
+WebPubSub :->  2022/06/28 15:14:16 grant_token_request.go:199: bmVal: false 4 3
+WebPubSub :->  2022/06/28 15:14:16 grant_token_request.go:199: bmVal: false 32 3
+WebPubSub :->  2022/06/28 15:14:16 grant_token_request.go:220: bmVal ChannelPermissions: 3
+WebPubSub :->  2022/06/28 15:14:16 grant_token_request.go:304: permissions:  {{map[my-channel:3] map[] map[] map[] map[]} {map[] map[] map[] map[] map[]} map[] }
+WebPubSub :->  2022/06/28 15:14:16 endpoints.go:232: signedInputV2: POST
+pub-c-deeb6f03-8193-4a34-b253-e89f915dc7b8
+/v3/pam/sub-c-e548adb7-3388-4d3a-8134-91d0130312e2/grant
+pnsdk=WebPubSub-Go%2F7.0.3&timestamp=1656400448&uuid=pn-6db3afdb-6563-4034-9376-1b583052f645
+{"ttl":1000,"permissions":{"resources":{"channels":{"my-channel":3},"groups":{},"uuids":{},"users":{},"spaces":{}},"patterns":{"channels":{},"groups":{},"uuids":{},"users":{},"spaces":{}},"meta":{}}}
+WebPubSub :->  2022/06/28 15:14:16 endpoints.go:221: signaturev2: v2.UH0bvDw2mP4VKdBIhrgmQ6QaFz90_cu2d4jpzHAxWNo
+WebPubSub :->  2022/06/28 15:14:16 request.go:97: url:http://localhost:11443/v3/pam/sub-c-e548adb7-3388-4d3a-8134-91d0130312e2/grant?uuid=pn-6db3afdb-6563-4034-9376-1b583052f645&timestamp=1656400448&pnsdk=WebPubSub-Go/7.0.3&signature=v2.UH0bvDw2mP4VKdBIhrgmQ6QaFz90_cu2d4jpzHAxWNo
+method:POST
+WebPubSub :->  2022/06/28 15:14:16 grant_token_request.go:199: bmVal: true 1 1
+WebPubSub :->  2022/06/28 15:14:16 grant_token_request.go:199: bmVal: true 2 3
+WebPubSub :->  2022/06/28 15:14:16 grant_token_request.go:199: bmVal: false 8 3
+WebPubSub :->  2022/06/28 15:14:16 grant_token_request.go:199: bmVal: false 128 3
+WebPubSub :->  2022/06/28 15:14:16 grant_token_request.go:199: bmVal: false 64 3
+WebPubSub :->  2022/06/28 15:14:16 grant_token_request.go:199: bmVal: false 4 3
+WebPubSub :->  2022/06/28 15:14:16 grant_token_request.go:199: bmVal: false 32 3
+WebPubSub :->  2022/06/28 15:14:16 grant_token_request.go:220: bmVal ChannelPermissions: 3
+WebPubSub :->  2022/06/28 15:14:16 grant_token_request.go:304: permissions:  {{map[my-channel:3] map[] map[] map[] map[]} {map[] map[] map[] map[] map[]} map[] }
+WebPubSub :->  2022/06/28 15:14:16 request.go:73: BODY {"ttl":1000,"permissions":{"resources":{"channels":{"my-channel":3},"groups":{},"uuids":{},"users":{},"spaces":{}},"patterns":{"channels":{},"groups":{},"uuids":{},"users":{},"spaces":{}},"meta":{}}}
+WebPubSub :->  2022/06/28 15:14:16 request.go:313: 200 OK: resp.StatusCode, resp.Status, resp.Body, resp.Request.URL, string(body) 200 200 OK &{0x11624e0 0xc000036140 0x1355640} http://localhost:11443/v3/pam/sub-c-e548adb7-3388-4d3a-8134-91d0130312e2/grant?uuid=pn-6db3afdb-6563-4034-9376-1b583052f645&timestamp=1656400448&pnsdk=WebPubSub-Go/7.0.3&signature=v2.UH0bvDw2mP4VKdBIhrgmQ6QaFz90_cu2d4jpzHAxWNo {"status":0,"data":{"message":"Success","token":"qGF2AmF0GmK6qkhjdHRsGQPoY3Jlc6VkY2hhbqFqbXktY2hhbm5lbANjZ3JwoGN1c3KgY3NwY6BkdXVpZKBjcGF0pWRjaGFuoGNncnCgY3VzcqBjc3BjoGR1dWlkoGRtZXRhoGNzaWdYIHYNUtTCTCnPt95NlDz_2UOjuDl7SVQR2E-flN1D2vzHZHV1aWRg"},"service":""}
+WebPubSub :->  2022/06/28 15:14:16 request.go:216: WPSUnknownCategory {"status":0,"data":{"message":"Success","token":"qGF2AmF0GmK6qkhjdHRsGQPoY3Jlc6VkY2hhbqFqbXktY2hhbm5lbANjZ3JwoGN1c3KgY3NwY6BkdXVpZKBjcGF0pWRjaGFuoGNncnCgY3VzcqBjc3BjoGR1dWlkoGRtZXRhoGNzaWdYIHYNUtTCTCnPt95NlDz_2UOjuDl7SVQR2E-flN1D2vzHZHV1aWRg"},"service":""} {Grant Token 200 false localhost:11443 pn-6db3afdb-6563-4034-9376-1b583052f645  0xc0000c0000}
+WebPubSub :->  2022/06/28 15:14:18 publish_request.go:298: len(jsonEncBytes) 41
+WebPubSub :->  2022/06/28 15:14:18 publish_request.go:344: seqn: 1
+WebPubSub :->  2022/06/28 15:14:18 publish_request.go:352: &map[l_pamv3:[0.009610808] meta:[{"m1":"n1","m2":"n2"}] pnsdk:[WebPubSub-Go/7.0.3] q1:[v1] q2:[v2] seqn:[1] store:[1] uuid:[pn-6db3afdb-6563-4034-9376-1b583052f645]]
+WebPubSub :->  2022/06/28 15:14:49 endpoints.go:232: signedInputV2: GET
+pub-c-deeb6f03-8193-4a34-b253-e89f915dc7b8
+/publish/pub-c-deeb6f03-8193-4a34-b253-e89f915dc7b8/sub-c-e548adb7-3388-4d3a-8134-91d0130312e2/0/my-channel/0/%22Text%20with%20%F0%9F%98%9C%20emoji%20%F0%9F%8E%89%5C%22my-message%5C%22%22
+auth=qGF2AmF0GmK6qkhjdHRsGQPoY3Jlc6VkY2hhbqFqbXktY2hhbm5lbANjZ3JwoGN1c3KgY3NwY6BkdXVpZKBjcGF0pWRjaGFuoGNncnCgY3VzcqBjc3BjoGR1dWlkoGRtZXRhoGNzaWdYIHYNUtTCTCnPt95NlDz_2UOjuDl7SVQR2E-flN1D2vzHZHV1aWRg&l_pamv3=0.009610808&meta=%7B%22m1%22%3A%22n1%22%2C%22m2%22%3A%22n2%22%7D&pnsdk=WebPubSub-Go%2F7.0.3&q1=v1&q2=v2&seqn=1&store=1&timestamp=1656400458&uuid=pn-6db3afdb-6563-4034-9376-1b583052f645
+
+WebPubSub :->  2022/06/28 15:14:49 endpoints.go:221: signaturev2: v2.TdZwKWK4nEmtc5rfkLn7S2XHPZFudeFrOOu8fGWJpd0
+WebPubSub :->  2022/06/28 15:14:49 request.go:97: url:http://localhost:11443/publish/pub-c-deeb6f03-8193-4a34-b253-e89f915dc7b8/sub-c-e548adb7-3388-4d3a-8134-91d0130312e2/0/my-channel/0/%22Text%20with%20%F0%9F%98%9C%20emoji%20%F0%9F%8E%89%5C%22my-message%5C%22%22?uuid=pn-6db3afdb-6563-4034-9376-1b583052f645&store=1&seqn=1&auth=qGF2AmF0GmK6qkhjdHRsGQPoY3Jlc6VkY2hhbqFqbXktY2hhbm5lbANjZ3JwoGN1c3KgY3NwY6BkdXVpZKBjcGF0pWRjaGFuoGNncnCgY3VzcqBjc3BjoGR1dWlkoGRtZXRhoGNzaWdYIHYNUtTCTCnPt95NlDz_2UOjuDl7SVQR2E-flN1D2vzHZHV1aWRg&timestamp=1656400458&pnsdk=WebPubSub-Go/7.0.3&l_pamv3=0.009610808&meta=%7B%22m1%22%3A%22n1%22%2C%22m2%22%3A%22n2%22%7D&q1=v1&q2=v2&signature=v2.TdZwKWK4nEmtc5rfkLn7S2XHPZFudeFrOOu8fGWJpd0
+method:GET
+WebPubSub :->  2022/06/28 15:14:49 request_workers.go:94: ReadQueue: Got job for channel  &{GET http://localhost:11443/publish/pub-c-deeb6f03-8193-4a34-b253-e89f915dc7b8/sub-c-e548adb7-3388-4d3a-8134-91d0130312e2/0/my-channel/0/%22Text%20with%20%F0%9F%98%9C%20emoji%20%F0%9F%8E%89%5C%22my-message%5C%22%22?uuid=pn-6db3afdb-6563-4034-9376-1b583052f645&store=1&seqn=1&auth=qGF2AmF0GmK6qkhjdHRsGQPoY3Jlc6VkY2hhbqFqbXktY2hhbm5lbANjZ3JwoGN1c3KgY3NwY6BkdXVpZKBjcGF0pWRjaGFuoGNncnCgY3VzcqBjc3BjoGR1dWlkoGRtZXRhoGNzaWdYIHYNUtTCTCnPt95NlDz_2UOjuDl7SVQR2E-flN1D2vzHZHV1aWRg&timestamp=1656400458&pnsdk=WebPubSub-Go/7.0.3&l_pamv3=0.009610808&meta=%7B%22m1%22%3A%22n1%22%2C%22m2%22%3A%22n2%22%7D&q1=v1&q2=v2&signature=v2.TdZwKWK4nEmtc5rfkLn7S2XHPZFudeFrOOu8fGWJpd0 HTTP/1.1 1 1 map[] <nil> <nil> 0 [] false localhost:11443 map[] map[] <nil> map[]   <nil> <nil> <nil> <nil>}
+WebPubSub :->  2022/06/28 15:14:49 request_workers.go:65: Request sent using worker id  1
+WebPubSub :->  2022/06/28 15:14:49 request.go:284: webpubsub/server: Server respond with error code 401: {"error":"request signature not matched"}
+WebPubSub :->  2022/06/28 15:14:49 request.go:299: WPSUnknownCategory: resp.StatusCode, resp.Body, resp.Request.URL 401 &{0x11624e0 0xc00020e180 0x1355640} http://localhost:11443/publish/pub-c-deeb6f03-8193-4a34-b253-e89f915dc7b8/sub-c-e548adb7-3388-4d3a-8134-91d0130312e2/0/my-channel/0/%22Text%20with%20%F0%9F%98%9C%20emoji%20%F0%9F%8E%89%5C%22my-message%5C%22%22?uuid=pn-6db3afdb-6563-4034-9376-1b583052f645&store=1&seqn=1&auth=qGF2AmF0GmK6qkhjdHRsGQPoY3Jlc6VkY2hhbqFqbXktY2hhbm5lbANjZ3JwoGN1c3KgY3NwY6BkdXVpZKBjcGF0pWRjaGFuoGNncnCgY3VzcqBjc3BjoGR1dWlkoGRtZXRhoGNzaWdYIHYNUtTCTCnPt95NlDz_2UOjuDl7SVQR2E-flN1D2vzHZHV1aWRg&timestamp=1656400458&pnsdk=WebPubSub-Go/7.0.3&l_pamv3=0.009610808&meta=%7B%22m1%22%3A%22n1%22%2C%22m2%22%3A%22n2%22%7D&q1=v1&q2=v2&signature=v2.TdZwKWK4nEmtc5rfkLn7S2XHPZFudeFrOOu8fGWJpd0
+WebPubSub :->  2022/06/28 15:14:49 request.go:187: res.StatusCode, status, err.Error() 401 {webpubsub/server: Server respond with error code 401: {"error":"request signature not matched"} Unknown Publish 401 false      [] [] <nil>} webpubsub/server: Server respond with error code 401: {"error":"request signature not matched"}
+WebPubSub :->  2022/06/28 15:16:44 webpubsub.go:755: WebPubSub Go v4 SDK: 7.0.3
+pnconf: &{{{0 0} 0 0 0 0} pub-c-deeb6f03-8193-4a34-b253-e89f915dc7b8 sub-c-e548adb7-3388-4d3a-8134-91d0130312e2 sec-c-MTdiNTE1NDgtMWQ1Yy00NTA5LTlhZGUtMThmMzJlOTE0Nzlh  localhost:11443 pn-d1775d06-3c3e-4ab3-a07e-9ea1bb3f810d  false 10 10 310 60 0 0 50 60  3 0xc000140820 false false false 100 30 20 true true 5 true}
+go1.18.3
+amd64
+darwin
+WebPubSub :->  2022/06/28 15:16:44 webpubsub.go:778: Init RequestWorkers: workers 20
+WebPubSub :->  2022/06/28 15:16:44 request_workers.go:80: Start: Running with workers  20
+WebPubSub :->  2022/06/28 15:16:44 request_workers.go:83: Start: StartNonSubWorker  0
+WebPubSub :->  2022/06/28 15:16:44 request_workers.go:83: Start: StartNonSubWorker  1
+WebPubSub :->  2022/06/28 15:16:44 request_workers.go:83: Start: StartNonSubWorker  2
+WebPubSub :->  2022/06/28 15:16:44 request_workers.go:83: Start: StartNonSubWorker  3
+WebPubSub :->  2022/06/28 15:16:44 request_workers.go:83: Start: StartNonSubWorker  4
+WebPubSub :->  2022/06/28 15:16:44 request_workers.go:83: Start: StartNonSubWorker  5
+WebPubSub :->  2022/06/28 15:16:44 request_workers.go:83: Start: StartNonSubWorker  6
+WebPubSub :->  2022/06/28 15:16:44 request_workers.go:83: Start: StartNonSubWorker  7
+WebPubSub :->  2022/06/28 15:16:44 request_workers.go:83: Start: StartNonSubWorker  8
+WebPubSub :->  2022/06/28 15:16:44 request_workers.go:83: Start: StartNonSubWorker  9
+WebPubSub :->  2022/06/28 15:16:44 request_workers.go:83: Start: StartNonSubWorker  10
+WebPubSub :->  2022/06/28 15:16:44 request_workers.go:83: Start: StartNonSubWorker  11
+WebPubSub :->  2022/06/28 15:16:44 request_workers.go:83: Start: StartNonSubWorker  12
+WebPubSub :->  2022/06/28 15:16:44 request_workers.go:83: Start: StartNonSubWorker  13
+WebPubSub :->  2022/06/28 15:16:44 request_workers.go:83: Start: StartNonSubWorker  14
+WebPubSub :->  2022/06/28 15:16:44 request_workers.go:83: Start: StartNonSubWorker  15
+WebPubSub :->  2022/06/28 15:16:44 request_workers.go:83: Start: StartNonSubWorker  16
+WebPubSub :->  2022/06/28 15:16:44 request_workers.go:83: Start: StartNonSubWorker  17
+WebPubSub :->  2022/06/28 15:16:44 request_workers.go:83: Start: StartNonSubWorker  18
+WebPubSub :->  2022/06/28 15:16:44 request_workers.go:83: Start: StartNonSubWorker  19
+WebPubSub :->  2022/06/28 15:16:47 grant_token_request.go:199: bmVal: true 1 1
+WebPubSub :->  2022/06/28 15:16:47 grant_token_request.go:199: bmVal: true 2 3
+WebPubSub :->  2022/06/28 15:16:47 grant_token_request.go:199: bmVal: false 8 3
+WebPubSub :->  2022/06/28 15:16:47 grant_token_request.go:199: bmVal: false 128 3
+WebPubSub :->  2022/06/28 15:16:47 grant_token_request.go:199: bmVal: false 64 3
+WebPubSub :->  2022/06/28 15:16:47 grant_token_request.go:199: bmVal: false 4 3
+WebPubSub :->  2022/06/28 15:16:47 grant_token_request.go:199: bmVal: false 32 3
+WebPubSub :->  2022/06/28 15:16:47 grant_token_request.go:220: bmVal ChannelPermissions: 3
+WebPubSub :->  2022/06/28 15:16:47 grant_token_request.go:304: permissions:  {{map[my-channel:3] map[] map[] map[] map[]} {map[] map[] map[] map[] map[]} map[] }
+WebPubSub :->  2022/06/28 15:16:47 endpoints.go:232: signedInputV2: POST
+pub-c-deeb6f03-8193-4a34-b253-e89f915dc7b8
+/v3/pam/sub-c-e548adb7-3388-4d3a-8134-91d0130312e2/grant
+pnsdk=WebPubSub-Go%2F7.0.3&timestamp=1656400604&uuid=pn-d1775d06-3c3e-4ab3-a07e-9ea1bb3f810d
+{"ttl":1000,"permissions":{"resources":{"channels":{"my-channel":3},"groups":{},"uuids":{},"users":{},"spaces":{}},"patterns":{"channels":{},"groups":{},"uuids":{},"users":{},"spaces":{}},"meta":{}}}
+WebPubSub :->  2022/06/28 15:16:47 endpoints.go:221: signaturev2: v2.oJp6T_Th9ovGpeyFhhzPSHoneeVXAyVtLtdFCXYa2Zg
+WebPubSub :->  2022/06/28 15:16:47 request.go:97: url:http://localhost:11443/v3/pam/sub-c-e548adb7-3388-4d3a-8134-91d0130312e2/grant?pnsdk=WebPubSub-Go/7.0.3&uuid=pn-d1775d06-3c3e-4ab3-a07e-9ea1bb3f810d&timestamp=1656400604&signature=v2.oJp6T_Th9ovGpeyFhhzPSHoneeVXAyVtLtdFCXYa2Zg
+method:POST
+WebPubSub :->  2022/06/28 15:16:47 grant_token_request.go:199: bmVal: true 1 1
+WebPubSub :->  2022/06/28 15:16:47 grant_token_request.go:199: bmVal: true 2 3
+WebPubSub :->  2022/06/28 15:16:47 grant_token_request.go:199: bmVal: false 8 3
+WebPubSub :->  2022/06/28 15:16:47 grant_token_request.go:199: bmVal: false 128 3
+WebPubSub :->  2022/06/28 15:16:47 grant_token_request.go:199: bmVal: false 64 3
+WebPubSub :->  2022/06/28 15:16:47 grant_token_request.go:199: bmVal: false 4 3
+WebPubSub :->  2022/06/28 15:16:47 grant_token_request.go:199: bmVal: false 32 3
+WebPubSub :->  2022/06/28 15:16:47 grant_token_request.go:220: bmVal ChannelPermissions: 3
+WebPubSub :->  2022/06/28 15:16:47 grant_token_request.go:304: permissions:  {{map[my-channel:3] map[] map[] map[] map[]} {map[] map[] map[] map[] map[]} map[] }
+WebPubSub :->  2022/06/28 15:16:47 request.go:73: BODY {"ttl":1000,"permissions":{"resources":{"channels":{"my-channel":3},"groups":{},"uuids":{},"users":{},"spaces":{}},"patterns":{"channels":{},"groups":{},"uuids":{},"users":{},"spaces":{}},"meta":{}}}
+WebPubSub :->  2022/06/28 15:16:47 request.go:284: webpubsub/server: Server respond with error code 401: {"error":"request signature not matched"}
+WebPubSub :->  2022/06/28 15:16:47 request.go:299: WPSUnknownCategory: resp.StatusCode, resp.Body, resp.Request.URL 401 &{0x11624e0 0xc00020e140 0x1355640} http://localhost:11443/v3/pam/sub-c-e548adb7-3388-4d3a-8134-91d0130312e2/grant?pnsdk=WebPubSub-Go/7.0.3&uuid=pn-d1775d06-3c3e-4ab3-a07e-9ea1bb3f810d&timestamp=1656400604&signature=v2.oJp6T_Th9ovGpeyFhhzPSHoneeVXAyVtLtdFCXYa2Zg
+WebPubSub :->  2022/06/28 15:16:47 request.go:187: res.StatusCode, status, err.Error() 401 {webpubsub/server: Server respond with error code 401: {"error":"request signature not matched"} Unknown Grant Token 401 false      [] [] <nil>} webpubsub/server: Server respond with error code 401: {"error":"request signature not matched"}
+WebPubSub :->  2022/06/28 15:16:48 publish_request.go:298: len(jsonEncBytes) 41
+WebPubSub :->  2022/06/28 15:16:48 publish_request.go:344: seqn: 1
+WebPubSub :->  2022/06/28 15:16:48 publish_request.go:352: &map[meta:[{"m1":"n1","m2":"n2"}] pnsdk:[WebPubSub-Go/7.0.3] q1:[v1] q2:[v2] seqn:[1] store:[1] uuid:[pn-d1775d06-3c3e-4ab3-a07e-9ea1bb3f810d]]
+WebPubSub :->  2022/06/28 15:16:53 endpoints.go:232: signedInputV2: GET
+pub-c-deeb6f03-8193-4a34-b253-e89f915dc7b8
+/publish/pub-c-deeb6f03-8193-4a34-b253-e89f915dc7b8/sub-c-e548adb7-3388-4d3a-8134-91d0130312e2/0/my-channel/0/%22Text%20with%20%F0%9F%98%9C%20emoji%20%F0%9F%8E%89%5C%22my-message%5C%22%22
+meta=%7B%22m1%22%3A%22n1%22%2C%22m2%22%3A%22n2%22%7D&pnsdk=WebPubSub-Go%2F7.0.3&q1=v1&q2=v2&seqn=1&store=1&timestamp=1656400608&uuid=pn-d1775d06-3c3e-4ab3-a07e-9ea1bb3f810d
+
+WebPubSub :->  2022/06/28 15:16:53 endpoints.go:221: signaturev2: v2.SFPuMGh0AsAie4Te__bEixAPlSQYJCicG-9N0StWJCw
+WebPubSub :->  2022/06/28 15:16:53 request.go:97: url:http://localhost:11443/publish/pub-c-deeb6f03-8193-4a34-b253-e89f915dc7b8/sub-c-e548adb7-3388-4d3a-8134-91d0130312e2/0/my-channel/0/%22Text%20with%20%F0%9F%98%9C%20emoji%20%F0%9F%8E%89%5C%22my-message%5C%22%22?meta=%7B%22m1%22%3A%22n1%22%2C%22m2%22%3A%22n2%22%7D&store=1&seqn=1&q1=v1&q2=v2&timestamp=1656400608&pnsdk=WebPubSub-Go/7.0.3&uuid=pn-d1775d06-3c3e-4ab3-a07e-9ea1bb3f810d&signature=v2.SFPuMGh0AsAie4Te__bEixAPlSQYJCicG-9N0StWJCw
+method:GET
+WebPubSub :->  2022/06/28 15:16:53 request_workers.go:94: ReadQueue: Got job for channel  &{GET http://localhost:11443/publish/pub-c-deeb6f03-8193-4a34-b253-e89f915dc7b8/sub-c-e548adb7-3388-4d3a-8134-91d0130312e2/0/my-channel/0/%22Text%20with%20%F0%9F%98%9C%20emoji%20%F0%9F%8E%89%5C%22my-message%5C%22%22?meta=%7B%22m1%22%3A%22n1%22%2C%22m2%22%3A%22n2%22%7D&store=1&seqn=1&q1=v1&q2=v2&timestamp=1656400608&pnsdk=WebPubSub-Go/7.0.3&uuid=pn-d1775d06-3c3e-4ab3-a07e-9ea1bb3f810d&signature=v2.SFPuMGh0AsAie4Te__bEixAPlSQYJCicG-9N0StWJCw HTTP/1.1 1 1 map[] <nil> <nil> 0 [] false localhost:11443 map[] map[] <nil> map[]   <nil> <nil> <nil> <nil>}
+WebPubSub :->  2022/06/28 15:16:53 request_workers.go:65: Request sent using worker id  0
+WebPubSub :->  2022/06/28 15:16:53 request.go:284: webpubsub/server: Server respond with error code 401: {"error":"request signature not matched"}
+WebPubSub :->  2022/06/28 15:16:53 request.go:299: WPSUnknownCategory: resp.StatusCode, resp.Body, resp.Request.URL 401 &{0x11624e0 0xc000153700 0x1355640} http://localhost:11443/publish/pub-c-deeb6f03-8193-4a34-b253-e89f915dc7b8/sub-c-e548adb7-3388-4d3a-8134-91d0130312e2/0/my-channel/0/%22Text%20with%20%F0%9F%98%9C%20emoji%20%F0%9F%8E%89%5C%22my-message%5C%22%22?meta=%7B%22m1%22%3A%22n1%22%2C%22m2%22%3A%22n2%22%7D&store=1&seqn=1&q1=v1&q2=v2&timestamp=1656400608&pnsdk=WebPubSub-Go/7.0.3&uuid=pn-d1775d06-3c3e-4ab3-a07e-9ea1bb3f810d&signature=v2.SFPuMGh0AsAie4Te__bEixAPlSQYJCicG-9N0StWJCw
+WebPubSub :->  2022/06/28 15:16:53 request.go:187: res.StatusCode, status, err.Error() 401 {webpubsub/server: Server respond with error code 401: {"error":"request signature not matched"} Unknown Publish 401 false      [] [] <nil>} webpubsub/server: Server respond with error code 401: {"error":"request signature not matched"}
+WebPubSub :->  2022/06/28 15:18:17 webpubsub.go:755: WebPubSub Go v4 SDK: 7.0.3
+pnconf: &{{{0 0} 0 0 0 0} pub-c-deeb6f03-8193-4a34-b253-e89f915dc7b8 sub-c-e548adb7-3388-4d3a-8134-91d0130312e2 sec-c-MTdiNTE1NDgtMWQ1Yy00NTA5LTlhZGUtMThmMzJlOTE0Nzlh  localhost:11443 pn-6e9c0a2d-d224-459f-b6a4-83ab7ac483f7  false 10 10 310 60 0 0 50 60  3 0xc000116870 false false false 100 30 20 true true 5 true}
+go1.18.3
+amd64
+darwin
+WebPubSub :->  2022/06/28 15:18:17 webpubsub.go:778: Init RequestWorkers: workers 20
+WebPubSub :->  2022/06/28 15:18:17 request_workers.go:80: Start: Running with workers  20
+WebPubSub :->  2022/06/28 15:18:17 request_workers.go:83: Start: StartNonSubWorker  0
+WebPubSub :->  2022/06/28 15:18:17 request_workers.go:83: Start: StartNonSubWorker  1
+WebPubSub :->  2022/06/28 15:18:17 request_workers.go:83: Start: StartNonSubWorker  2
+WebPubSub :->  2022/06/28 15:18:17 request_workers.go:83: Start: StartNonSubWorker  3
+WebPubSub :->  2022/06/28 15:18:17 request_workers.go:83: Start: StartNonSubWorker  4
+WebPubSub :->  2022/06/28 15:18:17 request_workers.go:83: Start: StartNonSubWorker  5
+WebPubSub :->  2022/06/28 15:18:17 request_workers.go:83: Start: StartNonSubWorker  6
+WebPubSub :->  2022/06/28 15:18:17 request_workers.go:83: Start: StartNonSubWorker  7
+WebPubSub :->  2022/06/28 15:18:17 request_workers.go:83: Start: StartNonSubWorker  8
+WebPubSub :->  2022/06/28 15:18:17 request_workers.go:83: Start: StartNonSubWorker  9
+WebPubSub :->  2022/06/28 15:18:17 request_workers.go:83: Start: StartNonSubWorker  10
+WebPubSub :->  2022/06/28 15:18:17 request_workers.go:83: Start: StartNonSubWorker  11
+WebPubSub :->  2022/06/28 15:18:17 request_workers.go:83: Start: StartNonSubWorker  12
+WebPubSub :->  2022/06/28 15:18:17 request_workers.go:83: Start: StartNonSubWorker  13
+WebPubSub :->  2022/06/28 15:18:17 request_workers.go:83: Start: StartNonSubWorker  14
+WebPubSub :->  2022/06/28 15:18:17 request_workers.go:83: Start: StartNonSubWorker  15
+WebPubSub :->  2022/06/28 15:18:17 request_workers.go:83: Start: StartNonSubWorker  16
+WebPubSub :->  2022/06/28 15:18:17 request_workers.go:83: Start: StartNonSubWorker  17
+WebPubSub :->  2022/06/28 15:18:17 request_workers.go:83: Start: StartNonSubWorker  18
+WebPubSub :->  2022/06/28 15:18:17 request_workers.go:83: Start: StartNonSubWorker  19
+WebPubSub :->  2022/06/28 15:18:23 grant_token_request.go:199: bmVal: true 1 1
+WebPubSub :->  2022/06/28 15:18:23 grant_token_request.go:199: bmVal: true 2 3
+WebPubSub :->  2022/06/28 15:18:23 grant_token_request.go:199: bmVal: false 8 3
+WebPubSub :->  2022/06/28 15:18:23 grant_token_request.go:199: bmVal: false 128 3
+WebPubSub :->  2022/06/28 15:18:23 grant_token_request.go:199: bmVal: false 64 3
+WebPubSub :->  2022/06/28 15:18:23 grant_token_request.go:199: bmVal: false 4 3
+WebPubSub :->  2022/06/28 15:18:23 grant_token_request.go:199: bmVal: false 32 3
+WebPubSub :->  2022/06/28 15:18:23 grant_token_request.go:220: bmVal ChannelPermissions: 3
+WebPubSub :->  2022/06/28 15:18:23 grant_token_request.go:304: permissions:  {{map[my-channel:3] map[] map[] map[] map[]} {map[] map[] map[] map[] map[]} map[] }
+WebPubSub :->  2022/06/28 15:18:23 endpoints.go:232: signedInputV2: POST
+pub-c-deeb6f03-8193-4a34-b253-e89f915dc7b8
+/v3/pam/sub-c-e548adb7-3388-4d3a-8134-91d0130312e2/grant
+pnsdk=WebPubSub-Go%2F7.0.3&timestamp=1656400703&uuid=pn-6e9c0a2d-d224-459f-b6a4-83ab7ac483f7
+{"ttl":1000,"permissions":{"resources":{"channels":{"my-channel":3},"groups":{},"uuids":{},"users":{},"spaces":{}},"patterns":{"channels":{},"groups":{},"uuids":{},"users":{},"spaces":{}},"meta":{}}}
+WebPubSub :->  2022/06/28 15:18:23 endpoints.go:221: signaturev2: v2.KoTPs13fdJiah2bZXzJH3s_VHLXAGTNpn1JWowgO9Gs
+WebPubSub :->  2022/06/28 15:18:23 request.go:97: url:http://localhost:11443/v3/pam/sub-c-e548adb7-3388-4d3a-8134-91d0130312e2/grant?pnsdk=WebPubSub-Go/7.0.3&uuid=pn-6e9c0a2d-d224-459f-b6a4-83ab7ac483f7&timestamp=1656400703&signature=v2.KoTPs13fdJiah2bZXzJH3s_VHLXAGTNpn1JWowgO9Gs
+method:POST
+WebPubSub :->  2022/06/28 15:18:23 grant_token_request.go:199: bmVal: true 1 1
+WebPubSub :->  2022/06/28 15:18:23 grant_token_request.go:199: bmVal: true 2 3
+WebPubSub :->  2022/06/28 15:18:23 grant_token_request.go:199: bmVal: false 8 3
+WebPubSub :->  2022/06/28 15:18:23 grant_token_request.go:199: bmVal: false 128 3
+WebPubSub :->  2022/06/28 15:18:23 grant_token_request.go:199: bmVal: false 64 3
+WebPubSub :->  2022/06/28 15:18:23 grant_token_request.go:199: bmVal: false 4 3
+WebPubSub :->  2022/06/28 15:18:23 grant_token_request.go:199: bmVal: false 32 3
+WebPubSub :->  2022/06/28 15:18:23 grant_token_request.go:220: bmVal ChannelPermissions: 3
+WebPubSub :->  2022/06/28 15:18:23 grant_token_request.go:304: permissions:  {{map[my-channel:3] map[] map[] map[] map[]} {map[] map[] map[] map[] map[]} map[] }
+WebPubSub :->  2022/06/28 15:18:23 request.go:73: BODY {"ttl":1000,"permissions":{"resources":{"channels":{"my-channel":3},"groups":{},"uuids":{},"users":{},"spaces":{}},"patterns":{"channels":{},"groups":{},"uuids":{},"users":{},"spaces":{}},"meta":{}}}
+WebPubSub :->  2022/06/28 15:18:23 request.go:284: webpubsub/server: Server respond with error code 401: {"error":"request signature not matched"}
+WebPubSub :->  2022/06/28 15:18:23 request.go:299: WPSUnknownCategory: resp.StatusCode, resp.Body, resp.Request.URL 401 &{0x11624e0 0xc000113740 0x1355640} http://localhost:11443/v3/pam/sub-c-e548adb7-3388-4d3a-8134-91d0130312e2/grant?pnsdk=WebPubSub-Go/7.0.3&uuid=pn-6e9c0a2d-d224-459f-b6a4-83ab7ac483f7&timestamp=1656400703&signature=v2.KoTPs13fdJiah2bZXzJH3s_VHLXAGTNpn1JWowgO9Gs
+WebPubSub :->  2022/06/28 15:18:23 request.go:187: res.StatusCode, status, err.Error() 401 {webpubsub/server: Server respond with error code 401: {"error":"request signature not matched"} Unknown Grant Token 401 false      [] [] <nil>} webpubsub/server: Server respond with error code 401: {"error":"request signature not matched"}
+WebPubSub :->  2022/06/28 15:20:29 webpubsub.go:755: WebPubSub Go v4 SDK: 7.0.3
+pnconf: &{{{0 0} 0 0 0 0} pub-c-deeb6f03-8193-4a34-b253-e89f915dc7b8 sub-c-e548adb7-3388-4d3a-8134-91d0130312e2 sec-c-MTdiNTE1NDgtMWQ1Yy00NTA5LTlhZGUtMThmMzJlOTE0Nzlh  localhost:11443 pn-acfd2d3c-114f-456b-a022-290ed25c9e91  false 10 10 310 60 0 0 50 60  3 0xc000116870 false false false 100 30 20 true true 5 true}
+go1.18.3
+amd64
+darwin
+WebPubSub :->  2022/06/28 15:20:29 webpubsub.go:778: Init RequestWorkers: workers 20
+WebPubSub :->  2022/06/28 15:20:29 request_workers.go:80: Start: Running with workers  20
+WebPubSub :->  2022/06/28 15:20:29 request_workers.go:83: Start: StartNonSubWorker  0
+WebPubSub :->  2022/06/28 15:20:29 request_workers.go:83: Start: StartNonSubWorker  1
+WebPubSub :->  2022/06/28 15:20:29 request_workers.go:83: Start: StartNonSubWorker  2
+WebPubSub :->  2022/06/28 15:20:29 request_workers.go:83: Start: StartNonSubWorker  3
+WebPubSub :->  2022/06/28 15:20:29 request_workers.go:83: Start: StartNonSubWorker  4
+WebPubSub :->  2022/06/28 15:20:29 request_workers.go:83: Start: StartNonSubWorker  5
+WebPubSub :->  2022/06/28 15:20:29 request_workers.go:83: Start: StartNonSubWorker  6
+WebPubSub :->  2022/06/28 15:20:29 request_workers.go:83: Start: StartNonSubWorker  7
+WebPubSub :->  2022/06/28 15:20:29 request_workers.go:83: Start: StartNonSubWorker  8
+WebPubSub :->  2022/06/28 15:20:29 request_workers.go:83: Start: StartNonSubWorker  9
+WebPubSub :->  2022/06/28 15:20:29 request_workers.go:83: Start: StartNonSubWorker  10
+WebPubSub :->  2022/06/28 15:20:29 request_workers.go:83: Start: StartNonSubWorker  11
+WebPubSub :->  2022/06/28 15:20:29 request_workers.go:83: Start: StartNonSubWorker  12
+WebPubSub :->  2022/06/28 15:20:29 request_workers.go:83: Start: StartNonSubWorker  13
+WebPubSub :->  2022/06/28 15:20:29 request_workers.go:83: Start: StartNonSubWorker  14
+WebPubSub :->  2022/06/28 15:20:29 request_workers.go:83: Start: StartNonSubWorker  15
+WebPubSub :->  2022/06/28 15:20:29 request_workers.go:83: Start: StartNonSubWorker  16
+WebPubSub :->  2022/06/28 15:20:29 request_workers.go:83: Start: StartNonSubWorker  17
+WebPubSub :->  2022/06/28 15:20:29 request_workers.go:83: Start: StartNonSubWorker  18
+WebPubSub :->  2022/06/28 15:20:29 request_workers.go:83: Start: StartNonSubWorker  19
+WebPubSub :->  2022/06/28 15:20:30 grant_token_request.go:199: bmVal: true 1 1
+WebPubSub :->  2022/06/28 15:20:30 grant_token_request.go:199: bmVal: true 2 3
+WebPubSub :->  2022/06/28 15:20:30 grant_token_request.go:199: bmVal: false 8 3
+WebPubSub :->  2022/06/28 15:20:30 grant_token_request.go:199: bmVal: false 128 3
+WebPubSub :->  2022/06/28 15:20:30 grant_token_request.go:199: bmVal: false 64 3
+WebPubSub :->  2022/06/28 15:20:30 grant_token_request.go:199: bmVal: false 4 3
+WebPubSub :->  2022/06/28 15:20:30 grant_token_request.go:199: bmVal: false 32 3
+WebPubSub :->  2022/06/28 15:20:30 grant_token_request.go:220: bmVal ChannelPermissions: 3
+WebPubSub :->  2022/06/28 15:20:30 grant_token_request.go:304: permissions:  {{map[my-channel:3] map[] map[] map[] map[]} {map[] map[] map[] map[] map[]} map[] }
+WebPubSub :->  2022/06/28 15:20:30 endpoints.go:232: signedInputV2: POST
+pub-c-deeb6f03-8193-4a34-b253-e89f915dc7b8
+/v3/pam/sub-c-e548adb7-3388-4d3a-8134-91d0130312e2/grant
+pnsdk=WebPubSub-Go%2F7.0.3&timestamp=1656400830&uuid=pn-acfd2d3c-114f-456b-a022-290ed25c9e91
+{"ttl":1000,"permissions":{"resources":{"channels":{"my-channel":3},"groups":{},"uuids":{},"users":{},"spaces":{}},"patterns":{"channels":{},"groups":{},"uuids":{},"users":{},"spaces":{}},"meta":{}}}
+WebPubSub :->  2022/06/28 15:20:30 endpoints.go:221: signaturev2: v2.Zujpi3mBUugFL9dcrOdmsYMeEopEFXPjKfzHw_Z_yIo
+WebPubSub :->  2022/06/28 15:20:30 request.go:97: url:http://localhost:11443/v3/pam/sub-c-e548adb7-3388-4d3a-8134-91d0130312e2/grant?pnsdk=WebPubSub-Go/7.0.3&uuid=pn-acfd2d3c-114f-456b-a022-290ed25c9e91&timestamp=1656400830&signature=v2.Zujpi3mBUugFL9dcrOdmsYMeEopEFXPjKfzHw_Z_yIo
+method:POST
+WebPubSub :->  2022/06/28 15:20:30 grant_token_request.go:199: bmVal: true 1 1
+WebPubSub :->  2022/06/28 15:20:30 grant_token_request.go:199: bmVal: true 2 3
+WebPubSub :->  2022/06/28 15:20:30 grant_token_request.go:199: bmVal: false 8 3
+WebPubSub :->  2022/06/28 15:20:30 grant_token_request.go:199: bmVal: false 128 3
+WebPubSub :->  2022/06/28 15:20:30 grant_token_request.go:199: bmVal: false 64 3
+WebPubSub :->  2022/06/28 15:20:30 grant_token_request.go:199: bmVal: false 4 3
+WebPubSub :->  2022/06/28 15:20:30 grant_token_request.go:199: bmVal: false 32 3
+WebPubSub :->  2022/06/28 15:20:30 grant_token_request.go:220: bmVal ChannelPermissions: 3
+WebPubSub :->  2022/06/28 15:20:30 grant_token_request.go:304: permissions:  {{map[my-channel:3] map[] map[] map[] map[]} {map[] map[] map[] map[] map[]} map[] }
+WebPubSub :->  2022/06/28 15:20:30 request.go:73: BODY {"ttl":1000,"permissions":{"resources":{"channels":{"my-channel":3},"groups":{},"uuids":{},"users":{},"spaces":{}},"patterns":{"channels":{},"groups":{},"uuids":{},"users":{},"spaces":{}},"meta":{}}}
+WebPubSub :->  2022/06/28 15:20:30 request.go:313: 200 OK: resp.StatusCode, resp.Status, resp.Body, resp.Request.URL, string(body) 200 200 OK &{0x11624e0 0xc0002d0080 0x1355640} http://localhost:11443/v3/pam/sub-c-e548adb7-3388-4d3a-8134-91d0130312e2/grant?pnsdk=WebPubSub-Go/7.0.3&uuid=pn-acfd2d3c-114f-456b-a022-290ed25c9e91&timestamp=1656400830&signature=v2.Zujpi3mBUugFL9dcrOdmsYMeEopEFXPjKfzHw_Z_yIo {"status":0,"data":{"message":"Success","token":"qGF2AmF0GmK6q75jdHRsGQPoY3Jlc6VkY2hhbqFqbXktY2hhbm5lbANjZ3JwoGN1c3KgY3NwY6BkdXVpZKBjcGF0pWRjaGFuoGNncnCgY3VzcqBjc3BjoGR1dWlkoGRtZXRhoGNzaWdYIOX0yca9p7WUwaZvMb3ayq70xTG1HEk2FvYRROP62mIuZHV1aWRg"},"service":""}
+WebPubSub :->  2022/06/28 15:20:30 request.go:216: WPSUnknownCategory {"status":0,"data":{"message":"Success","token":"qGF2AmF0GmK6q75jdHRsGQPoY3Jlc6VkY2hhbqFqbXktY2hhbm5lbANjZ3JwoGN1c3KgY3NwY6BkdXVpZKBjcGF0pWRjaGFuoGNncnCgY3VzcqBjc3BjoGR1dWlkoGRtZXRhoGNzaWdYIOX0yca9p7WUwaZvMb3ayq70xTG1HEk2FvYRROP62mIuZHV1aWRg"},"service":""} {Grant Token 200 false localhost:11443 pn-acfd2d3c-114f-456b-a022-290ed25c9e91  0xc0002cc000}
+WebPubSub :->  2022/06/28 15:20:31 publish_request.go:298: len(jsonEncBytes) 41
+WebPubSub :->  2022/06/28 15:20:31 publish_request.go:344: seqn: 1
+WebPubSub :->  2022/06/28 15:20:31 publish_request.go:352: &map[l_pamv3:[0.007271896] meta:[{"m1":"n1","m2":"n2"}] pnsdk:[WebPubSub-Go/7.0.3] q1:[v1] q2:[v2] seqn:[1] store:[1] uuid:[pn-acfd2d3c-114f-456b-a022-290ed25c9e91]]
+WebPubSub :->  2022/06/28 15:20:31 endpoints.go:232: signedInputV2: GET
+pub-c-deeb6f03-8193-4a34-b253-e89f915dc7b8
+/publish/pub-c-deeb6f03-8193-4a34-b253-e89f915dc7b8/sub-c-e548adb7-3388-4d3a-8134-91d0130312e2/0/my-channel/0/%22Text%20with%20%F0%9F%98%9C%20emoji%20%F0%9F%8E%89%5C%22my-message%5C%22%22
+auth=qGF2AmF0GmK6q75jdHRsGQPoY3Jlc6VkY2hhbqFqbXktY2hhbm5lbANjZ3JwoGN1c3KgY3NwY6BkdXVpZKBjcGF0pWRjaGFuoGNncnCgY3VzcqBjc3BjoGR1dWlkoGRtZXRhoGNzaWdYIOX0yca9p7WUwaZvMb3ayq70xTG1HEk2FvYRROP62mIuZHV1aWRg&l_pamv3=0.007271896&meta=%7B%22m1%22%3A%22n1%22%2C%22m2%22%3A%22n2%22%7D&pnsdk=WebPubSub-Go%2F7.0.3&q1=v1&q2=v2&seqn=1&store=1&timestamp=1656400831&uuid=pn-acfd2d3c-114f-456b-a022-290ed25c9e91
+
+WebPubSub :->  2022/06/28 15:20:31 endpoints.go:221: signaturev2: v2.1NapDP9FrOtPWzJUwXaKeWFYoQ8EQmL3AG624T5dXmY
+WebPubSub :->  2022/06/28 15:20:31 request.go:97: url:http://localhost:11443/publish/pub-c-deeb6f03-8193-4a34-b253-e89f915dc7b8/sub-c-e548adb7-3388-4d3a-8134-91d0130312e2/0/my-channel/0/%22Text%20with%20%F0%9F%98%9C%20emoji%20%F0%9F%8E%89%5C%22my-message%5C%22%22?store=1&seqn=1&timestamp=1656400831&uuid=pn-acfd2d3c-114f-456b-a022-290ed25c9e91&l_pamv3=0.007271896&q1=v1&q2=v2&auth=qGF2AmF0GmK6q75jdHRsGQPoY3Jlc6VkY2hhbqFqbXktY2hhbm5lbANjZ3JwoGN1c3KgY3NwY6BkdXVpZKBjcGF0pWRjaGFuoGNncnCgY3VzcqBjc3BjoGR1dWlkoGRtZXRhoGNzaWdYIOX0yca9p7WUwaZvMb3ayq70xTG1HEk2FvYRROP62mIuZHV1aWRg&pnsdk=WebPubSub-Go/7.0.3&meta=%7B%22m1%22%3A%22n1%22%2C%22m2%22%3A%22n2%22%7D&signature=v2.1NapDP9FrOtPWzJUwXaKeWFYoQ8EQmL3AG624T5dXmY
+method:GET
+WebPubSub :->  2022/06/28 15:20:31 request_workers.go:94: ReadQueue: Got job for channel  &{GET http://localhost:11443/publish/pub-c-deeb6f03-8193-4a34-b253-e89f915dc7b8/sub-c-e548adb7-3388-4d3a-8134-91d0130312e2/0/my-channel/0/%22Text%20with%20%F0%9F%98%9C%20emoji%20%F0%9F%8E%89%5C%22my-message%5C%22%22?store=1&seqn=1&timestamp=1656400831&uuid=pn-acfd2d3c-114f-456b-a022-290ed25c9e91&l_pamv3=0.007271896&q1=v1&q2=v2&auth=qGF2AmF0GmK6q75jdHRsGQPoY3Jlc6VkY2hhbqFqbXktY2hhbm5lbANjZ3JwoGN1c3KgY3NwY6BkdXVpZKBjcGF0pWRjaGFuoGNncnCgY3VzcqBjc3BjoGR1dWlkoGRtZXRhoGNzaWdYIOX0yca9p7WUwaZvMb3ayq70xTG1HEk2FvYRROP62mIuZHV1aWRg&pnsdk=WebPubSub-Go/7.0.3&meta=%7B%22m1%22%3A%22n1%22%2C%22m2%22%3A%22n2%22%7D&signature=v2.1NapDP9FrOtPWzJUwXaKeWFYoQ8EQmL3AG624T5dXmY HTTP/1.1 1 1 map[] <nil> <nil> 0 [] false localhost:11443 map[] map[] <nil> map[]   <nil> <nil> <nil> <nil>}
+WebPubSub :->  2022/06/28 15:20:31 request_workers.go:65: Request sent using worker id  1
+WebPubSub :->  2022/06/28 15:20:31 request.go:313: 200 OK: resp.StatusCode, resp.Status, resp.Body, resp.Request.URL, string(body) 200 200 OK &{0x11624e0 0xc000113740 0x1355640} http://localhost:11443/publish/pub-c-deeb6f03-8193-4a34-b253-e89f915dc7b8/sub-c-e548adb7-3388-4d3a-8134-91d0130312e2/0/my-channel/0/%22Text%20with%20%F0%9F%98%9C%20emoji%20%F0%9F%8E%89%5C%22my-message%5C%22%22?store=1&seqn=1&timestamp=1656400831&uuid=pn-acfd2d3c-114f-456b-a022-290ed25c9e91&l_pamv3=0.007271896&q1=v1&q2=v2&auth=qGF2AmF0GmK6q75jdHRsGQPoY3Jlc6VkY2hhbqFqbXktY2hhbm5lbANjZ3JwoGN1c3KgY3NwY6BkdXVpZKBjcGF0pWRjaGFuoGNncnCgY3VzcqBjc3BjoGR1dWlkoGRtZXRhoGNzaWdYIOX0yca9p7WUwaZvMb3ayq70xTG1HEk2FvYRROP62mIuZHV1aWRg&pnsdk=WebPubSub-Go/7.0.3&meta=%7B%22m1%22%3A%22n1%22%2C%22m2%22%3A%22n2%22%7D&signature=v2.1NapDP9FrOtPWzJUwXaKeWFYoQ8EQmL3AG624T5dXmY [1,"Sent","16564008316965400"]
+WebPubSub :->  2022/06/28 15:20:31 request.go:216: WPSUnknownCategory [1,"Sent","16564008316965400"] {Publish 200 false localhost:11443 pn-acfd2d3c-114f-456b-a022-290ed25c9e91 qGF2AmF0GmK6q75jdHRsGQPoY3Jlc6VkY2hhbqFqbXktY2hhbm5lbANjZ3JwoGN1c3KgY3NwY6BkdXVpZKBjcGF0pWRjaGFuoGNncnCgY3VzcqBjc3BjoGR1dWlkoGRtZXRhoGNzaWdYIOX0yca9p7WUwaZvMb3ayq70xTG1HEk2FvYRROP62mIuZHV1aWRg 0xc00014e6c0}

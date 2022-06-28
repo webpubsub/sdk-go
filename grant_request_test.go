@@ -446,3 +446,16 @@ func TestGrantTTL(t *testing.T) {
 	gb.TTL(10)
 	assert.Equal(10, gb.opts.TTL)
 }
+
+func TestParseToken(t *testing.T) {
+	token := "p0F2AkF0GmK5aEZDdHRsGQPoQ3Jlc6VEY2hhbqFqbXktY2hhbm5lbANDZ3JwoEN1c3KgQ3NwY6BEdXVpZKBDcGF0pURjaGFuoENncnCgQ3VzcqBDc3BjoER1dWlkoERtZXRhoENzaWdYILpUoP5EpFvxcxYUpDiRBqzTtXWJIapMXxRmIdGSGwB_"
+	// token := "p2F2AmF0GmKz01djdHRsGQPoY3Jlc6VkY2hhbqFqbXktY2hhbm5lbANjZ3JwoGN1c3KgY3NwY6BkdXVpZKBjcGF0pWRjaGFuoGNncnCgY3VzcqBjc3BjoGR1dWlkoGRtZXRhoGNzaWdYIPpVQHg_pWZ87RuYfwWlCzFjbj-vhCPVC0NdopcnUoNG"
+	// token := "qGNyZXOlZGNoYW6ham15LWNoYW5uZWwDY2dycKBkdXVpZKBjdXNyoGNzcGOgY3BhdKVkY2hhbqBjZ3JwoGR1dWlkoGN1c3KgY3NwY6BkbWV0YaBjc2lnWCD6VUB4P6VmfO0bmH8FpQsxY24_r4Qj1QtDXaKXJ1KDRmF2AmF0GmKz01djdHRsGQPoZHV1aWRg"
+
+	wpsToken, err := ParseToken(token)
+	if err != nil {
+		t.Fatal(err)
+	}
+
+	t.Logf("wpsToken: %v\n", wpsToken)
+}

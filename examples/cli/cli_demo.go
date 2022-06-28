@@ -61,8 +61,24 @@ func connect() {
 	config.UseRandomInitializationVector = true
 	config.Origin = "localhost:11443"
 	config.Secure = false
+	config.SecretKey = "sec-c-MTdiNTE1NDgtMWQ1Yy00NTA5LTlhZGUtMThmMzJlOTE0Nzlh" // TEST
 
 	pn = webpubsub.NewWebPubSub(config)
+
+	ch := make(map[string]webpubsub.ChannelPermissions)
+	ch["my-channel"] = webpubsub.ChannelPermissions{
+		Read:   true,
+		Write:  true,
+		Delete: false,
+	}
+	res, _, err := pn.GrantToken().TTL(1000).
+		Channels(ch).
+		Execute()
+
+	fmt.Println(res)
+	fmt.Println("fuckyou")
+
+	readCommand("pub false true false \"my-message\" my-channel")
 
 	// for subscribe event
 	listener := webpubsub.NewListener()
@@ -73,7 +89,7 @@ func connect() {
 			case status := <-listener.Status:
 				fmt.Print(fmt.Sprintf("%s Subscribe Response:", outputPrefix))
 				fmt.Println(" --- STATUS: ")
-				fmt.Println(fmt.Sprintf("%s status.Error %s", outputPrefix, status.Error))
+				fmt.Println(fmt.Sprintf("%s status.Error %v", outputPrefix, status.Error))
 				fmt.Println(fmt.Sprintf("%s status.Category %s", outputPrefix, status.Category))
 				fmt.Println(fmt.Sprintf("%s status.Operation %s", outputPrefix, status.Operation))
 				fmt.Println(fmt.Sprintf("%s status.StatusCode %d", outputPrefix, status.StatusCode))
@@ -1485,6 +1501,10 @@ func granttoken(args []string) {
 	}
 
 	res, _, err := pn.GrantToken().TTL(ttl).
+		Channels(ch).
+		ChannelsPattern(chPat).
+		ChannelGroups(cg).
+		ChannelGroupsPattern(cgPat).
 		Execute()
 
 	fmt.Println(res)
